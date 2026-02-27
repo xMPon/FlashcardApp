@@ -1,0 +1,240 @@
+[
+    {
+        "question": "What is the primary purpose of a confusion matrix?",
+        "answer": "A confusion matrix provides a foundation for evaluating classification models by showing all correct and incorrect predictions. It displays True Positives, True Negatives, False Positives, and False Negatives, from which all other metrics can be derived.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 2,
+        "tags": ["confusion_matrix", "classification", "fundamentals"]
+    },
+    {
+        "question": "Define Precision in classification.",
+        "answer": "Precision = TP / (TP + FP). It measures the proportion of positive predictions that are actually correct. In other words: 'Of all samples we predicted as positive, how many were actually positive?' Use when false positives are costly.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 2,
+        "tags": ["precision", "classification_metrics"]
+    },
+    {
+        "question": "Define Recall in classification.",
+        "answer": "Recall = TP / (TP + FN). It measures the proportion of actual positive cases that we correctly identified. In other words: 'Of all samples that actually were positive, how many did we catch?' Use when false negatives are costly.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 2,
+        "tags": ["recall", "classification_metrics"]
+    },
+    {
+        "question": "What is the F1 Score and when should it be used?",
+        "answer": "F1 = 2 × (Precision × Recall) / (Precision + Recall). The F1 score is the harmonic mean of precision and recall. Use it when you need both metrics equally balanced, or when you want a single metric that considers both false positives and false negatives.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["f1_score", "classification_metrics"]
+    },
+    {
+        "question": "Explain macro-averaging vs micro-averaging for multi-class metrics.",
+        "answer": "Macro-averaging: Calculate metric for each class independently, then average. Treats all classes equally regardless of frequency. Use when all classes are equally important. Micro-averaging: Sum TP, FP, FN across all classes, then calculate. Weighted by class frequency. Use when class frequency matters.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["multi_class", "averaging", "classification"]
+    },
+    {
+        "question": "What does ROC curve stand for and what does it show?",
+        "answer": "ROC = Receiver Operating Characteristic. It plots True Positive Rate (Recall) vs False Positive Rate (1 - Specificity) at different classification thresholds. A diagonal line represents random classifier. Above diagonal = good classifier. Below diagonal = worse than random.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["roc_curve", "classification_metrics"]
+    },
+    {
+        "question": "What is AUC and how do you interpret it?",
+        "answer": "AUC (Area Under Curve) is the area under the ROC curve. Interpretation: AUC=1 is perfect, AUC=0.5 is random, AUC<0.5 is worse than random. Range [0,1]. Higher is better. Best used with imbalanced datasets as it's threshold-independent.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["auc", "roc_curve", "classification"]
+    },
+    {
+        "question": "Define accuracy and explain its limitation.",
+        "answer": "Accuracy = (TP + TN) / (TP + TN + FP + FN). It's the proportion of correct predictions overall. Limitation: Misleading with imbalanced datasets - if one class dominates, high accuracy is easy to achieve without good performance on minority class.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 2,
+        "tags": ["accuracy", "classification_metrics"]
+    },
+    {
+        "question": "What is Mean Squared Error (MSE) in regression?",
+        "answer": "MSE = (1/n) × Σ(y_i - ŷ_i)². It measures average squared differences between actual and predicted values. Always positive. Range [0,∞). Lower is better. Disadvantage: Penalizes large errors heavily (squared term), so extreme outliers have huge impact.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 2,
+        "tags": ["mse", "regression", "error_metrics"]
+    },
+    {
+        "question": "What is the advantage of RMSE over MSE?",
+        "answer": "RMSE = √MSE. The main advantage is that RMSE has the same units as the target variable y, making it more interpretable than MSE. For example, if predicting prices in dollars, RMSE tells you average prediction error in dollars, not squared dollars.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 2,
+        "tags": ["rmse", "mse", "regression"]
+    },
+    {
+        "question": "Interpret R² Score values.",
+        "answer": "R² = 1 - [Σ(y_i - ŷ_i)² / Σ(y_i - ȳ)²]. Interpretation: R²=1 = perfect, R²=0 = model as good as predicting mean, R²<0 = model worse than mean. Range (-∞, 1]. Measures proportion of variance explained by model.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 3,
+        "tags": ["r_squared", "regression", "coefficient_determination"]
+    },
+    {
+        "question": "What is Specificity and how does it relate to the confusion matrix?",
+        "answer": "Specificity = TN / (TN + FP). It measures the proportion of actual negative cases that we correctly identified. In other words: 'Of all samples that were actually negative, how many did we correctly identify as negative?' It's also called True Negative Rate.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 2,
+        "tags": ["specificity", "tnr", "classification"]
+    },
+    {
+        "question": "Explain the relationship between sensitivity and recall.",
+        "answer": "Sensitivity and Recall are the same metric! Both equal TP / (TP + FN). They measure the proportion of actual positive cases we correctly identified. The term 'sensitivity' is often used in medical/healthcare contexts, while 'recall' is common in machine learning.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["sensitivity", "recall", "synonyms"]
+    },
+    {
+        "question": "When should you use Precision over Recall?",
+        "answer": "Use Precision when false positives are more costly than false negatives. Examples: spam filters (false positive = important email marked spam), fraud detection (false positive = customer accused of fraud). You want to minimize false alarms even if you miss some true cases.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["precision", "cost_analysis", "decision_making"]
+    },
+    {
+        "question": "When should you use Recall over Precision?",
+        "answer": "Use Recall when false negatives are more costly than false positives. Examples: disease screening (false negative = missed cancer), bank fraud (false negative = missed fraud). You want to catch all true cases even if you get some false alarms.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["recall", "cost_analysis", "decision_making"]
+    },
+    {
+        "question": "What is the Precision-Recall Trade-off?",
+        "answer": "Precision and recall typically have an inverse relationship controlled by classification threshold. Lowering threshold: increases recall but decreases precision (catch more, but more false positives). Raising threshold: increases precision but decreases recall (fewer false alarms, but miss more cases). Choose based on your application's cost structure.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["tradeoff", "threshold", "precision_recall"]
+    },
+    {
+        "question": "How do you construct and interpret a confusion matrix for a 3-class problem?",
+        "answer": "A 3×3 matrix with rows=actual classes, columns=predicted classes. Diagonal elements (TP) = correct predictions for each class. Off-diagonal elements = misclassifications. Example: cm[0,1] = samples of class 0 predicted as class 1. Use to calculate per-class precision/recall.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["confusion_matrix", "multi_class"]
+    },
+    {
+        "question": "Define Weighted Averaging for multi-class metrics.",
+        "answer": "Weighted averaging calculates each class's metric independently, then averages by class frequency (support). Metric_weighted = Σ(Metric_c × support_c) / total_samples. This is useful when classes are imbalanced and class frequency should influence the overall metric.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["multi_class", "averaging", "imbalanced_data"]
+    },
+    {
+        "question": "What is a Threshold in ROC curves and how does it affect TPR and FPR?",
+        "answer": "Threshold is the decision boundary for classification (default 0.5 for probability). Lowering threshold: more samples classified as positive → increases both TPR and FPR. Raising threshold: fewer samples classified as positive → decreases both TPR and FPR. ROC curve shows this relationship across all thresholds.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["roc_curve", "threshold", "classification"]
+    },
+    {
+        "question": "How do you handle imbalanced datasets in classification?",
+        "answer": "Strategies: (1) Use appropriate metrics: AUC-ROC, F1, precision/recall instead of accuracy. (2) Adjust class weights (penalize minority class errors more). (3) Resample: oversample minority class or undersample majority class. (4) Use threshold optimization to balance TPR and FPR.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["imbalanced_data", "class_weights", "resampling"]
+    },
+    {
+        "question": "Explain the difference between Binary and Multiclass ROC-AUC.",
+        "answer": "Binary ROC-AUC: Single curve comparing TPR vs FPR for positive vs negative class. Multiclass ROC-AUC: One-vs-Rest approach creates one ROC curve per class. Then average (macro or weighted). Binary: straightforward. Multiclass: more complex but extends concept to multiple classes.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["roc_auc", "binary", "multiclass"]
+    },
+    {
+        "question": "What is Mean Absolute Error (MAE) and how does it compare to RMSE?",
+        "answer": "MAE = (1/n) × Σ|y_i - ŷ_i|. Like RMSE but uses absolute value instead of squared difference. Advantage: Same units as target, less sensitive to outliers than RMSE. Disadvantage: Not differentiable at zero. Use MAE when outliers should have less impact.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 3,
+        "tags": ["mae", "regression", "error_metrics"]
+    },
+    {
+        "question": "When can R² be negative and what does it mean?",
+        "answer": "R² can be negative when model performs worse than predicting the mean value. Example: R²=-0.5 means model errors are 150% of baseline variance. Indicates severely overfitting or wrong model choice. In practice, negative R² signals you should try a different approach.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 3,
+        "tags": ["r_squared", "negative", "overfitting"]
+    },
+    {
+        "question": "What is Adjusted R² and why is it used?",
+        "answer": "Adjusted R² penalizes adding irrelevant features to model. Formula: 1 - [(1-R²)(n-1)/(n-p-1)] where p=number of features, n=samples. Increases only if new feature improves model meaningfully. Better than R² for comparing models with different numbers of features.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 4,
+        "tags": ["adjusted_r_squared", "feature_selection"]
+    },
+    {
+        "question": "Explain Cross-Validation in model evaluation.",
+        "answer": "Cross-validation splits data into k folds. Train on k-1 folds, test on 1 fold, repeat k times. Calculates average performance across all folds. Advantages: Uses all data for training and testing, reduces variance, detects overfitting. Common: k=5 or k=10.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["cross_validation", "evaluation", "best_practices"]
+    },
+    {
+        "question": "What is the difference between Train Set, Validation Set, and Test Set?",
+        "answer": "Train Set: Used to fit model. Validation Set: Used during training to tune hyperparameters and select models. Test Set: Never seen during training, used for final performance evaluation. Typical split: 60% train, 20% validation, 20% test.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["train_test_split", "overfitting", "best_practices"]
+    },
+    {
+        "question": "What is Overfitting and how does it affect classification metrics?",
+        "answer": "Overfitting: Model learns training data too well including noise, poor generalization to new data. Signs: High training accuracy, low test accuracy. High training recall with low test recall. Can have perfect training metrics but terrible test metrics. Solution: Use validation set, regularization, simpler model.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["overfitting", "generalization", "train_test_split"]
+    },
+    {
+        "question": "What is Underfitting and how to detect it?",
+        "answer": "Underfitting: Model too simple to capture data patterns. Signs: Low accuracy on both training and test sets. Same poor performance everywhere. Causes: Model too simple, insufficient features, not enough training. Solution: More complex model, add features, train longer.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["underfitting", "bias_variance", "model_complexity"]
+    },
+    {
+        "question": "How do you choose between multiple models using metrics?",
+        "answer": "1. Define priority: accuracy? precision? recall? AUC? 2. Calculate relevant metrics on test set. 3. Compare: model with best metric on test set (not train set). 4. Consider: computational cost, interpretability, training time. 5. Cross-validate to confirm results are stable.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["model_selection", "evaluation", "best_practices"]
+    },
+    {
+        "question": "What is the Bias-Variance Tradeoff in model evaluation?",
+        "answer": "Bias: Error from oversimplified model (underfitting). Variance: Error from overly complex model (overfitting). Total Error = Bias² + Variance + Noise. Goal: Balance both. Low bias high variance = overfitted. High bias low variance = underfitted. Optimal = sweet spot minimizing total error.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["bias_variance", "tradeoff", "model_complexity"]
+    },
+    {
+        "question": "When is Accuracy the right metric to use?",
+        "answer": "Use accuracy when: (1) Classes are balanced (roughly equal frequency). (2) All misclassifications have equal cost. (3) You need overall correctness. Don't use accuracy when: Classes imbalanced, different error costs, or minority class matters more. In those cases prefer: AUC-ROC, F1, precision/recall.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 3,
+        "tags": ["accuracy", "balanced_data", "metric_selection"]
+    },
+    {
+        "question": "Explain how to interpret a Precision-Recall Curve.",
+        "answer": "Plots Precision vs Recall at different thresholds. Ideal: upper right (high precision, high recall). Random classifier: horizontal line around baseline precision. Higher curve = better model. Use when: class imbalance exists or you need to optimize one metric over the other.",
+        "category": "Week 13 - Classification Metrics",
+        "difficulty": 4,
+        "tags": ["precision_recall_curve", "threshold", "imbalanced"]
+    },
+    {
+        "question": "What is Residual Analysis in regression evaluation?",
+        "answer": "Residuals = actual values - predicted values. Analysis: Plot residuals vs predicted values. Should be randomly scattered around zero (no pattern). If pattern exists: linear assumption violated. If heteroscedastic (variance changes): try transformation. Identifies model inadequacy.",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 4,
+        "tags": ["regression", "residuals", "diagnostics"]
+    },
+    {
+        "question": "Compare MSE, RMSE, and MAE - which should you use?",
+        "answer": "MSE: Penalizes large errors heavily, mathematically convenient. RMSE: Same units as target, interpretable, sensitive to outliers. MAE: Robust to outliers, simple interpretation. Use RMSE for: predictions where large errors are critical. Use MAE for: predictions with frequent outliers. Use MSE for: optimization (math simplicity).",
+        "category": "Week 13 - Regression Metrics",
+        "difficulty": 4,
+        "tags": ["mse", "rmse", "mae", "comparison"]
+    }
+]
