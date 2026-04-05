@@ -1,5 +1,8 @@
 """
 Core Flashcard class and data structures
+
+Defines the Flashcard data model, including all fields, serialization,
+accuracy tracking, and review logic. Used throughout the app for all card operations.
 """
 
 from datetime import datetime, timedelta
@@ -9,7 +12,8 @@ import json
 
 class Flashcard:
     """
-    Represents a single flashcard with question, answer, and study metadata
+    Represents a single flashcard with question, answer, and study metadata.
+    Provides methods for serialization, accuracy tracking, and review updates.
     """
 
     def __init__(
@@ -25,6 +29,9 @@ class Flashcard:
         review_count: int = 0,
         difficulty_rating: int = 3
     ):
+        """
+        Initialize a Flashcard object with all metadata and stats.
+        """
         self.card_id = card_id
         self.question = question
         self.answer = answer
@@ -35,11 +42,13 @@ class Flashcard:
         self.last_reviewed = last_reviewed
         self.review_count = review_count
         self.difficulty_rating = difficulty_rating  # User's perceived difficulty (1-5)
-        self.times_correct = 0
-        self.times_incorrect = 0
+        self.times_correct = 0  # Number of correct answers
+        self.times_incorrect = 0  # Number of incorrect answers
 
     def to_dict(self) -> Dict[str, Any]:
-        """Convert flashcard to dictionary for JSON serialization"""
+        """
+        Convert flashcard to dictionary for JSON serialization.
+        """
         return {
             'card_id': self.card_id,
             'question': self.question,
@@ -57,7 +66,9 @@ class Flashcard:
 
     @staticmethod
     def from_dict(data: Dict[str, Any]) -> 'Flashcard':
-        """Create flashcard from dictionary"""
+        """
+        Create a Flashcard object from a dictionary (typically loaded from JSON).
+        """
         card = Flashcard(
             card_id=data.get('card_id'),
             question=data.get('question'),
@@ -75,28 +86,40 @@ class Flashcard:
         return card
 
     def mark_correct(self):
-        """Mark card as answered correctly"""
+        """
+        Mark card as answered correctly. Updates stats and last reviewed date.
+        """
         self.times_correct += 1
         self.review_count += 1
         self.last_reviewed = datetime.now().isoformat()
 
     def mark_incorrect(self):
-        """Mark card as answered incorrectly"""
+        """
+        Mark card as answered incorrectly. Updates stats and last reviewed date.
+        """
         self.times_incorrect += 1
         self.review_count += 1
         self.last_reviewed = datetime.now().isoformat()
 
     def get_accuracy(self) -> float:
-        """Get accuracy percentage"""
+        """
+        Get accuracy percentage for this card (0-100).
+        """
         total = self.times_correct + self.times_incorrect
         if total == 0:
             return 0.0
         return (self.times_correct / total) * 100
 
     def get_next_review_date(self, interval_days: int) -> str:
-        """Calculate next review date"""
+        """
+        Calculate next review date based on spaced repetition interval.
+        Returns ISO date string.
+        """
         next_date = datetime.now() + timedelta(days=interval_days)
         return next_date.isoformat()
 
     def __repr__(self) -> str:
+        """
+        String representation for debugging.
+        """
         return f"Flashcard(id={self.card_id}, question={self.question[:30]}...)"

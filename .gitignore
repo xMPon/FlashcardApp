@@ -36,7 +36,7 @@ env/
 # Application data (optional - uncomment to exclude from git)
 # data/flashcards.json
 # data/progress.json
-# logs/
+logs/
 data/agent.md
 
 # System files
