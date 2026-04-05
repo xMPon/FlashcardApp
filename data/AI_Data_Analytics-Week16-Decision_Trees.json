@@ -1,0 +1,366 @@
+[
+  {
+    "question": "What is a decision tree?",
+    "answer": "A decision tree is a flowchart-like structure used for classification and regression, where each node represents a decision based on a feature.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["decision_tree", "classification", "regression"]
+  },
+  {
+    "question": "What is the purpose of splitting in a decision tree?",
+    "answer": "Splitting divides the dataset into subsets based on feature values to increase the homogeneity of the resulting nodes.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["splitting", "decision_tree"]
+  },
+  {
+    "question": "What is overfitting in decision trees?",
+    "answer": "Overfitting occurs when a decision tree becomes too complex and captures noise in the training data, reducing generalization.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["overfitting", "decision_tree"]
+  },
+  {
+    "question": "What is pruning in decision trees?",
+    "answer": "Pruning is the process of removing sections of a decision tree that provide little power to classify instances, helping to prevent overfitting.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["pruning", "decision_tree"]
+  },
+  {
+    "question": "What is the Gini impurity?",
+    "answer": "Gini impurity is a measure of how often a randomly chosen element would be incorrectly labeled if it was randomly labeled according to the distribution of labels in the subset.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 3,
+    "tags": ["gini_impurity", "decision_tree"]
+  },
+  {
+    "question": "What is entropy in the context of decision trees?",
+    "answer": "Entropy is a measure of impurity or disorder used to determine the best attribute for splitting the data.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["entropy", "decision_tree"]
+  },
+  {
+    "question": "How does the decision tree algorithm choose the best split?",
+    "answer": "It selects the split that results in the largest reduction in impurity (e.g., Gini or entropy).",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["split", "impurity"]
+  },
+  {
+    "question": "What is the role of the max_depth parameter in sklearn's DecisionTreeClassifier?",
+    "answer": "max_depth limits the maximum depth of the tree, helping to control overfitting.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["max_depth", "sklearn"]
+  },
+  {
+    "question": "What does the min_samples_split parameter control?",
+    "answer": "It sets the minimum number of samples required to split an internal node.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["min_samples_split", "sklearn"]
+  },
+  {
+    "question": "What is the effect of setting max_leaf_nodes in a decision tree?",
+    "answer": "It restricts the number of leaf nodes, which can help prevent overfitting.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["max_leaf_nodes", "sklearn"]
+  },
+  {
+    "question": "What is a leaf node in a decision tree?",
+    "answer": "A leaf node is a terminal node that assigns a class label or value to the input data.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["leaf_node", "decision_tree"]
+  },
+  {
+    "question": "What is the difference between classification and regression trees?",
+    "answer": "Classification trees predict discrete labels, while regression trees predict continuous values.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["classification", "regression"]
+  },
+  {
+    "question": "How does sklearn's DecisionTreeRegressor differ from DecisionTreeClassifier?",
+    "answer": "DecisionTreeRegressor is used for regression tasks and splits nodes to minimize mean squared error.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["regressor", "sklearn"]
+  },
+  {
+    "question": "What is the purpose of the criterion parameter in sklearn's DecisionTreeClassifier?",
+    "answer": "It specifies the function to measure the quality of a split (e.g., 'gini' or 'entropy').",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["criterion", "sklearn"]
+  },
+  {
+    "question": "What is the main advantage of decision trees?",
+    "answer": "They are easy to interpret and visualize, and can handle both numerical and categorical data.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["advantage", "interpretability"]
+  },
+  {
+    "question": "What is a disadvantage of decision trees?",
+    "answer": "They can easily overfit the training data if not properly constrained.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["disadvantage", "overfitting"]
+  },
+  {
+    "question": "How can you visualize a decision tree in Python?",
+    "answer": "You can use sklearn's tree.plot_tree or export_text functions to visualize the tree structure.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["visualization", "sklearn"]
+  },
+  {
+    "question": "What is the effect of restricting tree depth on model performance?",
+    "answer": "Restricting depth can reduce overfitting but may also cause underfitting if set too low.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["depth", "overfitting", "underfitting"]
+  },
+  {
+    "question": "What is the difference between entropy and Gini impurity?",
+    "answer": "Both measure impurity, but entropy uses a logarithmic formula while Gini uses squared probabilities.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["entropy", "gini"]
+  },
+  {
+    "question": "What is the formula for Gini impurity?",
+    "answer": "Gini impurity = 1 - sum(p_i^2) for all classes i.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["gini", "formula"]
+  },
+  {
+    "question": "What is the formula for entropy?",
+    "answer": "Entropy = -sum(p_i * log2(p_i)) for all classes i.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["entropy", "formula"]
+  },
+  {
+    "question": "What is information gain?",
+    "answer": "Information gain is the reduction in entropy or impurity after a dataset is split on an attribute.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["information_gain", "entropy"]
+  },
+  {
+    "question": "How do you interpret a branch in a decision tree?",
+    "answer": "Each branch represents a sequence of decisions based on feature values, leading to a prediction at the leaf node.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["branch", "interpretation"]
+  },
+  {
+    "question": "What is the effect of min_impurity_decrease in sklearn's DecisionTreeClassifier?",
+    "answer": "It sets a threshold for the minimum impurity decrease required to split a node.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["min_impurity_decrease", "sklearn"]
+  },
+  {
+    "question": "What is a random forest in relation to decision trees?",
+    "answer": "A random forest is an ensemble of decision trees, where each tree is trained on a random subset of the data and features.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["random_forest", "ensemble"]
+  },
+  {
+    "question": "How can you prevent overfitting in decision trees?",
+    "answer": "By pruning, restricting tree depth, limiting leaf nodes, or setting minimum samples per split.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["overfitting", "prevention"]
+  },
+  {
+    "question": "What is the sklearn function to fit a decision tree classifier?",
+    "answer": "DecisionTreeClassifier().fit(X, y)",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["sklearn", "fit"]
+  },
+  {
+    "question": "What is the sklearn function to predict with a decision tree?",
+    "answer": "model.predict(X_test)",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["sklearn", "predict"]
+  },
+  {
+    "question": "What is the sklearn function to plot a decision tree?",
+    "answer": "tree.plot_tree(model, feature_names=features, class_names=classes)",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["sklearn", "plot_tree"]
+  },
+  {
+    "question": "What is the sklearn function to export a text representation of a tree?",
+    "answer": "export_text(model, feature_names=features)",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["sklearn", "export_text"]
+  },
+  {
+    "question": "What is the effect of noisy data on decision trees?",
+    "answer": "Noisy data can cause the tree to grow too complex and overfit the training data.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["noise", "overfitting"]
+  },
+  {
+    "question": "What is a feature importance score in decision trees?",
+    "answer": "It quantifies the contribution of each feature to the predictive power of the tree.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["feature_importance", "decision_tree"]
+  },
+  {
+    "question": "How can you extract feature importances from a trained sklearn decision tree?",
+    "answer": "Use the model.feature_importances_ attribute.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["feature_importances_", "sklearn"]
+  },
+  {
+    "question": "What is the main use of decision trees in data science?",
+    "answer": "They are used for both classification and regression tasks, and as base learners in ensemble methods.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["use", "data_science"]
+  },
+  {
+    "question": "What is the effect of correlated features on decision trees?",
+    "answer": "Correlated features can lead to instability in the tree structure, as the tree may split on either feature.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["correlation", "features"]
+  },
+  {
+    "question": "What is a surrogate split in decision trees?",
+    "answer": "A surrogate split is an alternative split used when data for the primary splitting variable is missing.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 3,
+    "tags": ["surrogate_split", "missing_data"]
+  },
+  {
+    "question": "What is the main difference between a shallow and a deep decision tree?",
+    "answer": "A shallow tree has few levels and is less likely to overfit, while a deep tree has many levels and can capture more complex patterns but may overfit.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["shallow", "deep"]
+  },
+  {
+    "question": "What is the effect of class imbalance on decision tree performance?",
+    "answer": "Class imbalance can bias the tree towards the majority class, reducing performance on minority classes.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["class_imbalance", "performance"]
+  },
+  {
+    "question": "How can you handle missing values in decision tree training?",
+    "answer": "You can use surrogate splits or impute missing values before training.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["missing_values", "imputation"]
+  },
+  {
+    "question": "What is the main computational cost in training decision trees?",
+    "answer": "Finding the best split at each node, which can be expensive for large datasets.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["computational_cost", "split"]
+  },
+  {
+    "question": "What is the main purpose of using a validation set with decision trees?",
+    "answer": "To tune hyperparameters and assess generalization performance.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["validation_set", "generalization"]
+  },
+  {
+    "question": "What is the effect of increasing min_samples_leaf in sklearn's DecisionTreeClassifier?",
+    "answer": "It increases the minimum number of samples required to be at a leaf node, which can help prevent overfitting.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["min_samples_leaf", "sklearn"]
+  },
+  {
+    "question": "What is the difference between pre-pruning and post-pruning?",
+    "answer": "Pre-pruning stops tree growth early using constraints, while post-pruning removes branches from a fully grown tree.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["pre_pruning", "post_pruning"]
+  },
+  {
+    "question": "What is a decision rule in a decision tree?",
+    "answer": "A decision rule is an if-then statement derived from the path from the root to a leaf node.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["decision_rule", "if_then"]
+  },
+  {
+    "question": "How can you write a branch of a decision tree as an if-then rule?",
+    "answer": "By following the sequence of splits from the root to a leaf and expressing each split as a condition.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 1,
+    "tags": ["if_then", "branch"]
+  },
+  {
+    "question": "What is the main use of decision trees in ensemble methods?",
+    "answer": "They serve as base learners in bagging and boosting algorithms like random forests and AdaBoost.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["ensemble", "base_learner"]
+  },
+  {
+    "question": "What is the main difference between bagging and boosting with decision trees?",
+    "answer": "Bagging trains trees in parallel on random subsets, while boosting trains trees sequentially, each focusing on previous errors.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["bagging", "boosting"]
+  },
+  {
+    "question": "What is the main advantage of using shallow trees in boosting?",
+    "answer": "Shallow trees (stumps) reduce overfitting and allow boosting to focus on correcting errors.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["shallow_tree", "boosting"]
+  },
+  {
+    "question": "What is the main limitation of decision trees for high-dimensional data?",
+    "answer": "They may overfit and become unstable when there are many irrelevant features.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["high_dimensional", "limitation"]
+  },
+  {
+    "question": "What is the main difference between a decision tree and a rule-based classifier?",
+    "answer": "A decision tree generates rules from data, while a rule-based classifier uses predefined rules.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["rule_based", "difference"]
+  },
+  {
+    "question": "What is the main advantage of using decision trees for feature selection?",
+    "answer": "They provide feature importance scores that help identify the most relevant features.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["feature_selection", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using decision trees for regression?",
+    "answer": "They can produce piecewise constant predictions and may not generalize well to unseen data.",
+    "category": "AI_Data_Analytics-Week16-Decision Trees",
+    "difficulty": 2,
+    "tags": ["regression", "disadvantage"]
+  }
+]

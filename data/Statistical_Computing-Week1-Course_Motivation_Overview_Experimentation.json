@@ -1,0 +1,345 @@
+[
+  {
+    "question": "What is a statistical population?",
+    "answer": "A statistical population is the complete set of items or events of interest in a statistical study, defined by the context of the statistical question being asked.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["population", "statistics"]
+  },
+  {
+    "question": "What is a sample in statistics?",
+    "answer": "A sample is a subset of a population, selected for analysis to make inferences about the population.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["sample", "statistics"]
+  },
+  {
+    "question": "What is the difference between a parameter and a statistic?",
+    "answer": "A parameter describes a characteristic of a population, while a statistic describes a characteristic of a sample.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["parameter", "statistic"]
+  },
+  {
+    "question": "What are the three axioms of probability?",
+    "answer": "(1) Probability of any event is non-negative. (2) Probability of the sample space is 1. (3) For mutually exclusive events, the probability of their union is the sum of their probabilities.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["probability", "axioms"]
+  },
+  {
+    "question": "What is a random variable?",
+    "answer": "A random variable is a variable whose possible values are numerical outcomes of a random phenomenon.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["random_variable", "probability"]
+  },
+  {
+    "question": "What is the main focus of the course Statistical Computing and Empirical Methods?",
+    "answer": "The course focuses on applied statistics and empirical methods for analyzing and interpreting data in various domains.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["course", "overview"]
+  },
+  {
+    "question": "Who is the main audience for this course?",
+    "answer": "Students from multiple cohorts including Data Science, Business Analytics, Digital Health, Engineering Mathematics, and FinTech.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["audience", "cohorts"]
+  },
+  {
+    "question": "What are the three main components of the Data Science Venn diagram?",
+    "answer": "Hacking skills (computing), math and statistics knowledge, and substantive expertise.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["venn", "data_science"]
+  },
+  {
+    "question": "What is the 'danger zone' in the Data Science Venn diagram?",
+    "answer": "The intersection of hacking skills and substantive expertise without statistics, leading to potentially misleading models.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["danger_zone", "venn"]
+  },
+  {
+    "question": "Why is statistical knowledge important in data science?",
+    "answer": "It ensures that models and analyses are meaningful and not misleading, providing proper interpretation of data.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["statistics", "data_science"]
+  },
+  {
+    "question": "What is AB testing?",
+    "answer": "AB testing, or split testing, is a method of running online experiments to compare the impact of different alternatives on a metric.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["ab_testing", "experimentation"]
+  },
+  {
+    "question": "How does randomization play a role in AB testing?",
+    "answer": "Randomization ensures that users are assigned to different groups in an unbiased way, making results more reliable.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["randomization", "ab_testing"]
+  },
+  {
+    "question": "Who invented the concept of comparative experiments?",
+    "answer": "Ronald Fisher is credited with inventing comparative experiments in the context of agricultural research.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["fisher", "experimentation"]
+  },
+  {
+    "question": "What is the main methodological principle behind AB tests?",
+    "answer": "They are simple comparative experiments that use randomization to compare groups.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["ab_testing", "methodology"]
+  },
+  {
+    "question": "What is the purpose of empirical methods in data science?",
+    "answer": "To use data and experiments to draw conclusions and actionable insights in various domains.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["empirical_methods", "data_science"]
+  },
+  {
+    "question": "What is a hypothesis in the context of experimentation?",
+    "answer": "A hypothesis is a testable statement or prediction about a relationship between variables.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["hypothesis", "experimentation"]
+  },
+  {
+    "question": "What is the difference between observational and experimental studies?",
+    "answer": "Observational studies observe subjects without intervention, while experimental studies involve manipulation of variables.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["observational", "experimental"]
+  },
+  {
+    "question": "What is the role of teaching support roles (TSRs) in this course?",
+    "answer": "TSRs assist with labs and practical sessions, supporting students during hands-on activities.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["tsr", "support"]
+  },
+  {
+    "question": "Why is it important to translate domain-specific problems into mathematical language?",
+    "answer": "It allows data scientists to apply computing and algebra to solve complex problems and extract insights.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["translation", "math"]
+  },
+  {
+    "question": "What is the main risk of using machine learning models without statistical understanding?",
+    "answer": "Models may produce misleading or meaningless results if the underlying statistical assumptions are not understood.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 3,
+    "tags": ["risk", "ml", "statistics"]
+  },
+  {
+    "question": "What is the purpose of a control group in an experiment?",
+    "answer": "A control group serves as a baseline to compare the effects of the experimental treatment.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["control_group", "experimentation"]
+  },
+  {
+    "question": "What is meant by 'applied statistics'?",
+    "answer": "Applied statistics involves using statistical methods to analyze real-world data and solve practical problems.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["applied_statistics", "real_world"]
+  },
+  {
+    "question": "What is the difference between qualitative and quantitative data?",
+    "answer": "Qualitative data describes categories or qualities, while quantitative data represents numerical values.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["qualitative", "quantitative"]
+  },
+  {
+    "question": "What is the importance of data wrangling in empirical methods?",
+    "answer": "Data wrangling prepares raw data for analysis by cleaning, transforming, and organizing it.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["data_wrangling", "empirical_methods"]
+  },
+  {
+    "question": "What is a variable in statistics?",
+    "answer": "A variable is any characteristic, number, or quantity that can be measured or counted.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["variable", "statistics"]
+  },
+  {
+    "question": "What is the difference between independent and dependent variables?",
+    "answer": "Independent variables are manipulated to observe their effect on dependent variables, which are measured outcomes.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["independent", "dependent"]
+  },
+  {
+    "question": "What is the purpose of random sampling?",
+    "answer": "Random sampling ensures that every member of the population has an equal chance of being selected, reducing bias.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["random_sampling", "bias"]
+  },
+  {
+    "question": "What is a confounding variable?",
+    "answer": "A confounding variable is an outside influence that affects both the independent and dependent variables, potentially distorting results.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 3,
+    "tags": ["confounding", "variables"]
+  },
+  {
+    "question": "What is the difference between a census and a sample survey?",
+    "answer": "A census collects data from every member of the population, while a sample survey collects data from a subset.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["census", "survey"]
+  },
+  {
+    "question": "What is the main advantage of using experiments over observational studies?",
+    "answer": "Experiments can establish causality by controlling variables and using randomization.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["experiments", "causality"]
+  },
+  {
+    "question": "What is meant by 'actionable insights' in data science?",
+    "answer": "Actionable insights are conclusions from data analysis that can inform decisions or prompt actions.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["insights", "data_science"]
+  },
+  {
+    "question": "What is the role of computing in modern statistics?",
+    "answer": "Computing enables the analysis of large datasets and the implementation of complex statistical methods.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["computing", "statistics"]
+  },
+  {
+    "question": "What is the purpose of using RMarkdown in statistical analysis?",
+    "answer": "RMarkdown allows for reproducible research by combining code, results, and narrative in a single document.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["rmarkdown", "reproducibility"]
+  },
+  {
+    "question": "What is meant by reproducible research?",
+    "answer": "Reproducible research ensures that analyses can be repeated and verified by others using the same data and methods.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["reproducibility", "research"]
+  },
+  {
+    "question": "What is a displayed equation in RMarkdown?",
+    "answer": "A displayed equation is a mathematical expression shown on its own line, typically using LaTeX syntax in RMarkdown.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["equation", "rmarkdown"]
+  },
+  {
+    "question": "What is the difference between inline and displayed equations in RMarkdown?",
+    "answer": "Inline equations appear within text, while displayed equations are centered on their own line for emphasis.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["inline", "displayed", "rmarkdown"]
+  },
+  {
+    "question": "What is the importance of notation in statistics?",
+    "answer": "Consistent notation helps communicate ideas clearly and avoids confusion in mathematical expressions.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["notation", "statistics"]
+  },
+  {
+    "question": "What is the set of all real numbers denoted by?",
+    "answer": "The set of all real numbers is denoted by $\\mathbb{R}$.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["real_numbers", "notation"]
+  },
+  {
+    "question": "What is the set of all natural numbers denoted by?",
+    "answer": "The set of all natural numbers is denoted by $\\mathbb{N}$.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["natural_numbers", "notation"]
+  },
+  {
+    "question": "What is the set of all rational numbers denoted by?",
+    "answer": "The set of all rational numbers is denoted by $\\mathbb{Q}$.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["rational_numbers", "notation"]
+  },
+  {
+    "question": "How do you escape the percent character in LaTeX math mode?",
+    "answer": "Use a backslash: $100 \\%$.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["latex", "percent"]
+  },
+  {
+    "question": "What is the main benefit of using lists in RMarkdown?",
+    "answer": "Lists help organize information hierarchically and improve document readability.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["lists", "rmarkdown"]
+  },
+  {
+    "question": "What is the difference between absolute and relative frequency?",
+    "answer": "Absolute frequency is the count of occurrences, while relative frequency is the proportion of occurrences.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["frequency", "statistics"]
+  },
+  {
+    "question": "What is a summary statistic?",
+    "answer": "A summary statistic is a single value that describes a characteristic of a dataset, such as mean or median.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 1,
+    "tags": ["summary_statistic", "dataset"]
+  },
+  {
+    "question": "What is the main goal of statistical inference?",
+    "answer": "To draw conclusions about a population based on information from a sample.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["inference", "population"]
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "answer": "Descriptive statistics summarize data, while inferential statistics make predictions or inferences about a population.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["descriptive", "inferential"]
+  },
+  {
+    "question": "What is a p-value?",
+    "answer": "A p-value is the probability of obtaining results at least as extreme as the observed results, assuming the null hypothesis is true.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 3,
+    "tags": ["p_value", "hypothesis"]
+  },
+  {
+    "question": "What is the null hypothesis?",
+    "answer": "The null hypothesis is a default statement that there is no effect or difference in an experiment.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["null_hypothesis", "experimentation"]
+  },
+  {
+    "question": "What is statistical significance?",
+    "answer": "Statistical significance indicates that an observed effect is unlikely to have occurred by chance alone.",
+    "category": "Statistical_Computing-Week1-Course_Motivation_Overview_Experimentation",
+    "difficulty": 2,
+    "tags": ["significance", "statistics"]
+  }
+]

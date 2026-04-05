@@ -1,0 +1,338 @@
+[
+  {
+    "question": "What is probability?",
+    "answer": "Probability is a measure of the likelihood that an event will occur, expressed as a number between 0 and 1.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["probability", "random_variables"]
+  },
+  {
+    "question": "What is a probability mass function (PMF)?",
+    "answer": "The PMF gives the probability that a discrete random variable is exactly equal to some value.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["pmf", "probability"]
+  },
+  {
+    "question": "What is a probability density function (PDF)?",
+    "answer": "The PDF describes the likelihood of a continuous random variable taking on a particular value.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["pdf", "probability"]
+  },
+  {
+    "question": "What is the law of large numbers?",
+    "answer": "The law of large numbers states that as the sample size increases, the sample mean approaches the population mean.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["law_of_large_numbers", "probability"]
+  },
+  {
+    "question": "What is data wrangling?",
+    "answer": "Data wrangling is the process of cleaning and transforming raw data into a usable format for analysis.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["data_wrangling", "data_cleaning"]
+  },
+  {
+    "question": "What are the three axioms of probability?",
+    "answer": "(1) Probability of any event is non-negative. (2) Probability of the sample space is 1. (3) For mutually exclusive events, the probability of their union is the sum of their probabilities.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["axioms", "probability"]
+  },
+  {
+    "question": "What is a discrete random variable?",
+    "answer": "A discrete random variable is one that can take on a countable number of possible values.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["discrete", "random_variable"]
+  },
+  {
+    "question": "What is a continuous random variable?",
+    "answer": "A continuous random variable can take on any value within a given range.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["continuous", "random_variable"]
+  },
+  {
+    "question": "What is a cumulative distribution function (CDF)?",
+    "answer": "The CDF gives the probability that a random variable is less than or equal to a certain value.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["cdf", "probability"]
+  },
+  {
+    "question": "What is statistical independence?",
+    "answer": "Two events are independent if the occurrence of one does not affect the probability of the other.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["independence", "probability"]
+  },
+  {
+    "question": "What is conditional probability?",
+    "answer": "Conditional probability is the probability of one event occurring given that another event has occurred.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["conditional", "probability"]
+  },
+  {
+    "question": "What is Bayes' theorem?",
+    "answer": "Bayes' theorem describes the probability of an event based on prior knowledge of conditions related to the event.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 3,
+    "tags": ["bayes", "theorem"]
+  },
+  {
+    "question": "What is the difference between a population and a sample?",
+    "answer": "A population is the entire set of items of interest, while a sample is a subset selected for analysis.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["population", "sample"]
+  },
+  {
+    "question": "What is the purpose of data cleaning?",
+    "answer": "Data cleaning removes errors and inconsistencies from data to improve its quality for analysis.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["data_cleaning", "wrangling"]
+  },
+  {
+    "question": "What is the difference between a PMF and a PDF?",
+    "answer": "A PMF applies to discrete random variables, while a PDF applies to continuous random variables.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["pmf", "pdf"]
+  },
+  {
+    "question": "What is the expected value of a random variable?",
+    "answer": "The expected value is the long-run average value of repetitions of the experiment it represents.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["expected_value", "random_variable"]
+  },
+  {
+    "question": "What is variance?",
+    "answer": "Variance measures the spread of a set of numbers; it is the expected value of the squared deviation from the mean.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["variance", "spread"]
+  },
+  {
+    "question": "What is standard deviation?",
+    "answer": "Standard deviation is the square root of the variance and measures the amount of variation in a dataset.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["standard_deviation", "spread"]
+  },
+  {
+    "question": "What is the difference between mutually exclusive and independent events?",
+    "answer": "Mutually exclusive events cannot occur together, while independent events do not affect each other's probabilities.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["mutually_exclusive", "independent"]
+  },
+  {
+    "question": "What is the sample space?",
+    "answer": "The sample space is the set of all possible outcomes of a random experiment.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["sample_space", "probability"]
+  },
+  {
+    "question": "What is an event in probability?",
+    "answer": "An event is a subset of the sample space, representing one or more outcomes of interest.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["event", "probability"]
+  },
+  {
+    "question": "What is the complement of an event?",
+    "answer": "The complement of an event is the set of all outcomes in the sample space that are not in the event.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["complement", "event"]
+  },
+  {
+    "question": "What is the union of two events?",
+    "answer": "The union of two events is the set of outcomes that are in either event or both.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["union", "event"]
+  },
+  {
+    "question": "What is the intersection of two events?",
+    "answer": "The intersection of two events is the set of outcomes that are in both events.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["intersection", "event"]
+  },
+  {
+    "question": "What is a joint probability?",
+    "answer": "Joint probability is the probability of two events occurring together.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["joint_probability", "probability"]
+  },
+  {
+    "question": "What is marginal probability?",
+    "answer": "Marginal probability is the probability of an event irrespective of the outcome of another variable.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["marginal_probability", "probability"]
+  },
+  {
+    "question": "What is the difference between empirical and theoretical probability?",
+    "answer": "Empirical probability is based on observed data, while theoretical probability is based on mathematical reasoning.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["empirical", "theoretical"]
+  },
+  {
+    "question": "What is a random experiment?",
+    "answer": "A random experiment is a process that leads to one of several possible outcomes, where the outcome cannot be predicted with certainty.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["random_experiment", "probability"]
+  },
+  {
+    "question": "What is a deterministic process?",
+    "answer": "A deterministic process is one where the outcome is fully determined by the initial conditions, with no randomness involved.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["deterministic", "process"]
+  },
+  {
+    "question": "What is stochastic variability?",
+    "answer": "Stochastic variability refers to the randomness or unpredictability inherent in many real-world processes.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["stochastic", "variability"]
+  },
+  {
+    "question": "What is the purpose of data transformation in wrangling?",
+    "answer": "Data transformation changes the format, structure, or values of data to make it suitable for analysis.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["data_transformation", "wrangling"]
+  },
+  {
+    "question": "What is outlier detection in data wrangling?",
+    "answer": "Outlier detection identifies data points that are significantly different from the rest of the data.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["outlier", "data_wrangling"]
+  },
+  {
+    "question": "What is missing data and how is it handled?",
+    "answer": "Missing data refers to absent values in a dataset, which can be handled by imputation, removal, or other methods.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["missing_data", "wrangling"]
+  },
+  {
+    "question": "What is the difference between long and wide data formats?",
+    "answer": "Long format has one row per observation per variable, while wide format has one row per subject with multiple variables as columns.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["long_format", "wide_format"]
+  },
+  {
+    "question": "What is a contingency table?",
+    "answer": "A contingency table is a matrix that displays the frequency distribution of variables.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["contingency_table", "frequency"]
+  },
+  {
+    "question": "What is the penguins dataset used for in statistics?",
+    "answer": "It is a toy dataset used to illustrate statistical concepts such as comparing means between groups.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["penguins", "dataset"]
+  },
+  {
+    "question": "What is the difference between a model and a mechanistic model?",
+    "answer": "A model is a general representation of a system, while a mechanistic model is based on the underlying mechanisms or processes.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["model", "mechanistic"]
+  },
+  {
+    "question": "What is the role of probability in statistical inference?",
+    "answer": "Probability provides the mathematical foundation for making inferences about populations from samples.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["probability", "inference"]
+  },
+  {
+    "question": "What is the difference between a parameter and a statistic?",
+    "answer": "A parameter describes a characteristic of a population, while a statistic describes a characteristic of a sample.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["parameter", "statistic"]
+  },
+  {
+    "question": "What is the purpose of sampling in statistics?",
+    "answer": "Sampling allows us to make inferences about a population without measuring every member.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["sampling", "statistics"]
+  },
+  {
+    "question": "What is a simple random sample?",
+    "answer": "A simple random sample is a subset of a population where every member has an equal chance of being selected.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["simple_random_sample", "sampling"]
+  },
+  {
+    "question": "What is sampling bias?",
+    "answer": "Sampling bias occurs when some members of the population are less likely to be included in the sample than others.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["sampling_bias", "bias"]
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "answer": "Descriptive statistics summarize data, while inferential statistics use data to make predictions or inferences about a population.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["descriptive", "inferential"]
+  },
+  {
+    "question": "What is the law of total probability?",
+    "answer": "The law of total probability relates marginal probabilities to conditional probabilities across a partition of the sample space.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 3,
+    "tags": ["law_of_total_probability", "probability"]
+  },
+  {
+    "question": "What is the difference between a null and alternative hypothesis?",
+    "answer": "The null hypothesis states there is no effect or difference, while the alternative hypothesis states there is an effect or difference.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["null_hypothesis", "alternative_hypothesis"]
+  },
+  {
+    "question": "What is the purpose of exploratory data analysis (EDA)?",
+    "answer": "EDA helps summarize the main characteristics of data, often using visual methods, before formal modeling.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 2,
+    "tags": ["eda", "exploratory"]
+  },
+  {
+    "question": "What is a histogram?",
+    "answer": "A histogram is a graphical representation of the distribution of numerical data using bars.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["histogram", "visualization"]
+  },
+  {
+    "question": "What is a boxplot?",
+    "answer": "A boxplot is a graphical summary of data showing the median, quartiles, and outliers.",
+    "category": "Statistical_Computing-Week2-Probability_Random_Variables_Data_Wrangling",
+    "difficulty": 1,
+    "tags": ["boxplot", "visualization"]
+  }
+]

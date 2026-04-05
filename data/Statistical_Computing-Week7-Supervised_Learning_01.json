@@ -1,0 +1,268 @@
+[
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of machine learning where the model is trained on labeled data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["supervised_learning", "machine_learning"]
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "answer": "Supervised learning uses labeled data, while unsupervised learning finds patterns in unlabeled data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["supervised_learning", "unsupervised_learning"]
+  },
+  {
+    "question": "What is a training set?",
+    "answer": "A training set is a subset of data used to fit a machine learning model.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["training_set", "machine_learning"]
+  },
+  {
+    "question": "What is a test set?",
+    "answer": "A test set is a subset of data used to evaluate the performance of a machine learning model.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["test_set", "machine_learning"]
+  },
+  {
+    "question": "What is cross-validation?",
+    "answer": "Cross-validation is a technique for assessing model performance by dividing the data into multiple train-test splits and averaging the results.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["cross_validation", "model_evaluation"]
+  },
+  {
+    "question": "What is a validation set?",
+    "answer": "A validation set is a subset of data used to tune model parameters and select the best model.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["validation_set", "model_selection"]
+  },
+  {
+    "question": "What is exploratory data analysis (EDA)?",
+    "answer": "EDA is the process of analyzing data sets to summarize their main characteristics, often using visual methods.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["eda", "data_analysis"]
+  },
+  {
+    "question": "What is a response variable?",
+    "answer": "A response variable is the outcome or target variable that a model aims to predict.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["response_variable", "target"]
+  },
+  {
+    "question": "What is a predictor variable?",
+    "answer": "A predictor variable is an input variable used to predict the response variable.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["predictor_variable", "feature"]
+  },
+  {
+    "question": "What is overfitting in supervised learning?",
+    "answer": "Overfitting occurs when a model learns the training data too well, including noise, and performs poorly on new data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["overfitting", "model_evaluation"]
+  },
+  {
+    "question": "What is underfitting in supervised learning?",
+    "answer": "Underfitting occurs when a model is too simple to capture the underlying structure of the data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["underfitting", "model_evaluation"]
+  },
+  {
+    "question": "What is the purpose of splitting data into training and test sets?",
+    "answer": "Splitting data allows for model training and unbiased evaluation of model performance on unseen data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["data_split", "model_evaluation"]
+  },
+  {
+    "question": "What is a predictive workflow?",
+    "answer": "A predictive workflow is a sequence of steps for building, evaluating, and deploying predictive models.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["predictive_workflow", "machine_learning"]
+  },
+  {
+    "question": "What is model deployment?",
+    "answer": "Model deployment is the process of integrating a trained model into a production environment for real-world use.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["model_deployment", "machine_learning"]
+  },
+  {
+    "question": "What is generalization in supervised learning?",
+    "answer": "Generalization is the ability of a model to perform well on new, unseen data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["generalization", "model_evaluation"]
+  },
+  {
+    "question": "What is a classification problem?",
+    "answer": "A classification problem is a supervised learning task where the response variable is categorical.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["classification", "supervised_learning"]
+  },
+  {
+    "question": "What is a regression problem?",
+    "answer": "A regression problem is a supervised learning task where the response variable is continuous.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["regression", "supervised_learning"]
+  },
+  {
+    "question": "What is feature engineering?",
+    "answer": "Feature engineering is the process of creating new input features from existing data to improve model performance.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["feature_engineering", "data_preprocessing"]
+  },
+  {
+    "question": "What is data preprocessing?",
+    "answer": "Data preprocessing involves cleaning and transforming raw data to prepare it for modeling.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["data_preprocessing", "machine_learning"]
+  },
+  {
+    "question": "What is the purpose of exploratory data analysis in supervised learning?",
+    "answer": "EDA helps understand the data, detect patterns, and identify issues before modeling.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["eda", "supervised_learning"]
+  },
+  {
+    "question": "What is a confusion matrix?",
+    "answer": "A confusion matrix is a table used to evaluate the performance of a classification model by showing true and predicted classes.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["confusion_matrix", "classification"]
+  },
+  {
+    "question": "What is accuracy in classification?",
+    "answer": "Accuracy is the proportion of correct predictions made by a classification model.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["accuracy", "classification"]
+  },
+  {
+    "question": "What is mean squared error (MSE) in regression?",
+    "answer": "MSE is the average of the squared differences between predicted and actual values in regression.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["mse", "regression"]
+  },
+  {
+    "question": "What is the purpose of model evaluation?",
+    "answer": "Model evaluation assesses how well a model performs on unseen data and guides model selection.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["model_evaluation", "machine_learning"]
+  },
+  {
+    "question": "What is the difference between bias and variance in model performance?",
+    "answer": "Bias is error from erroneous assumptions; variance is error from sensitivity to small fluctuations in the training set.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["bias", "variance"]
+  },
+  {
+    "question": "What is the CRISP-DM process?",
+    "answer": "CRISP-DM is a standard process model for data mining, including business understanding, data understanding, preparation, modeling, evaluation, and deployment.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 3,
+    "tags": ["crisp_dm", "data_mining"]
+  },
+  {
+    "question": "What is the purpose of data visualization in EDA?",
+    "answer": "Data visualization helps reveal patterns, trends, and outliers in the data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["data_visualization", "eda"]
+  },
+  {
+    "question": "What is a holdout set?",
+    "answer": "A holdout set is a portion of data set aside for final model evaluation after training and validation.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["holdout_set", "model_evaluation"]
+  },
+  {
+    "question": "What is the main goal of supervised learning?",
+    "answer": "The main goal is to learn a mapping from inputs to outputs that generalizes well to new data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 1,
+    "tags": ["goal", "supervised_learning"]
+  },
+  {
+    "question": "What is the difference between model selection and model assessment?",
+    "answer": "Model selection chooses the best model from a set; model assessment evaluates its performance on new data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["model_selection", "model_assessment"]
+  },
+  {
+    "question": "What is the purpose of hyperparameter tuning?",
+    "answer": "Hyperparameter tuning finds the best set of parameters for a model to optimize its performance.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["hyperparameter_tuning", "model_optimization"]
+  },
+  {
+    "question": "What is the difference between training error and test error?",
+    "answer": "Training error is the error on the training set; test error is the error on unseen data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["training_error", "test_error"]
+  },
+  {
+    "question": "What is the purpose of regularization in supervised learning?",
+    "answer": "Regularization helps prevent overfitting by adding a penalty for model complexity.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["regularization", "overfitting"]
+  },
+  {
+    "question": "What is a learning curve?",
+    "answer": "A learning curve shows how model performance changes with varying amounts of training data.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["learning_curve", "model_evaluation"]
+  },
+  {
+    "question": "What is the difference between batch and online learning?",
+    "answer": "Batch learning trains on the entire dataset at once; online learning updates the model incrementally as new data arrives.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["batch_learning", "online_learning"]
+  },
+  {
+    "question": "What is the purpose of feature selection?",
+    "answer": "Feature selection identifies the most relevant input variables to improve model performance and reduce complexity.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["feature_selection", "model_optimization"]
+  },
+  {
+    "question": "What is the difference between supervised learning and reinforcement learning?",
+    "answer": "Supervised learning uses labeled data; reinforcement learning learns by interacting with an environment and receiving feedback.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["supervised_learning", "reinforcement_learning"]
+  },
+  {
+    "question": "What is the main limitation of supervised learning?",
+    "answer": "Supervised learning requires labeled data, which can be expensive or time-consuming to obtain.",
+    "category": "Statistical_Computing-Week7-Supervised_Learning_01",
+    "difficulty": 2,
+    "tags": ["limitations", "supervised_learning"]
+  }
+]

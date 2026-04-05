@@ -1,0 +1,345 @@
+[
+  {
+    "question": "What is point estimation?",
+    "answer": "Point estimation is the process of using sample data to estimate the value of an unknown parameter of a population.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["point_estimation", "statistics"]
+  },
+  {
+    "question": "What is maximum likelihood estimation?",
+    "answer": "Maximum likelihood estimation is a method of estimating the parameters of a statistical model by maximizing the likelihood function.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["maximum_likelihood", "estimation"]
+  },
+  {
+    "question": "What is a likelihood function?",
+    "answer": "A likelihood function measures the probability of observing the given data as a function of the parameters of a statistical model.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["likelihood_function", "statistics"]
+  },
+  {
+    "question": "What is the difference between point estimation and interval estimation?",
+    "answer": "Point estimation provides a single value estimate, while interval estimation provides a range of values within which the parameter is expected to lie.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["point_estimation", "interval_estimation"]
+  },
+  {
+    "question": "What is the purpose of estimation in statistics?",
+    "answer": "Estimation allows us to infer population parameters from sample data, which is essential for making data-driven decisions.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["estimation", "statistics"]
+  },
+  {
+    "question": "What is an estimator?",
+    "answer": "An estimator is a rule or formula that tells us how to calculate an estimate of a parameter from sample data.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["estimator", "statistics"]
+  },
+  {
+    "question": "What is a sample mean?",
+    "answer": "The sample mean is the average of all values in a sample and is often used as a point estimator for the population mean.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["sample_mean", "estimator"]
+  },
+  {
+    "question": "What is a sample variance?",
+    "answer": "The sample variance measures the spread of sample data and is used as a point estimator for the population variance.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["sample_variance", "estimator"]
+  },
+  {
+    "question": "What is bias in an estimator?",
+    "answer": "Bias is the difference between the expected value of an estimator and the true value of the parameter being estimated.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["bias", "estimator"]
+  },
+  {
+    "question": "What is an unbiased estimator?",
+    "answer": "An unbiased estimator is one whose expected value equals the true value of the parameter being estimated.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["unbiased", "estimator"]
+  },
+  {
+    "question": "What is efficiency in an estimator?",
+    "answer": "Efficiency refers to the variance of an estimator; an efficient estimator has the smallest variance among all unbiased estimators.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["efficiency", "estimator"]
+  },
+  {
+    "question": "What is consistency in an estimator?",
+    "answer": "A consistent estimator converges in probability to the true value of the parameter as the sample size increases.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["consistency", "estimator"]
+  },
+  {
+    "question": "What is sufficiency in an estimator?",
+    "answer": "An estimator is sufficient if it uses all the information in the sample relevant to estimating the parameter.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["sufficiency", "estimator"]
+  },
+  {
+    "question": "What is the method of moments?",
+    "answer": "The method of moments is a technique for estimating parameters by equating sample moments to population moments.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["method_of_moments", "estimation"]
+  },
+  {
+    "question": "What is the likelihood principle?",
+    "answer": "The likelihood principle states that all information about a parameter is contained in the likelihood function.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["likelihood_principle", "likelihood_function"]
+  },
+  {
+    "question": "What is a sampling distribution?",
+    "answer": "A sampling distribution is the probability distribution of a statistic based on a random sample.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["sampling_distribution", "statistics"]
+  },
+  {
+    "question": "What is the central limit theorem?",
+    "answer": "The central limit theorem states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases, regardless of the population's distribution.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["central_limit_theorem", "sampling_distribution"]
+  },
+  {
+    "question": "Why is the central limit theorem important?",
+    "answer": "It allows us to use normal distribution-based inference methods even when the population distribution is unknown.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["central_limit_theorem", "inference"]
+  },
+  {
+    "question": "What is a parameter in statistics?",
+    "answer": "A parameter is a numerical characteristic of a population, such as the mean or variance.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["parameter", "population"]
+  },
+  {
+    "question": "What is a statistic in statistics?",
+    "answer": "A statistic is a numerical characteristic calculated from a sample, such as the sample mean or variance.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["statistic", "sample"]
+  },
+  {
+    "question": "What is the difference between a parameter and a statistic?",
+    "answer": "A parameter describes a population, while a statistic describes a sample.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["parameter", "statistic"]
+  },
+  {
+    "question": "What is the maximum likelihood estimator (MLE)?",
+    "answer": "The MLE is the value of the parameter that maximizes the likelihood function for the observed data.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["mle", "maximum_likelihood"]
+  },
+  {
+    "question": "What is the log-likelihood function?",
+    "answer": "The log-likelihood function is the natural logarithm of the likelihood function, often used for mathematical convenience.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["log_likelihood", "likelihood_function"]
+  },
+  {
+    "question": "What is the method of moments estimator for the mean?",
+    "answer": "The sample mean is the method of moments estimator for the population mean.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["method_of_moments", "mean"]
+  },
+  {
+    "question": "What is the method of moments estimator for the variance?",
+    "answer": "The sample variance is the method of moments estimator for the population variance.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["method_of_moments", "variance"]
+  },
+  {
+    "question": "What is the difference between the sample mean and the population mean?",
+    "answer": "The sample mean is calculated from sample data, while the population mean is the true mean of the entire population.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["sample_mean", "population_mean"]
+  },
+  {
+    "question": "What is the difference between the sample variance and the population variance?",
+    "answer": "The sample variance is calculated from sample data, while the population variance is the true variance of the entire population.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["sample_variance", "population_variance"]
+  },
+  {
+    "question": "What is the purpose of the likelihood function in MLE?",
+    "answer": "The likelihood function quantifies how likely the observed data are for different parameter values, guiding the estimation process.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["likelihood_function", "mle"]
+  },
+  {
+    "question": "What is a consistent estimator?",
+    "answer": "A consistent estimator converges to the true parameter value as the sample size increases.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["consistency", "estimator"]
+  },
+  {
+    "question": "What is the plug-in principle?",
+    "answer": "The plug-in principle involves substituting sample estimates for unknown parameters in statistical formulas.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["plug_in_principle", "estimation"]
+  },
+  {
+    "question": "What is the difference between a point estimate and a point estimator?",
+    "answer": "A point estimator is a rule or formula, while a point estimate is the value obtained from applying the estimator to data.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["point_estimate", "point_estimator"]
+  },
+  {
+    "question": "What is the role of sampling distributions in inference?",
+    "answer": "Sampling distributions allow us to quantify the variability of estimators and make probabilistic statements about estimates.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["sampling_distribution", "inference"]
+  },
+  {
+    "question": "What is the law of large numbers?",
+    "answer": "The law of large numbers states that as the sample size increases, the sample mean approaches the population mean.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["law_of_large_numbers", "statistics"]
+  },
+  {
+    "question": "What is the difference between parametric and nonparametric estimation?",
+    "answer": "Parametric estimation assumes a specific form for the population distribution, while nonparametric estimation does not.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["parametric", "nonparametric"]
+  },
+  {
+    "question": "What is the method of least squares?",
+    "answer": "The method of least squares estimates parameters by minimizing the sum of squared differences between observed and predicted values.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["least_squares", "estimation"]
+  },
+  {
+    "question": "What is the purpose of the score function in MLE?",
+    "answer": "The score function is the derivative of the log-likelihood with respect to the parameter and is used to find the MLE.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["score_function", "mle"]
+  },
+  {
+    "question": "What is Fisher information?",
+    "answer": "Fisher information measures the amount of information that an observable random variable carries about an unknown parameter.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["fisher_information", "statistics"]
+  },
+  {
+    "question": "What is the Cramér-Rao lower bound?",
+    "answer": "The Cramér-Rao lower bound gives a lower bound on the variance of unbiased estimators of a parameter.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["cramer_rao", "estimator"]
+  },
+  {
+    "question": "What is the difference between observed and expected information?",
+    "answer": "Observed information is calculated from the data, while expected information is the average over all possible samples.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["observed_information", "expected_information"]
+  },
+  {
+    "question": "What is the plug-in estimator?",
+    "answer": "A plug-in estimator is obtained by substituting sample estimates for unknown parameters in a function of the parameter.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["plug_in_estimator", "estimation"]
+  },
+  {
+    "question": "What is the difference between a consistent and an unbiased estimator?",
+    "answer": "A consistent estimator converges to the true value as sample size increases, while an unbiased estimator has expected value equal to the parameter.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["consistent", "unbiased"]
+  },
+  {
+    "question": "What is the purpose of simulation in estimation?",
+    "answer": "Simulation can be used to study the properties of estimators when analytical solutions are difficult or impossible.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["simulation", "estimation"]
+  },
+  {
+    "question": "What is the difference between a sample and a population?",
+    "answer": "A sample is a subset of the population used to make inferences about the population.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 1,
+    "tags": ["sample", "population"]
+  },
+  {
+    "question": "What is the role of the central limit theorem in estimation?",
+    "answer": "It justifies the use of normal approximations for sampling distributions of estimators, especially the sample mean.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["central_limit_theorem", "estimation"]
+  },
+  {
+    "question": "What is the difference between a plug-in estimator and a method of moments estimator?",
+    "answer": "A plug-in estimator substitutes sample estimates into a function, while the method of moments equates sample and population moments.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["plug_in_estimator", "method_of_moments"]
+  },
+  {
+    "question": "What is the purpose of the likelihood ratio test?",
+    "answer": "The likelihood ratio test compares the fit of two statistical models using the ratio of their likelihoods.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["likelihood_ratio_test", "likelihood_function"]
+  },
+  {
+    "question": "What is the difference between a point estimate and a confidence interval?",
+    "answer": "A point estimate gives a single value, while a confidence interval gives a range of plausible values for the parameter.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["point_estimate", "confidence_interval"]
+  },
+  {
+    "question": "What is the role of the sample size in estimation?",
+    "answer": "Larger sample sizes generally lead to more precise estimates and smaller standard errors.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 2,
+    "tags": ["sample_size", "estimation"]
+  },
+  {
+    "question": "What is the difference between a sufficient and an efficient estimator?",
+    "answer": "A sufficient estimator uses all information in the sample, while an efficient estimator has the smallest variance among unbiased estimators.",
+    "category": "Statistical_Computing-Week3-Point_Estimation_Maximum_Likelihood",
+    "difficulty": 3,
+    "tags": ["sufficient", "efficient"]
+  }
+]

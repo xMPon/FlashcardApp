@@ -1,0 +1,338 @@
+[
+  {
+    "question": "What is a crowd economy in FinTech?",
+    "answer": "A crowd economy leverages the collective power of individuals, often through digital platforms, to fund, create, or share value.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "crowd_economy"]
+  },
+  {
+    "question": "What is sentiment analysis in FinTech?",
+    "answer": "Sentiment analysis uses natural language processing to determine the emotional tone behind financial news, social media, or reports.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "sentiment_analysis"]
+  },
+  {
+    "question": "What is the main focus of Week 7 in FinTech Introduction?",
+    "answer": "The main focus is on understanding the crowd economy and the use of sentiment analysis in financial technology.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "week7"]
+  },
+  {
+    "question": "How does sentiment analysis impact financial markets?",
+    "answer": "Sentiment analysis can influence trading strategies by providing insights into market mood and potential price movements.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "sentiment_analysis"]
+  },
+  {
+    "question": "What is the role of digital platforms in the crowd economy?",
+    "answer": "Digital platforms connect individuals, enabling crowdfunding, peer-to-peer lending, and collaborative consumption.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "digital_platforms"]
+  },
+  {
+    "question": "What is crowdfunding?",
+    "answer": "Crowdfunding is raising small amounts of money from a large number of people, typically via online platforms, to fund a project or venture.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 1,
+    "tags": ["fintech", "crowdfunding"]
+  },
+  {
+    "question": "How does peer-to-peer lending work?",
+    "answer": "Peer-to-peer lending connects borrowers and lenders directly through digital platforms, bypassing traditional banks.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "p2p_lending"]
+  },
+  {
+    "question": "What is the role of social media in sentiment analysis?",
+    "answer": "Social media provides a vast source of real-time data for analyzing public sentiment about financial markets and products.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "social_media", "sentiment_analysis"]
+  },
+  {
+    "question": "Give an example of a sentiment analysis tool used in FinTech.",
+    "answer": "Natural language processing (NLP) libraries like NLTK or commercial platforms like RavenPack are used for sentiment analysis in FinTech.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "nlp", "tools"]
+  },
+  {
+    "question": "What is collaborative consumption?",
+    "answer": "Collaborative consumption is the shared use of goods and services, often enabled by digital platforms, such as ride-sharing or accommodation sharing.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 1,
+    "tags": ["fintech", "collaborative_consumption"]
+  },
+  {
+    "question": "What is a prediction market?",
+    "answer": "A prediction market is a platform where participants trade contracts based on the outcome of future events.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "prediction_market"]
+  },
+  {
+    "question": "How does the wisdom of crowds apply to financial markets?",
+    "answer": "The collective judgment of a diverse group can be more accurate than that of individuals, influencing market prices.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "wisdom_of_crowds"]
+  },
+  {
+    "question": "What is a social trading platform?",
+    "answer": "A social trading platform allows users to observe and copy the trades of experienced investors.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "social_trading"]
+  },
+  {
+    "question": "How is machine learning used in sentiment analysis?",
+    "answer": "Machine learning algorithms classify and interpret text data to determine sentiment in financial news and social media.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "machine_learning", "sentiment_analysis"]
+  },
+  {
+    "question": "What is the role of influencers in the crowd economy?",
+    "answer": "Influencers can shape opinions and drive trends in financial markets through their online presence.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "influencer"]
+  },
+  {
+    "question": "What is herding behavior in financial markets?",
+    "answer": "Herding is when individuals follow the actions of a larger group, often leading to bubbles or crashes.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "herding"]
+  },
+  {
+    "question": "How do APIs enable crowd economy platforms?",
+    "answer": "APIs allow different platforms and services to connect, enabling seamless data sharing and integration.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "api"]
+  },
+  {
+    "question": "What is the impact of fake news on sentiment analysis?",
+    "answer": "Fake news can distort sentiment signals, leading to poor investment decisions.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "fake_news"]
+  },
+  {
+    "question": "What is tokenization in the context of the crowd economy?",
+    "answer": "Tokenization is the process of converting assets or rights into digital tokens for trading on blockchain platforms.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "tokenization"]
+  },
+  {
+    "question": "How do peer reviews affect crowdfunding campaigns?",
+    "answer": "Peer reviews provide credibility and can increase the likelihood of campaign success.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "peer_review"]
+  },
+  {
+    "question": "What is a minimal market maker (MMM01)?",
+    "answer": "MMM01 is a simple automated market maker that alternates between buying low and selling high based on recent transaction prices.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "market_maker"]
+  },
+  {
+    "question": "How does MMM01 decide when to buy?",
+    "answer": "MMM01 buys when the best ask price is lower than a set percentage of the average transaction price over recent trades.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "market_maker", "algorithm"]
+  },
+  {
+    "question": "What is the default bid_percent for MMM01?",
+    "answer": "The default bid_percent for MMM01 is 0.5, meaning it will buy if the best ask is less than half the average price.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "market_maker"]
+  },
+  {
+    "question": "How does MMM01 decide when to sell?",
+    "answer": "MMM01 sells when the best bid price is greater than the price paid plus a minimum profit margin (ask_delta).",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "market_maker", "algorithm"]
+  },
+  {
+    "question": "What is the impact of a positive market shock in a simulated market?",
+    "answer": "A positive market shock raises the equilibrium price, causing trade prices to increase after the shock.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "market_shock"]
+  },
+  {
+    "question": "What is collaborative filtering in the context of FinTech?",
+    "answer": "Collaborative filtering uses data from many users to make personalized recommendations, such as in peer-to-peer lending platforms.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "collaborative_filtering"]
+  },
+  {
+    "question": "Give an example of a risk in the crowd economy.",
+    "answer": "Risks include fraud, lack of regulation, and platform failure, which can lead to financial losses for participants.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "risk"]
+  },
+  {
+    "question": "What is the role of regulation in crowd economy platforms?",
+    "answer": "Regulation helps protect participants, ensure transparency, and reduce fraud in crowd-based financial platforms.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "regulation"]
+  },
+  {
+    "question": "How can sentiment analysis be biased?",
+    "answer": "Bias can arise from unrepresentative data, algorithmic errors, or manipulation of online content.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "sentiment_analysis", "bias"]
+  },
+  {
+    "question": "What is a use case for sentiment analysis in trading?",
+    "answer": "Traders use sentiment analysis to gauge market mood and inform buy/sell decisions based on news and social media.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "trading", "sentiment_analysis"]
+  },
+  {
+    "question": "What is the difference between crowd economy and sharing economy?",
+    "answer": "The crowd economy focuses on collective action for funding or decision-making, while the sharing economy emphasizes shared access to goods and services.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "crowd_economy", "sharing_economy"]
+  },
+  {
+    "question": "What is a digital token?",
+    "answer": "A digital token is a unit of value issued on a blockchain, representing assets, rights, or access within a platform.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "token"]
+  },
+  {
+    "question": "How can crowd economy platforms foster innovation?",
+    "answer": "By enabling diverse participation and funding, crowd platforms can support novel ideas and startups that might not get traditional backing.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "innovation"]
+  },
+  {
+    "question": "What is the main challenge of using sentiment analysis in finance?",
+    "answer": "Challenges include handling noisy data, language ambiguity, and rapidly changing market sentiment.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "sentiment_analysis", "challenge"]
+  },
+  {
+    "question": "What is the function of a market session in BSE simulations?",
+    "answer": "A market session simulates trading activity over a set period, allowing analysis of trader behavior and market dynamics.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "BSE", "simulation"]
+  },
+  {
+    "question": "What is the importance of data quality in sentiment analysis?",
+    "answer": "High-quality, relevant data is essential for accurate sentiment analysis and reliable financial insights.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "data_quality", "sentiment_analysis"]
+  },
+  {
+    "question": "How can blockchain enhance the crowd economy?",
+    "answer": "Blockchain provides transparency, security, and trust, enabling decentralized crowd platforms and tokenization.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "blockchain", "crowd_economy"]
+  },
+  {
+    "question": "What is the ask_delta parameter in MMM01?",
+    "answer": "ask_delta is the minimum profit margin required for MMM01 to sell an asset after buying.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "market_maker"]
+  },
+  {
+    "question": "Give an example of collaborative consumption in FinTech.",
+    "answer": "Examples include ride-sharing apps like Uber and accommodation sharing platforms like Airbnb.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 1,
+    "tags": ["fintech", "collaborative_consumption"]
+  },
+  {
+    "question": "What is the main benefit of peer-to-peer lending for borrowers?",
+    "answer": "Borrowers may access loans at lower interest rates compared to traditional banks.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 1,
+    "tags": ["fintech", "p2p_lending", "benefit"]
+  },
+  {
+    "question": "How can crowd economy platforms reduce transaction costs?",
+    "answer": "By connecting users directly and automating processes, platforms can lower fees and overhead.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "crowd_economy", "cost"]
+  },
+  {
+    "question": "What is a limitation of sentiment analysis in finance?",
+    "answer": "It may misinterpret sarcasm, slang, or context, leading to inaccurate sentiment classification.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "sentiment_analysis", "limitation"]
+  },
+  {
+    "question": "What is the role of data visualization in sentiment analysis?",
+    "answer": "Visualization helps interpret large volumes of sentiment data, revealing trends and patterns for decision-making.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "sentiment_analysis", "visualization"]
+  },
+  {
+    "question": "How do crowd economy platforms build trust among users?",
+    "answer": "They use reputation systems, peer reviews, and secure payment mechanisms.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "trust", "crowd_economy"]
+  },
+  {
+    "question": "What is the impact of real-time sentiment analysis on trading?",
+    "answer": "It enables traders to react quickly to market mood shifts, potentially improving returns.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "sentiment_analysis", "trading"]
+  },
+  {
+    "question": "What is a DAO in the context of the crowd economy?",
+    "answer": "A Decentralized Autonomous Organization (DAO) is a blockchain-based entity governed by its members, often used for collective investment or decision-making.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "DAO", "blockchain"]
+  },
+  {
+    "question": "How can code-based sentiment analysis be implemented in Python?",
+    "answer": "Using libraries like NLTK or TextBlob to process and classify text data from financial news or social media.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 3,
+    "tags": ["fintech", "python", "sentiment_analysis"]
+  },
+  {
+    "question": "What is the significance of diversity in crowd-based decision making?",
+    "answer": "Diverse groups bring varied perspectives, improving the accuracy and creativity of collective outcomes.",
+    "category": "FinTech_Introduction-Week7-Crowd_Economy_Sentiment_Analysis",
+    "difficulty": 2,
+    "tags": ["fintech", "diversity", "crowd_economy"]
+  }
+]

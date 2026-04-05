@@ -1,0 +1,471 @@
+[
+  {
+    "question": "Who are some FinTech thought leaders discussed in Week 8?",
+    "answer": "Week 8 covers thought leaders such as Doctorow, Suleyman, Susskind, and Zuboff, who have contributed to the understanding of technology's impact on finance.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "thought_leaders"]
+  },
+  {
+    "question": "What is the main focus of Week 8 in FinTech Introduction?",
+    "answer": "The main focus is on the ideas and contributions of major thought leaders in the FinTech space.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "week8"]
+  },
+  {
+    "question": "What is the impact of thought leadership on FinTech innovation?",
+    "answer": "Thought leadership shapes industry trends, influences policy, and inspires new business models in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "innovation"]
+  },
+  {
+    "question": "How do thought leaders contribute to FinTech education?",
+    "answer": "They provide insights, frameworks, and case studies that help students and professionals understand the evolving landscape.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "education"]
+  },
+  {
+    "question": "What is the significance of Week 8 in the FinTech Introduction course?",
+    "answer": "Week 8 highlights the importance of learning from industry pioneers and visionaries.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "week8"]
+  },
+  {
+    "question": "Who is Cory Doctorow and what is his contribution to FinTech thought leadership?",
+    "answer": "Cory Doctorow is a writer and activist known for his insights on digital rights, open access, and the impact of technology on society, including finance.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "doctorow", "thought_leader"]
+  },
+  {
+    "question": "What is the main idea behind Zuboff's concept of surveillance capitalism?",
+    "answer": "Surveillance capitalism refers to the monetization of personal data by technology companies, a concept explored by Shoshana Zuboff.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "zuboff", "surveillance_capitalism"]
+  },
+  {
+    "question": "How does Mustafa Suleyman influence the FinTech sector?",
+    "answer": "Mustafa Suleyman is a co-founder of DeepMind and a thought leader in AI ethics, whose work influences responsible innovation in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "suleyman", "ai_ethics"]
+  },
+  {
+    "question": "What is the role of thought leaders in shaping FinTech regulation?",
+    "answer": "Thought leaders provide expert opinions and research that inform policymakers and help shape effective FinTech regulations.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "regulation", "thought_leader"]
+  },
+  {
+    "question": "Why is it important to study the work of multiple thought leaders in FinTech?",
+    "answer": "Studying diverse perspectives helps build a comprehensive understanding of the challenges and opportunities in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "thought_leaders"]
+  },
+  {
+    "question": "What is the main contribution of Richard Susskind to FinTech thought leadership?",
+    "answer": "Richard Susskind is known for his work on the future of professions and the impact of technology on legal and financial services.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "susskind", "future_of_professions"]
+  },
+  {
+    "question": "How does Shoshana Zuboff's work relate to data privacy in FinTech?",
+    "answer": "Zuboff's concept of surveillance capitalism highlights the risks of personal data exploitation by tech companies, including those in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "zuboff", "data_privacy"]
+  },
+  {
+    "question": "What is the impact of open banking on FinTech innovation?",
+    "answer": "Open banking enables secure data sharing between banks and third-party providers, fostering innovation and competition in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "open_banking"]
+  },
+  {
+    "question": "Name a key ethical challenge discussed by FinTech thought leaders.",
+    "answer": "Key ethical challenges include algorithmic bias, data privacy, and the societal impact of automation.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "ethics"]
+  },
+  {
+    "question": "How do thought leaders influence FinTech education?",
+    "answer": "They shape curricula, provide case studies, and inspire critical thinking about technology's role in finance.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "education"]
+  },
+  {
+    "question": "What is the role of public policy in FinTech, according to thought leaders?",
+    "answer": "Public policy sets the regulatory framework that enables or restricts FinTech innovation, as highlighted by many thought leaders.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "policy"]
+  },
+  {
+    "question": "Describe the concept of 'digital rights' as discussed by Cory Doctorow.",
+    "answer": "Digital rights refer to the legal and ethical entitlements of individuals in the digital world, including privacy and access to information.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "doctorow", "digital_rights"]
+  },
+  {
+    "question": "How do thought leaders address the risks of AI in FinTech?",
+    "answer": "They advocate for transparency, accountability, and ethical guidelines in the development and deployment of AI systems.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "ai", "ethics"]
+  },
+  {
+    "question": "What is the significance of interdisciplinary research in FinTech thought leadership?",
+    "answer": "Interdisciplinary research combines insights from finance, technology, law, and ethics to address complex FinTech challenges.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "interdisciplinary"]
+  },
+  {
+    "question": "How do thought leaders contribute to FinTech policy debates?",
+    "answer": "They provide expert testimony, publish influential papers, and participate in advisory boards for governments and regulators.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "policy", "thought_leader"]
+  },
+  {
+    "question": "What is the role of case studies in FinTech thought leadership?",
+    "answer": "Case studies illustrate real-world applications and challenges, helping to translate theory into practice.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "case_study"]
+  },
+  {
+    "question": "How do thought leaders address financial inclusion?",
+    "answer": "They promote technologies and policies that expand access to financial services for underserved populations.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "inclusion"]
+  },
+  {
+    "question": "What is the impact of platform economies on FinTech, according to thought leaders?",
+    "answer": "Platform economies enable new business models and disrupt traditional financial services, as discussed by many thought leaders.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "platform_economy"]
+  },
+  {
+    "question": "How do thought leaders view the future of work in FinTech?",
+    "answer": "They predict increased automation, new skill requirements, and the need for lifelong learning.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "future_of_work"]
+  },
+  {
+    "question": "What is the importance of global perspectives in FinTech thought leadership?",
+    "answer": "Global perspectives help identify diverse challenges and solutions, fostering innovation across markets.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "global"]
+  },
+  {
+    "question": "How do thought leaders address cybersecurity in FinTech?",
+    "answer": "They emphasize the need for robust security protocols and user education to protect against cyber threats.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "cybersecurity"]
+  },
+  {
+    "question": "What is the role of open-source software in FinTech innovation?",
+    "answer": "Open-source software accelerates innovation by enabling collaboration and reducing barriers to entry.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "open_source"]
+  },
+  {
+    "question": "How do thought leaders approach the challenge of digital identity?",
+    "answer": "They advocate for secure, user-centric digital identity solutions to enable safe participation in digital finance.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "digital_identity"]
+  },
+  {
+    "question": "What is the impact of regulation technology (RegTech) on FinTech?",
+    "answer": "RegTech uses technology to streamline compliance and regulatory processes, reducing costs and risks for FinTech firms.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "regtech"]
+  },
+  {
+    "question": "How do thought leaders view the relationship between FinTech and traditional banks?",
+    "answer": "They see opportunities for collaboration, competition, and transformation in the financial sector.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "banks"]
+  },
+  {
+    "question": "What is the role of mentorship in FinTech thought leadership?",
+    "answer": "Mentorship helps develop the next generation of innovators and leaders in the FinTech industry.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "mentorship"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of digital literacy?",
+    "answer": "They promote education and training to ensure that individuals can safely and effectively use digital financial services.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "digital_literacy"]
+  },
+  {
+    "question": "What is the significance of ethical investment in FinTech?",
+    "answer": "Ethical investment considers environmental, social, and governance (ESG) factors, as promoted by many thought leaders.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "esg"]
+  },
+  {
+    "question": "How do thought leaders address the risks of financial exclusion?",
+    "answer": "They advocate for inclusive design and policies to ensure access for all segments of society.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "exclusion"]
+  },
+  {
+    "question": "What is the impact of blockchain technology on FinTech, according to thought leaders?",
+    "answer": "Blockchain enables decentralized finance, increases transparency, and reduces transaction costs.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "blockchain"]
+  },
+  {
+    "question": "How do thought leaders view the role of government in FinTech innovation?",
+    "answer": "Governments can foster innovation through supportive regulation and investment in digital infrastructure.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "government"]
+  },
+  {
+    "question": "What is the importance of user experience (UX) in FinTech products?",
+    "answer": "A strong UX increases adoption and satisfaction, as emphasized by many thought leaders.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "ux"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of cross-border payments?",
+    "answer": "They promote interoperable systems and regulatory harmonization to facilitate global transactions.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "cross_border"]
+  },
+  {
+    "question": "What is the role of data analytics in FinTech, according to thought leaders?",
+    "answer": "Data analytics drives decision-making, risk assessment, and personalized services in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "data_analytics"]
+  },
+  {
+    "question": "How do thought leaders view the future of digital currencies?",
+    "answer": "They anticipate continued growth, regulatory challenges, and new business models enabled by digital currencies.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "digital_currency"]
+  },
+  {
+    "question": "What is the impact of mobile technology on FinTech innovation?",
+    "answer": "Mobile technology expands access to financial services and enables new business models.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "mobile"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of legacy systems in finance?",
+    "answer": "They recommend gradual modernization and integration with new technologies to minimize disruption.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "legacy_systems"]
+  },
+  {
+    "question": "What is the role of venture capital in FinTech, according to thought leaders?",
+    "answer": "Venture capital provides funding and strategic support for early-stage FinTech startups.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "venture_capital"]
+  },
+  {
+    "question": "How do thought leaders address the risks of algorithmic trading?",
+    "answer": "They call for transparency, oversight, and robust risk management to prevent market instability.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "algorithmic_trading"]
+  },
+  {
+    "question": "What is the significance of partnerships in FinTech innovation?",
+    "answer": "Partnerships between startups, incumbents, and regulators drive innovation and market growth.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "partnerships"]
+  },
+  {
+    "question": "How do thought leaders view the role of cloud computing in FinTech?",
+    "answer": "Cloud computing enables scalability, flexibility, and cost savings for FinTech firms.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "cloud"]
+  },
+  {
+    "question": "What is the impact of COVID-19 on FinTech, according to thought leaders?",
+    "answer": "COVID-19 accelerated digital adoption and highlighted the importance of resilient financial infrastructure.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "covid19"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of sustainable finance?",
+    "answer": "They promote green finance and responsible investment to address environmental challenges.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "sustainability"]
+  },
+  {
+    "question": "What is the role of sandboxes in FinTech innovation?",
+    "answer": "Regulatory sandboxes allow firms to test new products in a controlled environment, reducing barriers to entry.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "sandbox"]
+  },
+  {
+    "question": "How do thought leaders address the risks of money laundering in FinTech?",
+    "answer": "They advocate for advanced monitoring systems and international cooperation to combat financial crime.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "money_laundering"]
+  },
+  {
+    "question": "What is the importance of transparency in FinTech, according to thought leaders?",
+    "answer": "Transparency builds trust and accountability, which are essential for sustainable FinTech growth.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "transparency"]
+  },
+  {
+    "question": "How do thought leaders view the role of APIs in FinTech?",
+    "answer": "APIs enable interoperability and innovation by allowing different systems to communicate securely.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "api"]
+  },
+  {
+    "question": "What is the impact of artificial intelligence on FinTech, according to thought leaders?",
+    "answer": "AI enhances decision-making, risk management, and customer experience in FinTech.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "ai"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of digital onboarding?",
+    "answer": "They recommend streamlined, secure processes to improve user experience and reduce fraud.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "onboarding"]
+  },
+  {
+    "question": "What is the role of user feedback in FinTech product development?",
+    "answer": "User feedback guides product improvements and ensures solutions meet real customer needs.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "user_feedback"]
+  },
+  {
+    "question": "How do thought leaders address the risks of data breaches in FinTech?",
+    "answer": "They emphasize proactive security measures and rapid response protocols to minimize harm.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "data_breach"]
+  },
+  {
+    "question": "What is the significance of diversity in FinTech teams, according to thought leaders?",
+    "answer": "Diverse teams foster creativity, better decision-making, and more inclusive products.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "diversity"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of financial literacy in emerging markets?",
+    "answer": "They advocate for targeted education programs and digital tools to empower underserved populations.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "financial_literacy", "emerging_markets"]
+  },
+  {
+    "question": "What is the role of behavioral economics in FinTech thought leadership?",
+    "answer": "Behavioral economics helps explain user decision-making and informs the design of more effective financial products.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "behavioral_economics"]
+  },
+  {
+    "question": "How do thought leaders view the potential of quantum computing in FinTech?",
+    "answer": "Quantum computing could revolutionize cryptography, risk modeling, and data analysis in financial services.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 3,
+    "tags": ["fintech", "quantum_computing"]
+  },
+  {
+    "question": "What is the impact of social impact investing, according to thought leaders?",
+    "answer": "Social impact investing channels capital toward projects that generate both financial returns and positive social outcomes.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "social_impact"]
+  },
+  {
+    "question": "How do thought leaders address the risks of deepfakes and misinformation in FinTech?",
+    "answer": "They call for advanced detection technologies and public awareness to mitigate fraud and reputational risks.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 3,
+    "tags": ["fintech", "deepfake", "misinformation"]
+  },
+  {
+    "question": "What is the significance of hackathons in FinTech innovation?",
+    "answer": "Hackathons foster rapid prototyping, collaboration, and the discovery of new talent in the FinTech sector.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 1,
+    "tags": ["fintech", "hackathon"]
+  },
+  {
+    "question": "How do thought leaders view the future of insurance technology (InsurTech)?",
+    "answer": "They anticipate greater personalization, automation, and use of big data in insurance products and services.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "insurtech"]
+  },
+  {
+    "question": "What is the role of digital twins in FinTech, according to thought leaders?",
+    "answer": "Digital twins can simulate financial systems and user behavior, aiding in risk management and product development.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 3,
+    "tags": ["fintech", "digital_twin"]
+  },
+  {
+    "question": "How do thought leaders address the challenge of real-time payments?",
+    "answer": "They promote infrastructure upgrades and regulatory support to enable instant, secure transactions.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "real_time_payments"]
+  },
+  {
+    "question": "What is the importance of cross-sector collaboration in FinTech, according to thought leaders?",
+    "answer": "Collaboration between finance, technology, academia, and government accelerates innovation and addresses complex challenges.",
+    "category": "FinTech_Introduction-Week8-Thought_Leaders",
+    "difficulty": 2,
+    "tags": ["fintech", "collaboration"]
+  }
+]

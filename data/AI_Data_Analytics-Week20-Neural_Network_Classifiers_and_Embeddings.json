@@ -1,0 +1,303 @@
+[
+  {
+    "question": "What are neural network classifiers?",
+    "answer": "Neural network classifiers are models that use neural networks to assign input data to categories based on learned patterns.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["neural_network", "classifier"]
+  },
+  {
+    "question": "What is an embedding in machine learning?",
+    "answer": "An embedding is a learned representation of data, often used to map high-dimensional data into a lower-dimensional space.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["embedding", "representation_learning"]
+  },
+  {
+    "question": "What is the purpose of word embeddings in NLP?",
+    "answer": "Word embeddings represent words as dense vectors, capturing semantic relationships between words.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["word_embedding", "nlp"]
+  },
+  {
+    "question": "What is the difference between one-hot encoding and embeddings?",
+    "answer": "One-hot encoding represents words as sparse binary vectors, while embeddings use dense vectors that capture semantic similarity.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["one_hot_encoding", "embedding"]
+  },
+  {
+    "question": "What is transfer learning in neural networks?",
+    "answer": "Transfer learning is the process of leveraging a pre-trained model on a new, related task to improve learning efficiency and performance.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["transfer_learning", "neural_network"]
+  },
+  {
+    "question": "What is a feedforward neural network?",
+    "answer": "A feedforward neural network is a type of neural network where connections do not form cycles and information moves in one direction.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["feedforward", "neural_network"]
+  },
+  {
+    "question": "What is a convolutional neural network (CNN)?",
+    "answer": "A CNN is a neural network designed to process data with a grid-like topology, such as images.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["cnn", "neural_network"]
+  },
+  {
+    "question": "What is a recurrent neural network (RNN)?",
+    "answer": "An RNN is a neural network with loops, allowing information to persist and be used for sequential data.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["rnn", "neural_network"]
+  },
+  {
+    "question": "What is backpropagation?",
+    "answer": "Backpropagation is an algorithm for training neural networks by updating weights based on the error gradient.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["backpropagation", "training"]
+  },
+  {
+    "question": "What is an activation function?",
+    "answer": "An activation function introduces non-linearity into a neural network, enabling it to learn complex patterns.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["activation_function", "neural_network"]
+  },
+  {
+    "question": "What is the ReLU activation function?",
+    "answer": "ReLU (Rectified Linear Unit) outputs zero for negative inputs and the input itself for positive inputs.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["relu", "activation_function"]
+  },
+  {
+    "question": "What is dropout in neural networks?",
+    "answer": "Dropout is a regularization technique where randomly selected neurons are ignored during training to prevent overfitting.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["dropout", "regularization"]
+  },
+  {
+    "question": "What is a loss function?",
+    "answer": "A loss function measures the difference between the predicted and actual output, guiding the training process.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["loss_function", "training"]
+  },
+  {
+    "question": "What is a softmax layer?",
+    "answer": "A softmax layer converts raw output scores into probabilities for multi-class classification.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["softmax", "classification"]
+  },
+  {
+    "question": "What is batch normalization?",
+    "answer": "Batch normalization normalizes the inputs of each layer to improve training speed and stability.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["batch_normalization", "training"]
+  },
+  {
+    "question": "What is a dense layer?",
+    "answer": "A dense layer is a fully connected layer where each neuron receives input from all neurons in the previous layer.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["dense_layer", "neural_network"]
+  },
+  {
+    "question": "What is a word2vec embedding?",
+    "answer": "Word2vec is a technique for learning word embeddings using shallow neural networks.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["word2vec", "embedding"]
+  },
+  {
+    "question": "What is a GloVe embedding?",
+    "answer": "GloVe (Global Vectors) is an unsupervised learning algorithm for obtaining vector representations for words.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["glove", "embedding"]
+  },
+  {
+    "question": "What is a character embedding?",
+    "answer": "A character embedding represents individual characters as vectors, useful for handling out-of-vocabulary words.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["character_embedding", "nlp"]
+  },
+  {
+    "question": "What is a sequence-to-sequence model?",
+    "answer": "A sequence-to-sequence model maps an input sequence to an output sequence, often used in translation.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["seq2seq", "neural_network"]
+  },
+  {
+    "question": "What is an embedding layer in Keras?",
+    "answer": "An embedding layer in Keras maps integer-encoded words to dense vectors.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["embedding_layer", "keras"]
+  },
+  {
+    "question": "What is a pooling layer?",
+    "answer": "A pooling layer reduces the spatial size of the representation, commonly used in CNNs.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["pooling_layer", "cnn"]
+  },
+  {
+    "question": "What is a max pooling operation?",
+    "answer": "Max pooling selects the maximum value from a region of the input, reducing dimensionality.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["max_pooling", "cnn"]
+  },
+  {
+    "question": "What is a learning rate?",
+    "answer": "Learning rate is a hyperparameter that controls how much the model weights are updated during training.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["learning_rate", "training"]
+  },
+  {
+    "question": "What is an optimizer in neural networks?",
+    "answer": "An optimizer is an algorithm that updates the weights of a neural network to minimize the loss function.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["optimizer", "training"]
+  },
+  {
+    "question": "What is early stopping?",
+    "answer": "Early stopping is a technique to stop training when the model's performance on a validation set stops improving.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["early_stopping", "training"]
+  },
+  {
+    "question": "What is a validation set?",
+    "answer": "A validation set is a subset of data used to tune model hyperparameters and prevent overfitting.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["validation_set", "training"]
+  },
+  {
+    "question": "What is a test set?",
+    "answer": "A test set is a subset of data used to evaluate the final performance of a trained model.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["test_set", "evaluation"]
+  },
+  {
+    "question": "What is a confusion matrix in neural network classification?",
+    "answer": "A confusion matrix is a table used to evaluate the performance of a classification model, showing true/false positives/negatives.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["confusion_matrix", "classification"]
+  },
+  {
+    "question": "What is precision in neural network classification?",
+    "answer": "Precision is the proportion of true positives among all positive predictions.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["precision", "classification"]
+  },
+  {
+    "question": "What is recall in neural network classification?",
+    "answer": "Recall is the proportion of true positives among all actual positives.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["recall", "classification"]
+  },
+  {
+    "question": "What is F1 score in neural network classification?",
+    "answer": "F1 score is the harmonic mean of precision and recall.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["f1_score", "classification"]
+  },
+  {
+    "question": "What is a multilayer perceptron (MLP)?",
+    "answer": "An MLP is a neural network with one or more hidden layers between input and output.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["mlp", "neural_network"]
+  },
+  {
+    "question": "What is a hidden layer?",
+    "answer": "A hidden layer is any layer in a neural network between the input and output layers.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 1,
+    "tags": ["hidden_layer", "neural_network"]
+  },
+  {
+    "question": "What is a bias term in neural networks?",
+    "answer": "A bias term allows the activation function to be shifted left or right, improving model flexibility.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["bias", "neural_network"]
+  },
+  {
+    "question": "What is a vanishing gradient problem?",
+    "answer": "The vanishing gradient problem occurs when gradients become too small for effective learning in deep networks.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["vanishing_gradient", "training"]
+  },
+  {
+    "question": "What is a word embedding matrix?",
+    "answer": "A word embedding matrix is a table where each row is a vector representation of a word.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["embedding_matrix", "nlp"]
+  },
+  {
+    "question": "What is a cosine similarity in embeddings?",
+    "answer": "Cosine similarity measures the cosine of the angle between two vectors, used to compare embeddings.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["cosine_similarity", "embedding"]
+  },
+  {
+    "question": "What is a pretrained embedding?",
+    "answer": "A pretrained embedding is a word or feature vector learned from a large corpus and used in downstream tasks.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["pretrained_embedding", "nlp"]
+  },
+  {
+    "question": "What is fine-tuning in neural networks?",
+    "answer": "Fine-tuning is the process of further training a pretrained model on a new task.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 2,
+    "tags": ["fine_tuning", "neural_network"]
+  },
+  {
+    "question": "What is a Siamese network?",
+    "answer": "A Siamese network is a neural network architecture with two or more identical subnetworks used for similarity learning.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["siamese_network", "neural_network"]
+  },
+  {
+    "question": "What is a transformer encoder?",
+    "answer": "A transformer encoder is a neural network component that processes input sequences using self-attention mechanisms.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["transformer_encoder", "neural_network"]
+  },
+  {
+    "question": "What is a positional encoding in transformers?",
+    "answer": "Positional encoding provides information about the position of tokens in a sequence to a transformer model.",
+    "category": "AI_Data_Analytics-Week20-Neural Network Classifiers and Embeddings",
+    "difficulty": 3,
+    "tags": ["positional_encoding", "transformer"]
+  }
+]

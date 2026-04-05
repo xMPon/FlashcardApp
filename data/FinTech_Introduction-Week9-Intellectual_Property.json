@@ -1,0 +1,373 @@
+[
+  {
+    "question": "What is intellectual property in FinTech?",
+    "answer": "Intellectual property refers to creations of the mind, such as inventions, designs, and brand names, that are protected by law in the financial technology sector.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "intellectual_property"]
+  },
+  {
+    "question": "What is the main focus of Week 9 in FinTech Introduction?",
+    "answer": "The main focus is on understanding the role and protection of intellectual property in financial technology.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "week9"]
+  },
+  {
+    "question": "Why is intellectual property important in FinTech?",
+    "answer": "Intellectual property protects innovation, encourages investment, and provides a competitive advantage in the FinTech industry.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "innovation"]
+  },
+  {
+    "question": "What are some examples of intellectual property in FinTech?",
+    "answer": "Examples include software algorithms, user interface designs, and proprietary data analysis methods.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "examples"]
+  },
+  {
+    "question": "How can FinTech companies protect their intellectual property?",
+    "answer": "They can use patents, copyrights, trademarks, and trade secrets to safeguard their innovations.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "protection"]
+  },
+  {
+    "question": "What is a patent and how does it apply to FinTech?",
+    "answer": "A patent is a legal right granted for an invention, allowing the holder to exclude others from making, using, or selling it. In FinTech, patents protect innovative algorithms and systems.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent"]
+  },
+  {
+    "question": "What is copyright and how is it relevant to FinTech?",
+    "answer": "Copyright protects original works of authorship, such as software code and documentation, which are common in FinTech products.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "copyright"]
+  },
+  {
+    "question": "What is a trademark in the context of FinTech?",
+    "answer": "A trademark is a symbol, word, or phrase legally registered to represent a company or product, helping distinguish FinTech brands.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "trademark"]
+  },
+  {
+    "question": "How do trade secrets protect FinTech companies?",
+    "answer": "Trade secrets are confidential business information that provide a competitive edge, such as proprietary algorithms or client lists.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "trade_secret"]
+  },
+  {
+    "question": "What are the risks of not protecting intellectual property in FinTech?",
+    "answer": "Failure to protect IP can lead to loss of competitive advantage, revenue, and legal disputes.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "risk", "intellectual_property"]
+  },
+  {
+    "question": "What is the difference between a patent and a copyright?",
+    "answer": "A patent protects inventions and processes, while copyright protects original works of authorship like code and documentation.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent", "copyright"]
+  },
+  {
+    "question": "How does open source licensing affect FinTech intellectual property?",
+    "answer": "Open source licenses allow software to be freely used, modified, and shared, but may require attribution or sharing of derivative works.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "open_source"]
+  },
+  {
+    "question": "What is a non-disclosure agreement (NDA)?",
+    "answer": "An NDA is a legal contract that restricts the sharing of confidential information with third parties.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "nda"]
+  },
+  {
+    "question": "How can FinTech startups avoid infringing on existing patents?",
+    "answer": "They should conduct thorough patent searches and seek legal advice before launching new products.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent", "startup"]
+  },
+  {
+    "question": "What is the role of intellectual property in attracting investors?",
+    "answer": "Strong IP protection can increase a company's valuation and attract investment by reducing risks.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "investment"]
+  },
+  {
+    "question": "What is a patent troll?",
+    "answer": "A patent troll is an entity that acquires patents to demand licensing fees or settlements, rather than to produce products.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent_troll"]
+  },
+  {
+    "question": "How do international IP laws affect FinTech companies?",
+    "answer": "FinTech companies must navigate different IP laws in each country where they operate, which can complicate protection and enforcement.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 3,
+    "tags": ["fintech", "international_law"]
+  },
+  {
+    "question": "What is the process for filing a patent?",
+    "answer": "Filing a patent involves preparing a detailed application, submitting it to a patent office, and undergoing examination for approval.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent_filing"]
+  },
+  {
+    "question": "What is fair use in the context of copyright?",
+    "answer": "Fair use allows limited use of copyrighted material without permission for purposes like education, commentary, or research.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "fair_use"]
+  },
+  {
+    "question": "How can trademarks help FinTech companies build brand recognition?",
+    "answer": "Trademarks distinguish a company's products and services, helping to build trust and recognition in the market.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "trademark", "brand"]
+  },
+  {
+    "question": "What is a design patent?",
+    "answer": "A design patent protects the ornamental design of a functional item, such as the look and feel of a FinTech app interface.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "design_patent"]
+  },
+  {
+    "question": "What is prior art in patent law?",
+    "answer": "Prior art refers to any evidence that an invention is already known and can prevent a patent from being granted.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "prior_art"]
+  },
+  {
+    "question": "What is the duration of copyright protection?",
+    "answer": "Copyright typically lasts for the life of the author plus 70 years, but this can vary by jurisdiction.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "copyright", "duration"]
+  },
+  {
+    "question": "What is the World Intellectual Property Organization (WIPO)?",
+    "answer": "WIPO is a global forum for IP services, policy, and cooperation, helping harmonize IP protection internationally.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "WIPO"]
+  },
+  {
+    "question": "What is patent infringement?",
+    "answer": "Patent infringement occurs when someone makes, uses, or sells a patented invention without permission.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent_infringement"]
+  },
+  {
+    "question": "What is a utility patent?",
+    "answer": "A utility patent protects new and useful inventions or processes, such as a novel FinTech algorithm.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "utility_patent"]
+  },
+  {
+    "question": "What is a copyright notice?",
+    "answer": "A copyright notice is a statement placed on works to inform the public of copyright ownership, e.g., © 2026 FinTech Corp.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "copyright_notice"]
+  },
+  {
+    "question": "What is the Digital Millennium Copyright Act (DMCA)?",
+    "answer": "The DMCA is a U.S. law that protects copyrighted digital content and provides a process for removing infringing material online.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "DMCA"]
+  },
+  {
+    "question": "What is a trade dress?",
+    "answer": "Trade dress refers to the visual appearance of a product or its packaging that signifies the source of the product to consumers.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "trade_dress"]
+  },
+  {
+    "question": "How can FinTech companies enforce their IP rights?",
+    "answer": "They can send cease and desist letters, file lawsuits, or seek injunctions to stop infringement.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "enforcement"]
+  },
+  {
+    "question": "What is the role of IP in mergers and acquisitions?",
+    "answer": "IP assets can significantly increase a company's value and are often a key consideration in M&A deals.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "mergers", "acquisitions"]
+  },
+  {
+    "question": "What is a provisional patent application?",
+    "answer": "A provisional application allows inventors to secure a filing date while preparing a full patent application.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "provisional_patent"]
+  },
+  {
+    "question": "What is the difference between registered and unregistered trademarks?",
+    "answer": "Registered trademarks are officially recorded and offer stronger legal protection than unregistered ones.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "trademark"]
+  },
+  {
+    "question": "What is patentable subject matter?",
+    "answer": "Patentable subject matter includes inventions that are new, useful, and non-obvious, but excludes abstract ideas and natural phenomena.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 3,
+    "tags": ["fintech", "patentable_subject"]
+  },
+  {
+    "question": "What is a copyright license?",
+    "answer": "A copyright license is permission granted by the copyright owner to use the work under specified conditions.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "copyright_license"]
+  },
+  {
+    "question": "What is the role of IP audits in FinTech?",
+    "answer": "IP audits help companies identify, value, and manage their intellectual property assets.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "IP_audit"]
+  },
+  {
+    "question": "What is the Paris Convention for the Protection of Industrial Property?",
+    "answer": "It is an international agreement that helps protect IP rights across member countries.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 3,
+    "tags": ["fintech", "Paris_Convention"]
+  },
+  {
+    "question": "What is a patent portfolio?",
+    "answer": "A patent portfolio is a collection of patents owned by a company, used to protect and leverage its innovations.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent_portfolio"]
+  },
+  {
+    "question": "What is reverse engineering and how does it relate to IP?",
+    "answer": "Reverse engineering is analyzing a product to discover its design, which may risk violating trade secrets or patents.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "reverse_engineering"]
+  },
+  {
+    "question": "What is the Berne Convention?",
+    "answer": "The Berne Convention is an international agreement that protects literary and artistic works, including software.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "Berne_Convention"]
+  },
+  {
+    "question": "What is a confidentiality agreement?",
+    "answer": "A confidentiality agreement is a contract to keep certain information secret, similar to an NDA.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "confidentiality"]
+  },
+  {
+    "question": "What is the role of IP in open banking?",
+    "answer": "IP protects proprietary APIs and data-sharing technologies in open banking ecosystems.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "open_banking"]
+  },
+  {
+    "question": "What is a cease and desist letter?",
+    "answer": "A cease and desist letter is a formal request to stop alleged illegal activity, such as IP infringement.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "cease_and_desist"]
+  },
+  {
+    "question": "What is the difference between tangible and intangible assets?",
+    "answer": "Tangible assets are physical, like computers; intangible assets include IP such as patents and trademarks.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 1,
+    "tags": ["fintech", "assets"]
+  },
+  {
+    "question": "What is the role of IP in software as a service (SaaS)?",
+    "answer": "IP protects the underlying code, algorithms, and branding of SaaS FinTech products.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "SaaS"]
+  },
+  {
+    "question": "What is patent prosecution?",
+    "answer": "Patent prosecution is the process of negotiating with a patent office to obtain a patent.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent_prosecution"]
+  },
+  {
+    "question": "What is the role of IP in blockchain and cryptocurrencies?",
+    "answer": "IP protects blockchain protocols, cryptographic methods, and branding in the crypto space.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "blockchain", "cryptocurrency"]
+  },
+  {
+    "question": "What is a patent claim?",
+    "answer": "A patent claim defines the scope of protection granted by a patent.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "patent_claim"]
+  },
+  {
+    "question": "What is the role of IP in data analytics?",
+    "answer": "IP protects proprietary data analysis methods and software used in FinTech analytics.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "data_analytics"]
+  },
+  {
+    "question": "What is the difference between exclusive and non-exclusive licenses?",
+    "answer": "An exclusive license grants rights to one licensee only; a non-exclusive license allows multiple licensees.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "license"]
+  },
+  {
+    "question": "What is the role of IP in artificial intelligence (AI) in FinTech?",
+    "answer": "IP protects AI models, training data, and algorithms developed for FinTech applications.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "AI"]
+  },
+  {
+    "question": "What is the role of IP in mobile FinTech apps?",
+    "answer": "IP protects app design, code, and branding, helping prevent copying and misuse.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "mobile_app"]
+  },
+  {
+    "question": "What is the role of IP in cloud computing for FinTech?",
+    "answer": "IP protects cloud-based software, services, and infrastructure innovations in FinTech.",
+    "category": "FinTech_Introduction-Week9-Intellectual_Property",
+    "difficulty": 2,
+    "tags": ["fintech", "cloud_computing"]
+  }
+]

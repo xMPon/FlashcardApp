@@ -1,0 +1,331 @@
+[
+  {
+    "question": "What is text classification?",
+    "answer": "Text classification is the process of assigning predefined categories to text documents.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["text_classification", "nlp"]
+  },
+  {
+    "question": "What is a regular expression?",
+    "answer": "A regular expression is a sequence of characters that defines a search pattern, often used for string matching within texts.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["regular_expression", "nlp"]
+  },
+  {
+    "question": "What is tokenization in NLP?",
+    "answer": "Tokenization is the process of splitting text into individual words or tokens.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["tokenization", "nlp"]
+  },
+  {
+    "question": "What is stemming?",
+    "answer": "Stemming is the process of reducing words to their root form.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["stemming", "nlp"]
+  },
+  {
+    "question": "What is the purpose of stop words in text classification?",
+    "answer": "Stop words are common words that are usually removed from text before processing because they carry little meaningful information.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["stop_words", "nlp"]
+  },
+  {
+    "question": "What is lemmatization in NLP?",
+    "answer": "Lemmatization reduces words to their base or dictionary form.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["lemmatization", "nlp"]
+  },
+  {
+    "question": "What is the bag-of-words model?",
+    "answer": "The bag-of-words model represents text as a set of word frequencies, ignoring grammar and word order.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["bag_of_words", "nlp"]
+  },
+  {
+    "question": "What is TF-IDF?",
+    "answer": "TF-IDF stands for Term Frequency-Inverse Document Frequency, a statistic that reflects how important a word is to a document in a collection.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 3,
+    "tags": ["tfidf", "nlp"]
+  },
+  {
+    "question": "What is n-gram in text processing?",
+    "answer": "An n-gram is a contiguous sequence of n items (words or characters) from a given text.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["ngram", "nlp"]
+  },
+  {
+    "question": "What is the difference between stemming and lemmatization?",
+    "answer": "Stemming cuts off word endings, while lemmatization reduces words to their dictionary form using vocabulary and morphology.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["stemming", "lemmatization", "nlp"]
+  },
+  {
+    "question": "What is a pattern in regular expressions?",
+    "answer": "A pattern is a sequence of characters that defines a search rule for matching text.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["pattern", "regular_expression"]
+  },
+  {
+    "question": "What does the '.*' symbol mean in regex?",
+    "answer": "It matches any sequence of characters (including none).",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["regex", "wildcard"]
+  },
+  {
+    "question": "What is a capturing group in regex?",
+    "answer": "A capturing group is a part of a regex pattern enclosed in parentheses, used to extract a substring.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["capturing_group", "regex"]
+  },
+  {
+    "question": "What is the difference between greedy and non-greedy matching in regex?",
+    "answer": "Greedy matching captures as much text as possible, non-greedy captures as little as possible.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["greedy", "non_greedy", "regex"]
+  },
+  {
+    "question": "What is a word boundary in regex?",
+    "answer": "A word boundary (\\b) matches the position between a word and a non-word character.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["word_boundary", "regex"]
+  },
+  {
+    "question": "What is the use of the '|' symbol in regex?",
+    "answer": "The '|' symbol acts as an OR operator, matching either the pattern before or after it.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["or_operator", "regex"]
+  },
+  {
+    "question": "What is a stop word list?",
+    "answer": "A stop word list is a set of common words (like 'the', 'is') that are often removed from text before analysis.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["stop_words", "nlp"]
+  },
+  {
+    "question": "What is a confusion matrix in text classification?",
+    "answer": "A confusion matrix is a table used to evaluate the performance of a classification model, showing true/false positives/negatives.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["confusion_matrix", "classification"]
+  },
+  {
+    "question": "What is precision in text classification?",
+    "answer": "Precision is the proportion of true positives among all positive predictions.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["precision", "classification"]
+  },
+  {
+    "question": "What is recall in text classification?",
+    "answer": "Recall is the proportion of true positives among all actual positives.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["recall", "classification"]
+  },
+  {
+    "question": "What is F1 score?",
+    "answer": "F1 score is the harmonic mean of precision and recall.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["f1_score", "classification"]
+  },
+  {
+    "question": "What is supervised text classification?",
+    "answer": "Supervised text classification uses labeled data to train a model to assign categories to text.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["supervised", "text_classification"]
+  },
+  {
+    "question": "What is unsupervised text classification?",
+    "answer": "Unsupervised text classification groups text into categories without labeled data, often using clustering.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 3,
+    "tags": ["unsupervised", "text_classification"]
+  },
+  {
+    "question": "What is a support vector machine (SVM) in text classification?",
+    "answer": "SVM is a supervised learning algorithm used for classification tasks, including text classification.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 3,
+    "tags": ["svm", "classification"]
+  },
+  {
+    "question": "What is Naive Bayes in text classification?",
+    "answer": "Naive Bayes is a probabilistic classifier based on Bayes' theorem, commonly used for text classification.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["naive_bayes", "classification"]
+  },
+  {
+    "question": "What is a pipeline in NLP?",
+    "answer": "A pipeline is a sequence of processing steps applied to text data, such as tokenization, vectorization, and classification.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["pipeline", "nlp"]
+  },
+  {
+    "question": "What is feature extraction in text classification?",
+    "answer": "Feature extraction transforms raw text into numerical features for machine learning models.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["feature_extraction", "nlp"]
+  },
+  {
+    "question": "What is a regex engine?",
+    "answer": "A regex engine is a software component that interprets and applies regular expressions to text.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["regex_engine", "regex"]
+  },
+  {
+    "question": "What is the difference between classification and clustering?",
+    "answer": "Classification assigns predefined labels, clustering groups data based on similarity without labels.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["classification", "clustering"]
+  },
+  {
+    "question": "What is a token in NLP?",
+    "answer": "A token is a single unit of text, such as a word or punctuation mark.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["token", "nlp"]
+  },
+  {
+    "question": "What is a regex quantifier?",
+    "answer": "A regex quantifier specifies how many times a character or group should be matched.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["quantifier", "regex"]
+  },
+  {
+    "question": "What is a named entity in NLP?",
+    "answer": "A named entity is a real-world object, such as a person, organization, or location, identified in text.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["named_entity", "nlp"]
+  },
+  {
+    "question": "What is part-of-speech tagging?",
+    "answer": "Part-of-speech tagging assigns word types (noun, verb, etc.) to each token in text.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["pos_tagging", "nlp"]
+  },
+  {
+    "question": "What is a corpus in NLP?",
+    "answer": "A corpus is a large collection of text used for training and evaluating NLP models.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["corpus", "nlp"]
+  },
+  {
+    "question": "What is a regular expression anchor?",
+    "answer": "An anchor is a regex symbol (like ^ or $) that matches the start or end of a line.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["anchor", "regex"]
+  },
+  {
+    "question": "What is a confusion matrix used for?",
+    "answer": "It is used to evaluate the performance of a classification model by showing the counts of true/false positives/negatives.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["confusion_matrix", "classification"]
+  },
+  {
+    "question": "What is a pipeline in scikit-learn?",
+    "answer": "A pipeline in scikit-learn chains multiple processing steps, such as vectorization and classification, into a single workflow.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["pipeline", "scikit_learn"]
+  },
+  {
+    "question": "What is a regex metacharacter?",
+    "answer": "A regex metacharacter is a character with special meaning, such as . * + ? | ( ) [ ] { } ^ $.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["metacharacter", "regex"]
+  },
+  {
+    "question": "What is a document-term matrix?",
+    "answer": "A document-term matrix is a table that describes the frequency of terms in a collection of documents.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["document_term_matrix", "nlp"]
+  },
+  {
+    "question": "What is a regex character class?",
+    "answer": "A character class matches any one of a set of characters, defined in square brackets.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["character_class", "regex"]
+  },
+  {
+    "question": "What is a pipeline step in NLP?",
+    "answer": "A pipeline step is an individual processing stage, such as tokenization or stemming, in an NLP workflow.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["pipeline_step", "nlp"]
+  },
+  {
+    "question": "What is a regex literal?",
+    "answer": "A regex literal is a character that matches itself in a pattern.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 1,
+    "tags": ["literal", "regex"]
+  },
+  {
+    "question": "What is a classifier in machine learning?",
+    "answer": "A classifier is an algorithm that assigns categories to data points based on input features.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["classifier", "machine_learning"]
+  },
+  {
+    "question": "What is a regex escape sequence?",
+    "answer": "An escape sequence allows special characters to be matched literally in a regex pattern.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["escape_sequence", "regex"]
+  },
+  {
+    "question": "What is a pipeline object in Python?",
+    "answer": "A pipeline object in Python (e.g., from sklearn) manages a sequence of data processing steps.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["pipeline_object", "python"]
+  },
+  {
+    "question": "What is a regex backreference?",
+    "answer": "A backreference in regex refers to a previously captured group in the same pattern.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 3,
+    "tags": ["backreference", "regex"]
+  },
+  {
+    "question": "What is a pipeline for text classification?",
+    "answer": "A pipeline for text classification is a sequence of steps that transforms raw text into features and applies a classifier.",
+    "category": "AI_Data_Analytics-Week19-Text Classification, Regular Expressions",
+    "difficulty": 2,
+    "tags": ["pipeline", "text_classification"]
+  }
+]

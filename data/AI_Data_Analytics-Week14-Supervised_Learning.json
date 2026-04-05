@@ -1,0 +1,312 @@
+[
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of machine learning where the model is trained on labeled data, meaning the input comes with the correct output.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["supervised_learning", "machine_learning"]
+  },
+  {
+    "question": "What is the difference between classification and regression in supervised learning?",
+    "answer": "Classification predicts discrete labels, while regression predicts continuous values.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["classification", "regression", "supervised_learning"]
+  },
+  {
+    "question": "What is the purpose of a train-test split?",
+    "answer": "A train-test split divides the dataset into training and testing sets to evaluate model performance on unseen data.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["train_test_split", "evaluation"]
+  },
+  {
+    "question": "What is overfitting in supervised learning?",
+    "answer": "Overfitting occurs when a model learns the training data too well, including noise, and performs poorly on new data.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["overfitting", "supervised_learning"]
+  },
+  {
+    "question": "What is underfitting in supervised learning?",
+    "answer": "Underfitting occurs when a model is too simple to capture the underlying patterns in the data, resulting in poor performance.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["underfitting", "supervised_learning"]
+  }
+  ,
+  {
+    "question": "What is a labeled dataset?",
+    "answer": "A labeled dataset is a collection of data where each input is paired with the correct output or label.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["labeled_data", "dataset"]
+  },
+  {
+    "question": "Name two common supervised learning algorithms.",
+    "answer": "Linear regression and decision trees are two common supervised learning algorithms.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["algorithms", "supervised_learning"]
+  },
+  {
+    "question": "What is the main goal of supervised learning?",
+    "answer": "The main goal is to learn a mapping from inputs to outputs that generalizes well to new, unseen data.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["goal", "supervised_learning"]
+  },
+  {
+    "question": "What is a loss function in supervised learning?",
+    "answer": "A loss function measures the difference between the predicted output and the actual output, guiding model optimization.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["loss_function", "supervised_learning"]
+  },
+  {
+    "question": "What is the difference between parametric and non-parametric models?",
+    "answer": "Parametric models assume a fixed form for the function and have a finite set of parameters, while non-parametric models do not assume a specific form and can grow in complexity with more data.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["parametric", "non_parametric"]
+  },
+  {
+    "question": "What is cross-validation?",
+    "answer": "Cross-validation is a technique for assessing model performance by splitting the data into multiple training and validation sets.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["cross_validation", "evaluation"]
+  },
+  {
+    "question": "What is a decision boundary?",
+    "answer": "A decision boundary is a surface that separates different classes predicted by a classification model.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["decision_boundary", "classification"]
+  },
+  {
+    "question": "What is the purpose of feature selection?",
+    "answer": "Feature selection aims to choose the most relevant input variables to improve model performance and reduce complexity.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["feature_selection", "model_performance"]
+  },
+  {
+    "question": "What is regularization in supervised learning?",
+    "answer": "Regularization is a technique used to prevent overfitting by adding a penalty to the loss function for large parameter values.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["regularization", "overfitting"]
+  },
+  {
+    "question": "What is the difference between batch and stochastic gradient descent?",
+    "answer": "Batch gradient descent uses the entire dataset to compute gradients, while stochastic gradient descent uses one sample at a time.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["batch_gradient_descent", "sgd"]
+  },
+  {
+    "question": "What is a hyperparameter?",
+    "answer": "A hyperparameter is a configuration value set before training, such as learning rate or number of trees in a forest.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["hyperparameter", "training"]
+  },
+  {
+    "question": "What is the purpose of a validation set?",
+    "answer": "A validation set is used to tune model parameters and evaluate performance during training.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["validation_set", "model_selection"]
+  },
+  {
+    "question": "What is the main difference between supervised and unsupervised learning?",
+    "answer": "Supervised learning uses labeled data, while unsupervised learning finds patterns in unlabeled data.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["supervised_learning", "unsupervised_learning"]
+  },
+  {
+    "question": "What is a support vector machine (SVM)?",
+    "answer": "An SVM is a supervised learning algorithm that finds the optimal hyperplane to separate classes in the feature space.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["svm", "classification"]
+  },
+  {
+    "question": "What is the main advantage of using decision trees?",
+    "answer": "Decision trees are easy to interpret and can handle both numerical and categorical data.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["decision_tree", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using decision trees?",
+    "answer": "Decision trees can easily overfit the training data if not properly pruned.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["decision_tree", "disadvantage"]
+  },
+  {
+    "question": "What is the purpose of pruning in decision trees?",
+    "answer": "Pruning removes sections of the tree that provide little power to classify instances, helping to prevent overfitting.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["pruning", "decision_tree"]
+  },
+  {
+    "question": "What is the difference between a regression tree and a classification tree?",
+    "answer": "A regression tree predicts continuous values, while a classification tree predicts discrete labels.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["regression_tree", "classification_tree"]
+  },
+  {
+    "question": "What is the main purpose of using ensemble methods?",
+    "answer": "Ensemble methods combine multiple models to improve prediction accuracy and robustness.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["ensemble_methods", "accuracy"]
+  },
+  {
+    "question": "What is bagging in ensemble learning?",
+    "answer": "Bagging is an ensemble technique that trains multiple models on different random subsets of the data and averages their predictions.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["bagging", "ensemble"]
+  },
+  {
+    "question": "What is boosting in ensemble learning?",
+    "answer": "Boosting is an ensemble technique that trains models sequentially, each focusing on correcting the errors of the previous one.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["boosting", "ensemble"]
+  },
+  {
+    "question": "What is the main difference between bagging and boosting?",
+    "answer": "Bagging trains models in parallel on random subsets, while boosting trains models sequentially with a focus on previous errors.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["bagging", "boosting"]
+  },
+  {
+    "question": "What is a random forest?",
+    "answer": "A random forest is an ensemble of decision trees, where each tree is trained on a random subset of the data and features.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["random_forest", "ensemble"]
+  },
+  {
+    "question": "What is the main advantage of using random forests?",
+    "answer": "Random forests reduce overfitting and improve prediction accuracy compared to individual decision trees.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["random_forest", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using random forests?",
+    "answer": "Random forests can be less interpretable than single decision trees.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["random_forest", "disadvantage"]
+  },
+  {
+    "question": "What is the purpose of feature scaling in supervised learning?",
+    "answer": "Feature scaling ensures that all input variables contribute equally to the model, improving convergence and performance.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["feature_scaling", "preprocessing"]
+  },
+  {
+    "question": "What is the difference between normalization and standardization?",
+    "answer": "Normalization rescales features to a range (e.g., 0 to 1), while standardization transforms features to have zero mean and unit variance.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["normalization", "standardization"]
+  },
+  {
+    "question": "What is the main purpose of using a learning curve?",
+    "answer": "A learning curve shows how model performance changes with the size of the training set, helping diagnose underfitting or overfitting.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["learning_curve", "model_evaluation"]
+  },
+  {
+    "question": "What is the main challenge of using supervised learning for high-dimensional data?",
+    "answer": "High-dimensional data can lead to overfitting and increased computational cost, requiring dimensionality reduction techniques.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["high_dimensional_data", "challenge"]
+  },
+  {
+    "question": "What is principal component analysis (PCA)?",
+    "answer": "PCA is a dimensionality reduction technique that transforms data into a set of orthogonal components capturing the most variance.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["pca", "dimensionality_reduction"]
+  },
+  {
+    "question": "What is the main purpose of using grid search in supervised learning?",
+    "answer": "Grid search systematically tests combinations of hyperparameters to find the best model configuration.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["grid_search", "hyperparameter_tuning"]
+  },
+  {
+    "question": "What is the main difference between regression and classification tasks?",
+    "answer": "Regression predicts continuous values, while classification predicts discrete labels.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["regression", "classification"]
+  },
+  {
+    "question": "What is the main purpose of using mean squared error (MSE) in regression?",
+    "answer": "MSE measures the average squared difference between predicted and actual values, serving as a common loss function for regression.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["mse", "regression"]
+  },
+  {
+    "question": "What is the main advantage of using linear regression?",
+    "answer": "Linear regression is simple, interpretable, and efficient for modeling linear relationships.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 1,
+    "tags": ["linear_regression", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using linear regression?",
+    "answer": "Linear regression cannot model non-linear relationships and is sensitive to outliers.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["linear_regression", "disadvantage"]
+  },
+  {
+    "question": "What is the main purpose of using the R-squared metric in regression?",
+    "answer": "R-squared measures the proportion of variance in the dependent variable explained by the model.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["r_squared", "regression"]
+  },
+  {
+    "question": "What is the main challenge of using supervised learning for time series data?",
+    "answer": "Time series data requires models that account for temporal dependencies and autocorrelation.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 3,
+    "tags": ["time_series", "challenge"]
+  },
+  {
+    "question": "What is the main purpose of using feature engineering?",
+    "answer": "Feature engineering creates new input features from raw data to improve model performance.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["feature_engineering", "preprocessing"]
+  },
+  {
+    "question": "What is the main difference between a parameter and a hyperparameter?",
+    "answer": "Parameters are learned during training, while hyperparameters are set before training and control the learning process.",
+    "category": "AI_Data_Analytics-Week14-Supervised Learning",
+    "difficulty": 2,
+    "tags": ["parameter", "hyperparameter"]
+  }
+]
+]

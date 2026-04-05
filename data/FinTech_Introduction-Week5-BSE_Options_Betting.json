@@ -1,0 +1,387 @@
+[
+  {
+    "question": "What is BSE (Bristol Stock Exchange) in FinTech?",
+    "answer": "BSE is a Python-based simulation platform for studying market microstructure and automated trading strategies.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "BSE"]
+  },
+  {
+    "question": "What are options in financial markets?",
+    "answer": "Options are financial derivatives that give the holder the right, but not the obligation, to buy or sell an asset at a specified price before a certain date.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "options"]
+  },
+  {
+    "question": "What is betting in the context of FinTech?",
+    "answer": "Betting refers to wagering money on the outcome of an event, often facilitated by online platforms in the FinTech sector.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "betting"]
+  },
+  {
+    "question": "What is the main use of BSE in FinTech education?",
+    "answer": "BSE provides a hands-on environment for students to experiment with market design and trading strategies.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "BSE"]
+  },
+  {
+    "question": "What is the main focus of Week 5 in FinTech Introduction?",
+    "answer": "The main focus is on understanding BSE, options, and betting in financial markets.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "week5"]
+  },
+  {
+    "question": "What is a call option?",
+    "answer": "A call option gives the holder the right to buy an asset at a specified price within a certain period.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "call_option"]
+  },
+  {
+    "question": "What is a put option?",
+    "answer": "A put option gives the holder the right to sell an asset at a specified price within a certain period.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "put_option"]
+  },
+  {
+    "question": "How does the BSE simulation help students understand market microstructure?",
+    "answer": "It provides a virtual environment to observe order flow, price formation, and the impact of trading strategies.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "market_microstructure"]
+  },
+  {
+    "question": "What is the payoff of a European call option at expiry?",
+    "answer": "The payoff is max(0, S-K), where S is the asset price at expiry and K is the strike price.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "payoff", "options"]
+  },
+  {
+    "question": "What is the role of betting in financial innovation?",
+    "answer": "Betting markets can reveal information about future events and help in price discovery.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "betting", "innovation"]
+  },
+  {
+    "question": "What is an option premium?",
+    "answer": "The option premium is the price paid by the buyer to the seller for the rights conveyed by the option.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "option_premium"]
+  },
+  {
+    "question": "What is the strike price in an option contract?",
+    "answer": "The strike price is the fixed price at which the option holder can buy or sell the underlying asset.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "strike_price"]
+  },
+  {
+    "question": "What is the expiration date of an option?",
+    "answer": "The expiration date is the last day on which the option can be exercised.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "expiration_date"]
+  },
+  {
+    "question": "How does volatility affect option pricing?",
+    "answer": "Higher volatility increases the value of options due to greater uncertainty in price movements.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "volatility"]
+  },
+  {
+    "question": "What is the Black-Scholes model?",
+    "answer": "The Black-Scholes model is a mathematical model for pricing European options.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "black_scholes"]
+  },
+  {
+    "question": "What is hedging in the context of options?",
+    "answer": "Hedging is using options to reduce the risk of adverse price movements in an asset.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "hedging"]
+  },
+  {
+    "question": "What is a market maker in BSE?",
+    "answer": "A market maker provides liquidity by continuously quoting buy and sell prices in the market.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "market_maker"]
+  },
+  {
+    "question": "What is arbitrage?",
+    "answer": "Arbitrage is the practice of taking advantage of price differences in different markets for the same asset.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "arbitrage"]
+  },
+  {
+    "question": "How does betting differ from investing?",
+    "answer": "Betting is based on predicting outcomes with uncertain probabilities, while investing involves allocating resources for expected returns.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "betting", "investing"]
+  },
+  {
+    "question": "What is the role of simulation in BSE education?",
+    "answer": "Simulation allows students to experiment with trading strategies and observe market outcomes in a risk-free environment.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "simulation"]
+  },
+  {
+    "question": "What is intrinsic value in options?",
+    "answer": "Intrinsic value is the difference between the underlying asset's price and the option's strike price, if favorable to the holder.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "intrinsic_value", "options"]
+  },
+  {
+    "question": "What is time value in options?",
+    "answer": "Time value is the portion of an option's price that exceeds its intrinsic value, reflecting the probability of future profit.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "time_value", "options"]
+  },
+  {
+    "question": "What is an American option?",
+    "answer": "An American option can be exercised at any time before or on its expiration date.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "american_option"]
+  },
+  {
+    "question": "What is a European option?",
+    "answer": "A European option can only be exercised at its expiration date.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "european_option"]
+  },
+  {
+    "question": "What is a covered call strategy?",
+    "answer": "A covered call involves holding a long position in an asset and selling a call option on the same asset.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "covered_call"]
+  },
+  {
+    "question": "What is a protective put strategy?",
+    "answer": "A protective put involves holding a long position in an asset and buying a put option to hedge against downside risk.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "protective_put"]
+  },
+  {
+    "question": "What is the role of liquidity in options markets?",
+    "answer": "Liquidity ensures that options can be bought or sold quickly without causing significant price changes.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "liquidity", "options"]
+  },
+  {
+    "question": "What is open interest in options?",
+    "answer": "Open interest is the total number of outstanding option contracts that have not been settled.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "open_interest"]
+  },
+  {
+    "question": "What is implied volatility?",
+    "answer": "Implied volatility is the market's forecast of a likely movement in an asset's price, derived from option prices.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "implied_volatility"]
+  },
+  {
+    "question": "What is the Greeks in options trading?",
+    "answer": "The Greeks are measures of the sensitivity of an option's price to various factors, such as delta, gamma, theta, vega, and rho.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "greeks", "options"]
+  },
+  {
+    "question": "What is delta in options?",
+    "answer": "Delta measures the rate of change of the option price with respect to changes in the underlying asset's price.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "delta", "options"]
+  },
+  {
+    "question": "What is theta in options?",
+    "answer": "Theta measures the rate of decline in the value of an option due to the passage of time.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "theta", "options"]
+  },
+  {
+    "question": "What is vega in options?",
+    "answer": "Vega measures the sensitivity of the option price to changes in the volatility of the underlying asset.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "vega", "options"]
+  },
+  {
+    "question": "What is gamma in options?",
+    "answer": "Gamma measures the rate of change in delta with respect to changes in the underlying asset's price.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "gamma", "options"]
+  },
+  {
+    "question": "What is rho in options?",
+    "answer": "Rho measures the sensitivity of the option price to changes in interest rates.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "rho", "options"]
+  },
+  {
+    "question": "What is a synthetic position in options?",
+    "answer": "A synthetic position is created by combining options and/or the underlying asset to mimic another position.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "synthetic_position"]
+  },
+  {
+    "question": "What is a straddle strategy?",
+    "answer": "A straddle involves buying a call and a put option with the same strike price and expiration date.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "straddle"]
+  },
+  {
+    "question": "What is a spread strategy in options?",
+    "answer": "A spread strategy involves buying and selling options of the same class but with different strike prices or expiration dates.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 3,
+    "tags": ["fintech", "spread_strategy"]
+  },
+  {
+    "question": "What is the house edge in betting?",
+    "answer": "The house edge is the mathematical advantage that the betting platform has over participants.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "house_edge", "betting"]
+  },
+  {
+    "question": "What is a parimutuel betting system?",
+    "answer": "In parimutuel betting, all bets are pooled and winners share the pool proportionally after deductions.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "parimutuel", "betting"]
+  },
+  {
+    "question": "What is a bookmaker?",
+    "answer": "A bookmaker is an entity that sets odds, accepts bets, and pays out winnings in betting markets.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "bookmaker", "betting"]
+  },
+  {
+    "question": "What is the difference between fixed-odds and spread betting?",
+    "answer": "Fixed-odds betting pays a set amount if the outcome occurs, while spread betting pays based on the accuracy of the prediction.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "fixed_odds", "spread_betting"]
+  },
+  {
+    "question": "What is the role of odds in betting?",
+    "answer": "Odds represent the probability of an event and determine the payout for a winning bet.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "odds", "betting"]
+  },
+  {
+    "question": "What is a limit order in BSE?",
+    "answer": "A limit order is an order to buy or sell at a specified price or better.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "limit_order", "BSE"]
+  },
+  {
+    "question": "What is a market order in BSE?",
+    "answer": "A market order is an order to buy or sell immediately at the best available price.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "market_order", "BSE"]
+  },
+  {
+    "question": "What is order flow in market microstructure?",
+    "answer": "Order flow is the sequence of buy and sell orders submitted to the market, influencing price formation.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "order_flow", "market_microstructure"]
+  },
+  {
+    "question": "What is price discovery?",
+    "answer": "Price discovery is the process by which markets determine the price of an asset through the interaction of buyers and sellers.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "price_discovery"]
+  },
+  {
+    "question": "What is a zero-sum game in betting?",
+    "answer": "A zero-sum game is a situation where one participant's gain is exactly balanced by another's loss.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "zero_sum", "betting"]
+  },
+  {
+    "question": "What is the role of randomness in betting outcomes?",
+    "answer": "Randomness ensures that outcomes are unpredictable, making betting inherently risky.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "randomness", "betting"]
+  },
+  {
+    "question": "What is a simulation parameter in BSE?",
+    "answer": "A simulation parameter is a variable that controls aspects of the BSE simulation, such as number of traders or trading period.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "simulation_parameter", "BSE"]
+  },
+  {
+    "question": "What is the payoff of a European put option at expiry?",
+    "answer": "The payoff is max(0, K-S), where S is the asset price at expiry and K is the strike price.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "payoff", "put_option"]
+  },
+  {
+    "question": "What is the difference between in-the-money and out-of-the-money options?",
+    "answer": "In-the-money options have intrinsic value, while out-of-the-money options do not.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "in_the_money", "out_of_the_money", "options"]
+  },
+  {
+    "question": "What is a simulation output in BSE?",
+    "answer": "Simulation output refers to the data generated by running a BSE simulation, such as trade prices and order books.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 1,
+    "tags": ["fintech", "simulation_output", "BSE"]
+  },
+  {
+    "question": "What is the main risk in options trading?",
+    "answer": "The main risk is the potential loss of the premium paid, or larger losses for uncovered positions.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "risk", "options"]
+  },
+  {
+    "question": "What is leverage in options and betting?",
+    "answer": "Leverage allows participants to control a large position with a relatively small investment, increasing both potential gains and losses.",
+    "category": "FinTech_Introduction-Week5-BSE_Options_Betting",
+    "difficulty": 2,
+    "tags": ["fintech", "leverage", "options", "betting"]
+  }
+]

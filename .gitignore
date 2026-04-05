@@ -37,6 +37,7 @@ env/
 # data/flashcards.json
 # data/progress.json
 # logs/
+data/agent.md
 
 # System files
 .DS_Store

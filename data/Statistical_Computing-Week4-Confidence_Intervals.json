@@ -1,0 +1,296 @@
+[
+  {
+    "question": "What is a confidence interval?",
+    "answer": "A confidence interval is a range of values, derived from sample data, that is likely to contain the true value of an unknown population parameter.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["confidence_interval", "statistics"]
+  },
+  {
+    "question": "What is the formula for a confidence interval for the mean (known variance)?",
+    "answer": "CI = sample_mean ± z * (sigma / sqrt(n)), where z is the z-score for the desired confidence level.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["confidence_interval", "formula"]
+  },
+  {
+    "question": "What is the formula for a confidence interval for the mean (unknown variance)?",
+    "answer": "CI = sample_mean ± t * (s / sqrt(n)), where t is the t-score for the desired confidence level.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["confidence_interval", "t_distribution"]
+  },
+  {
+    "question": "What is the standard error of the mean?",
+    "answer": "The standard error of the mean is the standard deviation of the sample mean's sampling distribution: SE = s / sqrt(n).",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["standard_error"]
+  },
+  {
+    "question": "Why are confidence intervals important in statistics?",
+    "answer": "Confidence intervals provide a quantifiable probability that the true parameter lies within the specified range, reflecting the uncertainty in estimation.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["confidence_interval", "uncertainty"]
+  },
+  {
+    "question": "What does the confidence level represent?",
+    "answer": "The confidence level represents the proportion of intervals, constructed from repeated samples, that are expected to contain the true parameter value.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["confidence_level", "interpretation"]
+  },
+  {
+    "question": "What is the significance level (alpha) in confidence intervals?",
+    "answer": "Alpha is the probability that the confidence interval does not contain the true parameter value; confidence level = 1 - alpha.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["significance_level", "alpha"]
+  },
+  {
+    "question": "What is a lower confidence limit?",
+    "answer": "The lower confidence limit is the lower bound of a confidence interval.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 1,
+    "tags": ["lower_limit", "confidence_interval"]
+  },
+  {
+    "question": "What is an upper confidence limit?",
+    "answer": "The upper confidence limit is the upper bound of a confidence interval.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 1,
+    "tags": ["upper_limit", "confidence_interval"]
+  },
+  {
+    "question": "What is a parametric confidence interval?",
+    "answer": "A parametric confidence interval is derived mathematically based on assumptions about the population distribution.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["parametric", "confidence_interval"]
+  },
+  {
+    "question": "What is a nonparametric confidence interval?",
+    "answer": "A nonparametric confidence interval does not rely on assumptions about the population distribution.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["nonparametric", "confidence_interval"]
+  },
+  {
+    "question": "How does sample size affect the width of a confidence interval?",
+    "answer": "Larger sample sizes lead to narrower confidence intervals, all else being equal.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["sample_size", "width"]
+  },
+  {
+    "question": "How does variance affect the width of a confidence interval?",
+    "answer": "Greater variance leads to wider confidence intervals, all else being equal.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["variance", "width"]
+  },
+  {
+    "question": "How does the confidence level affect the width of a confidence interval?",
+    "answer": "Higher confidence levels result in wider intervals, all else being equal.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["confidence_level", "width"]
+  },
+  {
+    "question": "What is the relationship between confidence intervals and hypothesis testing?",
+    "answer": "Confidence intervals and hypothesis tests are related; a value outside the confidence interval would be rejected by a two-sided hypothesis test at the corresponding significance level.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["hypothesis_testing", "confidence_interval"]
+  },
+  {
+    "question": "What is the standard normal distribution?",
+    "answer": "The standard normal distribution is a normal distribution with mean 0 and standard deviation 1.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 1,
+    "tags": ["standard_normal", "distribution"]
+  },
+  {
+    "question": "What is the t-distribution?",
+    "answer": "The t-distribution is a probability distribution used when estimating the mean of a normally distributed population with unknown variance.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["t_distribution", "statistics"]
+  },
+  {
+    "question": "When should you use the t-distribution instead of the normal distribution for confidence intervals?",
+    "answer": "Use the t-distribution when the population variance is unknown and the sample size is small.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["t_distribution", "normal_distribution"]
+  },
+  {
+    "question": "What is the margin of error in a confidence interval?",
+    "answer": "The margin of error is the amount added and subtracted from the point estimate to create the confidence interval.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["margin_of_error", "confidence_interval"]
+  },
+  {
+    "question": "What is the interpretation of a 95% confidence interval?",
+    "answer": "If we repeated the sampling process many times, about 95% of the constructed intervals would contain the true parameter value.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["95_percent", "interpretation"]
+  },
+  {
+    "question": "What is the difference between a one-sided and a two-sided confidence interval?",
+    "answer": "A one-sided interval gives an upper or lower bound, while a two-sided interval gives both.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["one_sided", "two_sided"]
+  },
+  {
+    "question": "What is the formula for a confidence interval for a population proportion?",
+    "answer": "CI = p̂ ± z * sqrt(p̂(1-p̂)/n), where p̂ is the sample proportion.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["proportion", "confidence_interval"]
+  },
+  {
+    "question": "What is the formula for a confidence interval for the difference of means?",
+    "answer": "CI = (x̄1 - x̄2) ± z * sqrt(s1^2/n1 + s2^2/n2)",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["difference_of_means", "confidence_interval"]
+  },
+  {
+    "question": "What is the formula for a confidence interval for the variance?",
+    "answer": "CI = [(n-1)s^2/χ²_upper, (n-1)s^2/χ²_lower] where χ² are chi-square critical values.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["variance", "confidence_interval"]
+  },
+  {
+    "question": "What is the effect of increasing the confidence level from 95% to 99%?",
+    "answer": "The confidence interval becomes wider, reflecting greater certainty that it contains the true parameter.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["confidence_level", "width"]
+  },
+  {
+    "question": "What is the effect of decreasing the sample size on the confidence interval?",
+    "answer": "The confidence interval becomes wider, reflecting greater uncertainty.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["sample_size", "width"]
+  },
+  {
+    "question": "What is the effect of increasing the sample variance on the confidence interval?",
+    "answer": "The confidence interval becomes wider, reflecting greater variability in the data.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["variance", "width"]
+  },
+  {
+    "question": "What is the difference between statistical significance and confidence intervals?",
+    "answer": "Statistical significance refers to hypothesis testing, while confidence intervals provide a range of plausible values for a parameter.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["significance", "confidence_interval"]
+  },
+  {
+    "question": "What is the purpose of bootstrapping in confidence interval estimation?",
+    "answer": "Bootstrapping is a resampling method used to estimate the sampling distribution and construct confidence intervals without strong parametric assumptions.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["bootstrapping", "confidence_interval"]
+  },
+  {
+    "question": "What is the difference between a confidence interval and a prediction interval?",
+    "answer": "A confidence interval estimates a population parameter, while a prediction interval estimates the range for a future observation.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["confidence_interval", "prediction_interval"]
+  },
+  {
+    "question": "What is the role of the standard error in confidence intervals?",
+    "answer": "The standard error quantifies the variability of the estimator and is used to calculate the margin of error.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["standard_error", "margin_of_error"]
+  },
+  {
+    "question": "What is the difference between a confidence interval and a credible interval?",
+    "answer": "A confidence interval is a frequentist concept, while a credible interval is a Bayesian concept representing the probability that a parameter lies within a range.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["confidence_interval", "credible_interval"]
+  },
+  {
+    "question": "What is the main intuition behind confidence intervals?",
+    "answer": "They quantify the uncertainty in parameter estimation by providing a range of plausible values.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 1,
+    "tags": ["intuition", "confidence_interval"]
+  },
+  {
+    "question": "What is the difference between closed and open confidence intervals?",
+    "answer": "Closed intervals include both endpoints, while open intervals exclude one or both endpoints.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["closed_interval", "open_interval"]
+  },
+  {
+    "question": "What is the purpose of using confidence intervals in decision making?",
+    "answer": "They help quantify uncertainty and inform decisions by providing a range of plausible values for parameters.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["decision_making", "confidence_interval"]
+  },
+  {
+    "question": "What is the effect of outliers on confidence intervals?",
+    "answer": "Outliers can increase the variance and widen the confidence interval.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["outliers", "variance"]
+  },
+  {
+    "question": "What is the difference between a confidence interval for a mean and for a proportion?",
+    "answer": "A mean uses the sample mean and standard error, while a proportion uses the sample proportion and its standard error.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["mean", "proportion"]
+  },
+  {
+    "question": "What is the main limitation of confidence intervals?",
+    "answer": "They rely on assumptions about the sampling distribution and may not be accurate if those assumptions are violated.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["limitations", "assumptions"]
+  },
+  {
+    "question": "What is the difference between a confidence interval and a tolerance interval?",
+    "answer": "A confidence interval estimates a parameter, while a tolerance interval covers a specified proportion of the population.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["confidence_interval", "tolerance_interval"]
+  },
+  {
+    "question": "What is the effect of using a biased estimator on the confidence interval?",
+    "answer": "A biased estimator can lead to confidence intervals that do not contain the true parameter as often as claimed.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 3,
+    "tags": ["biased_estimator", "confidence_interval"]
+  },
+  {
+    "question": "What is the difference between a confidence interval and a standard error?",
+    "answer": "A standard error measures the variability of an estimator, while a confidence interval uses the standard error to create a range for the parameter.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 2,
+    "tags": ["standard_error", "confidence_interval"]
+  },
+  {
+    "question": "What is the main purpose of constructing a confidence interval?",
+    "answer": "To provide a range of plausible values for an unknown parameter, reflecting the uncertainty in estimation.",
+    "category": "Statistical_Computing-Week4-Confidence_Intervals",
+    "difficulty": 1,
+    "tags": ["purpose", "confidence_interval"]
+  }
+]

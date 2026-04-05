@@ -1,0 +1,352 @@
+[
+  {
+    "question": "What is empirical methods in FinTech?",
+    "answer": "Empirical methods in FinTech involve using data and experiments to test hypotheses and evaluate financial technologies.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "empirical_methods"]
+  },
+  {
+    "question": "What is a hypothesis testing activity in FinTech?",
+    "answer": "A hypothesis testing activity involves designing and running experiments to determine if a financial technology has a significant effect.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "hypothesis_testing"]
+  },
+  {
+    "question": "What is the role of data in empirical methods?",
+    "answer": "Data is used to validate models, test hypotheses, and inform decision-making in FinTech.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "data"]
+  },
+  {
+    "question": "What is the importance of experiments in FinTech?",
+    "answer": "Experiments help to objectively evaluate the effectiveness and impact of new financial technologies.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "experiments"]
+  },
+  {
+    "question": "What is the main goal of FinTech introduction?",
+    "answer": "The main goal is to understand the landscape, challenges, and opportunities in the financial technology sector.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "introduction"]
+  },
+  {
+    "question": "Define a null hypothesis in the context of FinTech experiments.",
+    "answer": "A null hypothesis is a default assumption that there is no effect or difference, used as a starting point for statistical testing in FinTech studies.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "null_hypothesis"]
+  },
+  {
+    "question": "What is a p-value and how is it interpreted in hypothesis testing?",
+    "answer": "A p-value is the probability of obtaining results at least as extreme as those observed, assuming the null hypothesis is true. A low p-value suggests evidence against the null hypothesis.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "p_value", "statistics"]
+  },
+  {
+    "question": "Give an example of an empirical method used in FinTech product evaluation.",
+    "answer": "A/B testing is an empirical method where two versions of a product are compared to determine which performs better based on user data.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "ab_testing", "empirical_methods"]
+  },
+  {
+    "question": "What is the difference between qualitative and quantitative data in FinTech research?",
+    "answer": "Qualitative data describes characteristics or qualities, while quantitative data is numerical and can be measured or counted.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "data_types"]
+  },
+  {
+    "question": "Why is randomization important in FinTech experiments?",
+    "answer": "Randomization reduces bias by ensuring that experimental groups are comparable and that results are not influenced by confounding variables.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "randomization", "experiments"]
+  },
+  {
+    "question": "What is statistical significance?",
+    "answer": "Statistical significance indicates that the observed effect in a study is unlikely to have occurred by chance alone.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "statistics"]
+  },
+  {
+    "question": "Describe a control group in the context of FinTech experiments.",
+    "answer": "A control group is a set of subjects that does not receive the experimental treatment, serving as a baseline for comparison.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "control_group"]
+  },
+  {
+    "question": "What is a confounding variable?",
+    "answer": "A confounding variable is an external factor that can affect the outcome of an experiment, potentially leading to incorrect conclusions.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "confounding_variable"]
+  },
+  {
+    "question": "How can sample size affect the results of a FinTech experiment?",
+    "answer": "A small sample size may lead to unreliable results, while a larger sample size increases the reliability and generalizability of findings.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "sample_size"]
+  },
+  {
+    "question": "What is the purpose of a pilot study in FinTech research?",
+    "answer": "A pilot study is a small-scale preliminary study conducted to evaluate feasibility, time, cost, and improve the design of a larger experiment.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "pilot_study"]
+  },
+  {
+    "question": "What is an experimental variable?",
+    "answer": "An experimental variable is any factor, trait, or condition that can exist in differing amounts or types in an experiment.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "experimental_variable"]
+  },
+  {
+    "question": "How do you formulate a research hypothesis in FinTech?",
+    "answer": "A research hypothesis is formulated by identifying a testable prediction about the relationship between variables in a FinTech context.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "research_hypothesis"]
+  },
+  {
+    "question": "What is the difference between independent and dependent variables?",
+    "answer": "The independent variable is manipulated to observe its effect, while the dependent variable is measured in response.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "independent_variable", "dependent_variable"]
+  },
+  {
+    "question": "What is a Type I error in hypothesis testing?",
+    "answer": "A Type I error occurs when the null hypothesis is incorrectly rejected (a false positive).",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "type1_error"]
+  },
+  {
+    "question": "What is a Type II error in hypothesis testing?",
+    "answer": "A Type II error occurs when the null hypothesis is incorrectly accepted (a false negative).",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "type2_error"]
+  },
+  {
+    "question": "How is statistical power defined?",
+    "answer": "Statistical power is the probability that a test will correctly reject a false null hypothesis.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "statistical_power"]
+  },
+  {
+    "question": "What is a confidence interval?",
+    "answer": "A confidence interval is a range of values that is likely to contain the true population parameter.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "confidence_interval"]
+  },
+  {
+    "question": "What is the purpose of random sampling?",
+    "answer": "Random sampling ensures that every member of the population has an equal chance of being selected, reducing bias.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "random_sampling"]
+  },
+  {
+    "question": "How do you interpret a statistically significant result?",
+    "answer": "A statistically significant result suggests that the observed effect is unlikely to be due to chance alone.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "significance"]
+  },
+  {
+    "question": "What is replication in empirical research?",
+    "answer": "Replication is the process of repeating a study to verify its results and increase reliability.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "replication"]
+  },
+  {
+    "question": "What is the placebo effect in experiments?",
+    "answer": "The placebo effect occurs when participants experience changes due to their expectations, not the experimental treatment.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "placebo_effect"]
+  },
+  {
+    "question": "How can blinding improve experimental validity?",
+    "answer": "Blinding prevents participants or researchers from knowing group assignments, reducing bias in results.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "blinding"]
+  },
+  {
+    "question": "What is a longitudinal study?",
+    "answer": "A longitudinal study follows the same subjects over a period of time to observe changes.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "longitudinal_study"]
+  },
+  {
+    "question": "What is a cross-sectional study?",
+    "answer": "A cross-sectional study analyzes data from a population at a single point in time.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "cross_sectional"]
+  },
+  {
+    "question": "How do you interpret a confidence level?",
+    "answer": "A confidence level indicates the probability that a confidence interval contains the true parameter value.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "confidence_level"]
+  },
+  {
+    "question": "What is the difference between correlation and causation?",
+    "answer": "Correlation is a relationship between variables, while causation means one variable directly affects another.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "correlation", "causation"]
+  },
+  {
+    "question": "What is a regression analysis?",
+    "answer": "Regression analysis estimates the relationship between a dependent variable and one or more independent variables.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 3,
+    "tags": ["fintech", "regression"]
+  },
+  {
+    "question": "What is the Hawthorne effect?",
+    "answer": "The Hawthorne effect is when participants alter their behavior because they know they are being observed.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "hawthorne_effect"]
+  },
+  {
+    "question": "How do you ensure reproducibility in empirical research?",
+    "answer": "By providing detailed methods, data, and code so others can repeat the study and verify results.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "reproducibility"]
+  },
+  {
+    "question": "What is the difference between experimental and observational studies?",
+    "answer": "Experimental studies involve manipulation of variables, while observational studies do not.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "experimental", "observational"]
+  },
+  {
+    "question": "What is a meta-analysis?",
+    "answer": "A meta-analysis combines results from multiple studies to identify overall trends.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 3,
+    "tags": ["fintech", "meta_analysis"]
+  },
+  {
+    "question": "What is the role of peer review in empirical research?",
+    "answer": "Peer review ensures research quality and validity by having experts evaluate the study before publication.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "peer_review"]
+  },
+  {
+    "question": "What is a null result?",
+    "answer": "A null result occurs when an experiment does not find a statistically significant effect.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "null_result"]
+  },
+  {
+    "question": "How can outliers affect experimental results?",
+    "answer": "Outliers can skew results and may indicate errors or unique cases that need further investigation.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "outlier"]
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "answer": "Descriptive statistics summarize data, while inferential statistics draw conclusions about populations from samples.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "descriptive", "inferential"]
+  },
+  {
+    "question": "What is a placebo control group?",
+    "answer": "A placebo control group receives a fake treatment to measure the effect of the actual intervention.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "placebo_control"]
+  },
+  {
+    "question": "What is the Bonferroni correction?",
+    "answer": "The Bonferroni correction adjusts significance levels to account for multiple comparisons in statistical tests.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 3,
+    "tags": ["fintech", "bonferroni"]
+  },
+  {
+    "question": "How do you report effect size in empirical studies?",
+    "answer": "Effect size quantifies the magnitude of a result, providing context beyond statistical significance.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "effect_size"]
+  },
+  {
+    "question": "What is a pre-registration of a study?",
+    "answer": "Pre-registration involves publicly recording the study design and hypotheses before data collection to prevent bias.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "pre_registration"]
+  },
+  {
+    "question": "What is the difference between a one-tailed and two-tailed test?",
+    "answer": "A one-tailed test predicts the direction of an effect, while a two-tailed test checks for any difference regardless of direction.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "one_tailed", "two_tailed"]
+  },
+  {
+    "question": "What is the role of ethics in empirical FinTech research?",
+    "answer": "Ethics ensure that research is conducted responsibly, protecting participants and maintaining integrity.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "ethics"]
+  },
+  {
+    "question": "How can bias be minimized in FinTech experiments?",
+    "answer": "Bias can be minimized through randomization, blinding, and careful study design.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "bias"]
+  },
+  {
+    "question": "What is the difference between primary and secondary data?",
+    "answer": "Primary data is collected firsthand for a specific study, while secondary data is previously collected for another purpose.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "primary_data", "secondary_data"]
+  },
+  {
+    "question": "What is the purpose of a literature review in empirical research?",
+    "answer": "A literature review summarizes existing research to provide context and identify gaps for new studies.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 1,
+    "tags": ["fintech", "literature_review"]
+  },
+  {
+    "question": "How do you handle missing data in experiments?",
+    "answer": "Missing data can be addressed through imputation, exclusion, or sensitivity analysis.",
+    "category": "FinTech_Introduction-Week3-FinTech_Introduction_Empirical_Methods_Hypothesis_Testing_Activity",
+    "difficulty": 2,
+    "tags": ["fintech", "missing_data"]
+  }
+]

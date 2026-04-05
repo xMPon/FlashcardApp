@@ -1,0 +1,289 @@
+[
+  {
+    "question": "What is inference for multiple populations?",
+    "answer": "Inference for multiple populations involves comparing two or more groups to determine if there are significant differences between them.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["inference", "multiple_populations"]
+  },
+  {
+    "question": "What is an ANOVA test?",
+    "answer": "ANOVA (Analysis of Variance) is used to determine whether there are statistically significant differences between the means of three or more independent groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["anova", "statistics"]
+  },
+  {
+    "question": "What is a post-hoc test in ANOVA?",
+    "answer": "A post-hoc test is conducted after an ANOVA to determine which specific groups are different from each other.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["post_hoc_test", "anova"]
+  },
+  {
+    "question": "What is the null hypothesis in ANOVA?",
+    "answer": "The null hypothesis in ANOVA states that all group means are equal.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["null_hypothesis", "anova"]
+  },
+  {
+    "question": "What is the alternative hypothesis in ANOVA?",
+    "answer": "The alternative hypothesis in ANOVA states that at least one group mean is different from the others.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["alternative_hypothesis", "anova"]
+  },
+  {
+    "question": "What is a two-sample t-test?",
+    "answer": "A two-sample t-test compares the means of two independent groups to determine if they are significantly different.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["two_sample_t_test", "comparison"]
+  },
+  {
+    "question": "What is the Welch t-test?",
+    "answer": "The Welch t-test is a version of the two-sample t-test that does not assume equal variances between groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["welch_t_test", "comparison"]
+  },
+  {
+    "question": "What is the F-statistic in ANOVA?",
+    "answer": "The F-statistic is the ratio of the variance between group means to the variance within groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["f_statistic", "anova"]
+  },
+  {
+    "question": "What are the assumptions of ANOVA?",
+    "answer": "ANOVA assumes independence of observations, normality within groups, and equal variances across groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["anova", "assumptions"]
+  },
+  {
+    "question": "What is a factor in experimental design?",
+    "answer": "A factor is a variable that is manipulated to observe its effect on the response variable.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["factor", "experimental_design"]
+  },
+  {
+    "question": "What is a level in experimental design?",
+    "answer": "A level is a specific value or category of a factor in an experiment.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["level", "experimental_design"]
+  },
+  {
+    "question": "What is a treatment in experimental design?",
+    "answer": "A treatment is a combination of factor levels applied to experimental units.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["treatment", "experimental_design"]
+  },
+  {
+    "question": "What is the purpose of random assignment in experiments?",
+    "answer": "Random assignment helps ensure that groups are comparable and reduces bias.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["random_assignment", "bias"]
+  },
+  {
+    "question": "What is the difference between within-group and between-group variance?",
+    "answer": "Within-group variance measures variability inside each group; between-group variance measures variability between group means.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["within_group", "between_group"]
+  },
+  {
+    "question": "What is the null hypothesis for comparing two means?",
+    "answer": "The null hypothesis states that the means of the two populations are equal.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["null_hypothesis", "comparison"]
+  },
+  {
+    "question": "What is the alternative hypothesis for comparing two means?",
+    "answer": "The alternative hypothesis states that the means of the two populations are not equal.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["alternative_hypothesis", "comparison"]
+  },
+  {
+    "question": "What is a p-value in the context of ANOVA?",
+    "answer": "The p-value in ANOVA is the probability of observing an F-statistic as extreme as, or more extreme than, the one calculated, assuming the null hypothesis is true.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["p_value", "anova"]
+  },
+  {
+    "question": "What is the purpose of a post-hoc test?",
+    "answer": "A post-hoc test identifies which specific group means are different after finding a significant ANOVA result.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["post_hoc_test", "anova"]
+  },
+  {
+    "question": "What is the Bonferroni correction?",
+    "answer": "The Bonferroni correction adjusts significance levels to account for multiple comparisons and control the overall Type I error rate.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["bonferroni", "multiple_comparisons"]
+  },
+  {
+    "question": "What is a Type I error in the context of multiple comparisons?",
+    "answer": "A Type I error occurs when a true null hypothesis is incorrectly rejected for at least one comparison.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["type_i_error", "multiple_comparisons"]
+  },
+  {
+    "question": "What is a Type II error in the context of multiple comparisons?",
+    "answer": "A Type II error occurs when a false null hypothesis is not rejected for at least one comparison.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["type_ii_error", "multiple_comparisons"]
+  },
+  {
+    "question": "What is the familywise error rate?",
+    "answer": "The familywise error rate is the probability of making at least one Type I error among all comparisons.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["familywise_error_rate", "multiple_comparisons"]
+  },
+  {
+    "question": "What is the Tukey HSD test?",
+    "answer": "The Tukey HSD (Honestly Significant Difference) test is a post-hoc test used to compare all possible pairs of group means after ANOVA.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["tukey_hsd", "post_hoc_test"]
+  },
+  {
+    "question": "What is the difference between fixed and random effects in ANOVA?",
+    "answer": "Fixed effects are specific levels of interest; random effects are randomly selected from a larger population.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["fixed_effects", "random_effects"]
+  },
+  {
+    "question": "What is the purpose of checking assumptions in ANOVA?",
+    "answer": "Checking assumptions ensures the validity of the ANOVA results; violations can lead to incorrect conclusions.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["assumptions", "anova"]
+  },
+  {
+    "question": "What is the Kruskal-Wallis test?",
+    "answer": "The Kruskal-Wallis test is a nonparametric alternative to one-way ANOVA for comparing medians across groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["kruskal_wallis", "nonparametric"]
+  },
+  {
+    "question": "What is the Mann-Whitney U test?",
+    "answer": "The Mann-Whitney U test is a nonparametric test for comparing two independent groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["mann_whitney", "nonparametric"]
+  },
+  {
+    "question": "What is the difference between paired and unpaired tests?",
+    "answer": "Paired tests compare related samples; unpaired tests compare independent samples.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["paired", "unpaired"]
+  },
+  {
+    "question": "What is the main goal of inference for multiple populations?",
+    "answer": "The main goal is to determine whether differences exist between groups and to quantify those differences.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 1,
+    "tags": ["goal", "multiple_populations"]
+  },
+  {
+    "question": "What is the role of sample size in ANOVA?",
+    "answer": "Larger sample sizes increase the power of ANOVA to detect differences between groups.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["sample_size", "anova"]
+  },
+  {
+    "question": "What is the effect of unequal variances on ANOVA?",
+    "answer": "Unequal variances can invalidate the results of standard ANOVA; alternative methods like Welch's ANOVA may be used.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["unequal_variances", "anova"]
+  },
+  {
+    "question": "What is the difference between one-way and two-way ANOVA?",
+    "answer": "One-way ANOVA tests one factor; two-way ANOVA tests two factors and their interaction.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["one_way_anova", "two_way_anova"]
+  },
+  {
+    "question": "What is the interaction effect in two-way ANOVA?",
+    "answer": "The interaction effect measures whether the effect of one factor depends on the level of another factor.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["interaction_effect", "two_way_anova"]
+  },
+  {
+    "question": "What is the main limitation of ANOVA?",
+    "answer": "ANOVA relies on assumptions of normality and equal variances; violations can affect validity.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["limitations", "anova"]
+  },
+  {
+    "question": "What is the purpose of using multiple comparison procedures?",
+    "answer": "Multiple comparison procedures control the overall error rate when making several pairwise comparisons.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["multiple_comparisons", "error_rate"]
+  },
+  {
+    "question": "What is the difference between a balanced and unbalanced design in ANOVA?",
+    "answer": "A balanced design has equal sample sizes in all groups; an unbalanced design does not.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["balanced_design", "unbalanced_design"]
+  },
+  {
+    "question": "What is the main intuition behind comparing multiple populations?",
+    "answer": "The intuition is to determine if observed differences between groups are likely due to chance or reflect true differences.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 1,
+    "tags": ["intuition", "multiple_populations"]
+  },
+  {
+    "question": "What is the effect of outliers on ANOVA?",
+    "answer": "Outliers can increase within-group variance and reduce the power of ANOVA to detect differences.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["outliers", "anova"]
+  },
+  {
+    "question": "What is the difference between comparing means and comparing proportions?",
+    "answer": "Comparing means uses t-tests or ANOVA; comparing proportions uses chi-square or proportion tests.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 2,
+    "tags": ["means", "proportions"]
+  },
+  {
+    "question": "What is the chi-square test for independence?",
+    "answer": "The chi-square test for independence assesses whether two categorical variables are associated in a population.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 3,
+    "tags": ["chi_square", "independence"]
+  },
+  {
+    "question": "What is the main purpose of inference for multiple populations?",
+    "answer": "To determine whether differences exist between groups and to quantify those differences.",
+    "category": "Statistical_Computing-Week6-Inference_for_Multiple_Populations",
+    "difficulty": 1,
+    "tags": ["purpose", "multiple_populations"]
+  }
+]

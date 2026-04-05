@@ -1,0 +1,380 @@
+[
+  {
+    "question": "What are economic agents in FinTech?",
+    "answer": "Economic agents are individuals or entities that make economic decisions, such as consumers, firms, and governments.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "economic_agents"]
+  },
+  {
+    "question": "What are experimental markets?",
+    "answer": "Experimental markets are controlled environments where economic theories and market mechanisms can be tested.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "experimental_markets"]
+  },
+  {
+    "question": "What is the role of economic agents in markets?",
+    "answer": "Economic agents interact in markets to buy and sell goods and services, influencing prices and resource allocation.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "markets"]
+  },
+  {
+    "question": "What is the importance of experimental markets in FinTech?",
+    "answer": "Experimental markets allow researchers to study the effects of new technologies and regulations in a controlled setting.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "experimental_markets"]
+  },
+  {
+    "question": "What is the main focus of Week 4 in FinTech Introduction?",
+    "answer": "The main focus is on understanding economic agents and the use of experimental markets in financial technology research.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "week4"]
+  },
+  {
+    "question": "Define the term 'market mechanism' in experimental markets.",
+    "answer": "A market mechanism is the process by which buyers and sellers interact to determine prices and allocate resources.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "market_mechanism"]
+  },
+  {
+    "question": "What is a double auction and how is it used in experiments?",
+    "answer": "A double auction is a market where buyers and sellers submit bids and offers simultaneously, commonly used in experimental economics to study trading behavior.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "double_auction"]
+  },
+  {
+    "question": "Give an example of an economic agent in a FinTech context.",
+    "answer": "A retail investor using a robo-advisor platform is an example of an economic agent in FinTech.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "economic_agents"]
+  },
+  {
+    "question": "Why are experimental markets important for FinTech innovation?",
+    "answer": "They allow for safe testing of new financial products and regulations before real-world implementation.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "innovation"]
+  },
+  {
+    "question": "What is the difference between a centralized and decentralized market?",
+    "answer": "A centralized market has a single platform for trading, while a decentralized market allows direct peer-to-peer transactions.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "market_structure"]
+  },
+  {
+    "question": "What is a market equilibrium?",
+    "answer": "Market equilibrium is the state where supply equals demand, resulting in stable prices.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "equilibrium"]
+  },
+  {
+    "question": "How do experimental markets help test new regulations?",
+    "answer": "They allow researchers to simulate the effects of regulations before real-world implementation.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "regulation"]
+  },
+  {
+    "question": "What is a supply curve?",
+    "answer": "A supply curve shows the relationship between price and the quantity of a good that producers are willing to sell.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "supply_curve"]
+  },
+  {
+    "question": "What is a demand curve?",
+    "answer": "A demand curve shows the relationship between price and the quantity of a good that consumers are willing to buy.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "demand_curve"]
+  },
+  {
+    "question": "How do auctions differ from posted-price markets?",
+    "answer": "Auctions involve bidding, while posted-price markets have fixed prices set by sellers.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "auction", "posted_price"]
+  },
+  {
+    "question": "What is the role of information in experimental markets?",
+    "answer": "Information affects decision-making and can lead to different market outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "information"]
+  },
+  {
+    "question": "What is a Nash equilibrium?",
+    "answer": "A Nash equilibrium is a situation where no participant can gain by changing their strategy while others keep theirs unchanged.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "nash_equilibrium"]
+  },
+  {
+    "question": "How do market experiments model real-world trading?",
+    "answer": "They replicate trading rules, incentives, and constraints to study behavior and outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "market_experiment"]
+  },
+  {
+    "question": "What is price discovery?",
+    "answer": "Price discovery is the process by which markets determine the price of a good or service.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "price_discovery"]
+  },
+  {
+    "question": "What is the impact of market power in experimental markets?",
+    "answer": "Market power can lead to price manipulation and reduced efficiency.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "market_power"]
+  },
+  {
+    "question": "What is a public good in economics?",
+    "answer": "A public good is non-excludable and non-rivalrous, meaning it is available to all and one person's use does not reduce availability to others.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "public_good"]
+  },
+  {
+    "question": "How do transaction costs affect market efficiency?",
+    "answer": "High transaction costs can reduce the number of trades and lead to less efficient markets.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "transaction_cost"]
+  },
+  {
+    "question": "What is adverse selection?",
+    "answer": "Adverse selection occurs when one party in a transaction has more information than the other, leading to suboptimal outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "adverse_selection"]
+  },
+  {
+    "question": "What is moral hazard?",
+    "answer": "Moral hazard is when a party takes more risks because they do not bear the full consequences of those risks.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "moral_hazard"]
+  },
+  {
+    "question": "How do experimental markets test behavioral economics theories?",
+    "answer": "They allow researchers to observe real decision-making and deviations from rational behavior.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "behavioral_economics"]
+  },
+  {
+    "question": "What is a repeated game in experimental economics?",
+    "answer": "A repeated game is an experiment where participants interact multiple times, allowing for strategy development and learning.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "repeated_game"]
+  },
+  {
+    "question": "What is the winner's curse in auctions?",
+    "answer": "The winner's curse is when the winning bidder overpays due to incomplete information or overestimation.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "winners_curse"]
+  },
+  {
+    "question": "How do experimental markets address market failures?",
+    "answer": "They allow for controlled testing of interventions to correct inefficiencies and improve outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "market_failure"]
+  },
+  {
+    "question": "What is the role of incentives in experimental markets?",
+    "answer": "Incentives motivate participants and can influence market outcomes and efficiency.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "incentive"]
+  },
+  {
+    "question": "What is a laboratory experiment in economics?",
+    "answer": "A laboratory experiment is a controlled study conducted in a simulated environment to test economic theories.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "lab_experiment"]
+  },
+  {
+    "question": "How do experimental markets inform policy decisions?",
+    "answer": "Results from experimental markets can guide policymakers in designing effective regulations and interventions.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "policy"]
+  },
+  {
+    "question": "What is a field experiment?",
+    "answer": "A field experiment is conducted in a real-world setting to test economic theories and interventions.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "field_experiment"]
+  },
+  {
+    "question": "What is the endowment effect?",
+    "answer": "The endowment effect is when people value something more simply because they own it.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "endowment_effect"]
+  },
+  {
+    "question": "How do experimental markets test the impact of technology on trading?",
+    "answer": "They simulate new technologies to observe their effects on market behavior and efficiency.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "technology"]
+  },
+  {
+    "question": "What is a matching market?",
+    "answer": "A matching market is one where participants are paired based on preferences, such as job seekers and employers.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "matching_market"]
+  },
+  {
+    "question": "What is a continuous double auction?",
+    "answer": "A continuous double auction is a market where buyers and sellers can submit bids and offers at any time, and trades occur whenever compatible orders meet.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "continuous_double_auction"]
+  },
+  {
+    "question": "How do experimental markets test the efficiency of new trading algorithms?",
+    "answer": "They simulate trading environments to compare algorithm performance under controlled conditions.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "trading_algorithm"]
+  },
+  {
+    "question": "What is a public signal in market experiments?",
+    "answer": "A public signal is information shared with all participants, influencing their decisions and market outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "public_signal"]
+  },
+  {
+    "question": "What is a private value auction?",
+    "answer": "In a private value auction, each bidder knows their own value for the item, but not others' values.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "private_value"]
+  },
+  {
+    "question": "What is a common value auction?",
+    "answer": "In a common value auction, the item has the same value for everyone, but bidders may have different information about that value.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "common_value"]
+  },
+  {
+    "question": "How do experimental markets study collusion?",
+    "answer": "They allow researchers to observe if and how participants coordinate to manipulate prices or outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "collusion"]
+  },
+  {
+    "question": "What is a reservation price?",
+    "answer": "A reservation price is the maximum price a buyer will pay or the minimum price a seller will accept.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "reservation_price"]
+  },
+  {
+    "question": "What is a market clearing price?",
+    "answer": "The market clearing price is where supply equals demand and all trades that can occur do occur.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 1,
+    "tags": ["fintech", "market_clearing"]
+  },
+  {
+    "question": "How do experimental markets test the impact of asymmetric information?",
+    "answer": "They create scenarios where some participants have more information than others to study effects on prices and efficiency.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "asymmetric_information"]
+  },
+  {
+    "question": "What is a sealed-bid auction?",
+    "answer": "A sealed-bid auction is one where all bids are submitted privately and the highest (or lowest) wins, depending on the auction type.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "sealed_bid"]
+  },
+  {
+    "question": "What is a Vickrey auction?",
+    "answer": "A Vickrey auction is a sealed-bid auction where the highest bidder wins but pays the second-highest bid.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "vickrey_auction"]
+  },
+  {
+    "question": "How do experimental markets test the effect of taxes or subsidies?",
+    "answer": "They introduce taxes or subsidies in the simulated market to observe changes in behavior and outcomes.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "tax", "subsidy"]
+  },
+  {
+    "question": "What is a price ceiling?",
+    "answer": "A price ceiling is a legal maximum price for a good or service, often tested in experiments to study shortages.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "price_ceiling"]
+  },
+  {
+    "question": "What is a price floor?",
+    "answer": "A price floor is a legal minimum price for a good or service, often tested in experiments to study surpluses.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "price_floor"]
+  },
+  {
+    "question": "What is a quota in market experiments?",
+    "answer": "A quota is a limit on the quantity of a good that can be bought or sold, used to study effects on prices and allocation.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "quota"]
+  },
+  {
+    "question": "How do experimental markets test the effect of market entry and exit?",
+    "answer": "They allow participants to join or leave the market, simulating real-world dynamics and competition.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "entry", "exit"]
+  },
+  {
+    "question": "What is a call market?",
+    "answer": "A call market is one where trades occur at specific times rather than continuously, often used to study price formation.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "call_market"]
+  },
+  {
+    "question": "What is a market anomaly?",
+    "answer": "A market anomaly is a pattern or occurrence in markets that deviates from standard theory or expectations.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 3,
+    "tags": ["fintech", "market_anomaly"]
+  },
+  {
+    "question": "How do experimental markets test the effect of learning and adaptation?",
+    "answer": "They observe how participants change strategies over time in response to outcomes and information.",
+    "category": "FinTech_Introduction-Week4-Economic_Agents_Experimental_Markets",
+    "difficulty": 2,
+    "tags": ["fintech", "learning", "adaptation"]
+  }
+]

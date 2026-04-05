@@ -1,0 +1,317 @@
+[
+  {
+    "question": "What are pretrained language models?",
+    "answer": "Pretrained language models are models that have been trained on large text corpora and can be fine-tuned for specific NLP tasks.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["pretrained_language_model", "nlp"]
+  },
+  {
+    "question": "What is a transformer in NLP?",
+    "answer": "A transformer is a neural network architecture that uses self-attention mechanisms to process sequential data efficiently.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["transformer", "nlp"]
+  },
+  {
+    "question": "What is self-attention in transformers?",
+    "answer": "Self-attention is a mechanism that allows the model to weigh the importance of different words in a sequence when encoding a word.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["self_attention", "transformer"]
+  },
+  {
+    "question": "What is fine-tuning in the context of pretrained models?",
+    "answer": "Fine-tuning is the process of adapting a pretrained model to a specific task by continuing training on a smaller, task-specific dataset.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["fine_tuning", "pretrained_model"]
+  },
+  {
+    "question": "What is the main advantage of transformers over RNNs?",
+    "answer": "Transformers can process sequences in parallel and capture long-range dependencies more effectively than RNNs.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["transformer", "rnn", "nlp"]
+  },
+  {
+    "question": "What is BERT?",
+    "answer": "BERT (Bidirectional Encoder Representations from Transformers) is a pretrained language model that uses transformers for NLP tasks.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["bert", "transformer"]
+  },
+  {
+    "question": "What is GPT?",
+    "answer": "GPT (Generative Pretrained Transformer) is a transformer-based language model designed for text generation.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["gpt", "transformer"]
+  },
+  {
+    "question": "What is masked language modeling?",
+    "answer": "Masked language modeling is a training objective where some words are masked and the model learns to predict them.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["masked_language_modeling", "nlp"]
+  },
+  {
+    "question": "What is next sentence prediction?",
+    "answer": "Next sentence prediction is a task where the model predicts if one sentence follows another, used in BERT training.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["next_sentence_prediction", "bert"]
+  },
+  {
+    "question": "What is positional encoding in transformers?",
+    "answer": "Positional encoding provides information about the position of tokens in a sequence to the transformer model.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["positional_encoding", "transformer"]
+  },
+  {
+    "question": "What is a decoder in a transformer?",
+    "answer": "A decoder is a component of a transformer that generates output sequences from encoded input.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["decoder", "transformer"]
+  },
+  {
+    "question": "What is a multi-head attention mechanism?",
+    "answer": "Multi-head attention allows the model to focus on different parts of the input sequence simultaneously.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["multi_head_attention", "transformer"]
+  },
+  {
+    "question": "What is layer normalization?",
+    "answer": "Layer normalization normalizes the inputs across the features for each data point, improving training stability.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["layer_normalization", "transformer"]
+  },
+  {
+    "question": "What is a token in NLP?",
+    "answer": "A token is a single unit of text, such as a word or subword.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 1,
+    "tags": ["token", "nlp"]
+  },
+  {
+    "question": "What is tokenization?",
+    "answer": "Tokenization is the process of splitting text into tokens for processing by language models.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 1,
+    "tags": ["tokenization", "nlp"]
+  },
+  {
+    "question": "What is a vocabulary in language models?",
+    "answer": "A vocabulary is the set of all tokens known to a language model.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 1,
+    "tags": ["vocabulary", "nlp"]
+  },
+  {
+    "question": "What is fine-tuning in transformers?",
+    "answer": "Fine-tuning is the process of adapting a pretrained transformer model to a specific downstream task.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["fine_tuning", "transformer"]
+  },
+  {
+    "question": "What is zero-shot learning?",
+    "answer": "Zero-shot learning is the ability of a model to perform tasks it was not explicitly trained for.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["zero_shot_learning", "nlp"]
+  },
+  {
+    "question": "What is transfer learning in NLP?",
+    "answer": "Transfer learning in NLP uses knowledge from a pretrained model to improve performance on a new task.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["transfer_learning", "nlp"]
+  },
+  {
+    "question": "What is a language modeling head?",
+    "answer": "A language modeling head is the final layer that produces predictions for each token in the output sequence.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["language_modeling_head", "transformer"]
+  },
+  {
+    "question": "What is a sequence-to-sequence transformer?",
+    "answer": "A sequence-to-sequence transformer maps an input sequence to an output sequence, used in translation and summarization.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["seq2seq", "transformer"]
+  },
+  {
+    "question": "What is a causal language model?",
+    "answer": "A causal language model predicts the next token in a sequence, using only previous tokens as context.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["causal_language_model", "nlp"]
+  },
+  {
+    "question": "What is a bidirectional model?",
+    "answer": "A bidirectional model processes input sequences in both directions, capturing context from both sides.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["bidirectional", "nlp"]
+  },
+  {
+    "question": "What is a transformer encoder?",
+    "answer": "A transformer encoder is a component that processes input sequences using self-attention and feedforward layers.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["transformer_encoder", "transformer"]
+  },
+  {
+    "question": "What is a transformer decoder?",
+    "answer": "A transformer decoder generates output sequences from encoded input, using self-attention and cross-attention.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["transformer_decoder", "transformer"]
+  },
+  {
+    "question": "What is a pretrained embedding?",
+    "answer": "A pretrained embedding is a word or feature vector learned from a large corpus and used in downstream tasks.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["pretrained_embedding", "nlp"]
+  },
+  {
+    "question": "What is a language model head?",
+    "answer": "A language model head is the output layer that produces token predictions in a language model.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["language_model_head", "transformer"]
+  },
+  {
+    "question": "What is a prompt in language models?",
+    "answer": "A prompt is an input or instruction given to a language model to guide its output.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 1,
+    "tags": ["prompt", "nlp"]
+  },
+  {
+    "question": "What is a context window in transformers?",
+    "answer": "A context window is the number of tokens a transformer model can consider at once.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["context_window", "transformer"]
+  },
+  {
+    "question": "What is a checkpoint in model training?",
+    "answer": "A checkpoint is a saved state of a model during training, allowing training to resume or for evaluation.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["checkpoint", "training"]
+  },
+  {
+    "question": "What is a hyperparameter in transformers?",
+    "answer": "A hyperparameter is a configuration value set before training, such as learning rate or batch size.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["hyperparameter", "transformer"]
+  },
+  {
+    "question": "What is a downstream task in NLP?",
+    "answer": "A downstream task is a specific application, such as sentiment analysis or question answering, that uses a pretrained model.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["downstream_task", "nlp"]
+  },
+  {
+    "question": "What is a training corpus?",
+    "answer": "A training corpus is a large collection of text used to train language models.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 1,
+    "tags": ["training_corpus", "nlp"]
+  },
+  {
+    "question": "What is a tokenizer?",
+    "answer": "A tokenizer is a tool that splits text into tokens for processing by language models.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 1,
+    "tags": ["tokenizer", "nlp"]
+  },
+  {
+    "question": "What is a model checkpoint?",
+    "answer": "A model checkpoint is a saved version of a model at a specific point during training.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["model_checkpoint", "training"]
+  },
+  {
+    "question": "What is a transformer block?",
+    "answer": "A transformer block is a modular component consisting of self-attention and feedforward layers.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["transformer_block", "transformer"]
+  },
+  {
+    "question": "What is a language model perplexity?",
+    "answer": "Perplexity is a measure of how well a language model predicts a sample, with lower values indicating better performance.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["perplexity", "language_model"]
+  },
+  {
+    "question": "What is a cross-attention mechanism?",
+    "answer": "Cross-attention allows the decoder to focus on relevant parts of the encoder's output in a transformer.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 3,
+    "tags": ["cross_attention", "transformer"]
+  },
+  {
+    "question": "What is a sequence classification task?",
+    "answer": "Sequence classification assigns a label to an entire sequence of text, such as sentiment analysis.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["sequence_classification", "nlp"]
+  },
+  {
+    "question": "What is a token classification task?",
+    "answer": "Token classification assigns labels to individual tokens, such as named entity recognition.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["token_classification", "nlp"]
+  },
+  {
+    "question": "What is a span prediction task?",
+    "answer": "Span prediction identifies a span of text that answers a question, as in extractive question answering.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["span_prediction", "nlp"]
+  },
+  {
+    "question": "What is a prompt-based learning?",
+    "answer": "Prompt-based learning uses prompts to guide the behavior of language models for specific tasks.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["prompt_based_learning", "nlp"]
+  },
+  {
+    "question": "What is a model parameter?",
+    "answer": "A model parameter is a value learned during training, such as weights in a neural network.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["model_parameter", "transformer"]
+  },
+  {
+    "question": "What is a batch size in training?",
+    "answer": "Batch size is the number of samples processed before the model is updated during training.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["batch_size", "training"]
+  },
+  {
+    "question": "What is a learning rate scheduler?",
+    "answer": "A learning rate scheduler adjusts the learning rate during training to improve convergence.",
+    "category": "AI_Data_Analytics-Week21-Pretrained Language Models, Transformers",
+    "difficulty": 2,
+    "tags": ["learning_rate_scheduler", "training"]
+  }
+]

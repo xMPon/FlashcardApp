@@ -1,0 +1,338 @@
+[
+  {
+    "question": "What is a Bayesian network?",
+    "answer": "A Bayesian network is a probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["bayesian_network", "probabilistic_model"]
+  },
+  {
+    "question": "What is an evolutionary algorithm?",
+    "answer": "An evolutionary algorithm is a subset of evolutionary computation, a generic population-based metaheuristic optimization algorithm.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["evolutionary_algorithm", "optimization"]
+  },
+  {
+    "question": "What is the main advantage of Bayesian networks?",
+    "answer": "Bayesian networks can efficiently represent and compute the joint probability distribution of a set of variables.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["bayesian_network", "advantage"]
+  },
+  {
+    "question": "What is mutation in evolutionary algorithms?",
+    "answer": "Mutation is a genetic operator used to maintain genetic diversity from one generation of a population of chromosomes to the next.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["mutation", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is crossover in evolutionary algorithms?",
+    "answer": "Crossover is a genetic operator used to combine the genetic information of two parents to generate new offspring.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["crossover", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is conditional independence in Bayesian networks?",
+    "answer": "Conditional independence means that two variables are independent given the value of a third variable.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["conditional_independence", "bayesian_network"]
+  },
+  {
+    "question": "What is a directed acyclic graph (DAG)?",
+    "answer": "A DAG is a graph with directed edges and no cycles, used to represent Bayesian networks.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["dag", "graph"]
+  },
+  {
+    "question": "What is a fitness function in evolutionary algorithms?",
+    "answer": "A fitness function evaluates how well a solution solves the problem at hand.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["fitness_function", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is selection in evolutionary algorithms?",
+    "answer": "Selection is the process of choosing individuals from a population to create offspring for the next generation.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["selection", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the Markov blanket in a Bayesian network?",
+    "answer": "The Markov blanket of a node consists of its parents, children, and the other parents of its children.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["markov_blanket", "bayesian_network"]
+  },
+  {
+    "question": "What is the difference between genetic algorithms and genetic programming?",
+    "answer": "Genetic algorithms evolve fixed-length strings, while genetic programming evolves computer programs or trees.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["genetic_algorithm", "genetic_programming"]
+  },
+  {
+    "question": "What is topological ordering in Bayesian networks?",
+    "answer": "Topological ordering is an arrangement of nodes such that for every directed edge from node A to node B, A comes before B.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["topological_ordering", "bayesian_network"]
+  },
+  {
+    "question": "What is elitism in evolutionary algorithms?",
+    "answer": "Elitism is a strategy where the best individuals are carried over to the next generation without modification.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["elitism", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is parameter learning in Bayesian networks?",
+    "answer": "Parameter learning is the process of estimating the conditional probability tables from data.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["parameter_learning", "bayesian_network"]
+  },
+  {
+    "question": "What is structure learning in Bayesian networks?",
+    "answer": "Structure learning is the process of determining the network structure (edges) from data.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["structure_learning", "bayesian_network"]
+  },
+  {
+    "question": "What is the role of probability tables in Bayesian networks?",
+    "answer": "Probability tables specify the conditional probabilities for each node given its parents.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["probability_table", "bayesian_network"]
+  },
+  {
+    "question": "What is convergence in evolutionary algorithms?",
+    "answer": "Convergence occurs when the population no longer produces better solutions over generations.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["convergence", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a chromosome in evolutionary algorithms?",
+    "answer": "A chromosome is a representation of a candidate solution, often encoded as a string or array.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["chromosome", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the difference between mutation and crossover?",
+    "answer": "Mutation introduces random changes to individuals, while crossover combines genetic material from two parents.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["mutation", "crossover"]
+  },
+  {
+    "question": "What is inference in Bayesian networks?",
+    "answer": "Inference is the process of computing the probability of certain variables given evidence about others.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["inference", "bayesian_network"]
+  },
+  {
+    "question": "What is the difference between hard and soft selection in evolutionary algorithms?",
+    "answer": "Hard selection always picks the best individuals, while soft selection uses probabilistic methods to select individuals.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["selection", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a prior probability in Bayesian networks?",
+    "answer": "A prior probability is the initial probability of a variable before any evidence is taken into account.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["prior_probability", "bayesian_network"]
+  },
+  {
+    "question": "What is a population in evolutionary algorithms?",
+    "answer": "A population is a set of candidate solutions that evolve over time.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["population", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the difference between discrete and continuous Bayesian networks?",
+    "answer": "Discrete Bayesian networks use discrete variables, while continuous Bayesian networks use continuous variables and distributions.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["discrete", "continuous", "bayesian_network"]
+  },
+  {
+    "question": "What is tournament selection in evolutionary algorithms?",
+    "answer": "Tournament selection randomly selects a group of individuals and chooses the best among them for reproduction.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["tournament_selection", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the chain rule for Bayesian networks?",
+    "answer": "The chain rule allows the joint probability distribution to be factored into conditional probabilities based on the network structure.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["chain_rule", "bayesian_network"]
+  },
+  {
+    "question": "What is a generational model in evolutionary algorithms?",
+    "answer": "A generational model replaces the entire population with offspring each generation.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["generational_model", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a steady-state model in evolutionary algorithms?",
+    "answer": "A steady-state model replaces only a few individuals at a time, rather than the whole population.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["steady_state_model", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a conditional probability table (CPT)?",
+    "answer": "A CPT specifies the probability of a variable given each possible combination of its parents' values.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["cpt", "bayesian_network"]
+  },
+  {
+    "question": "What is fitness proportionate selection?",
+    "answer": "Fitness proportionate selection chooses individuals for reproduction with probability proportional to their fitness.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["fitness_proportionate_selection", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the difference between parametric and non-parametric Bayesian networks?",
+    "answer": "Parametric Bayesian networks assume a fixed form for distributions, while non-parametric do not.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["parametric", "non_parametric", "bayesian_network"]
+  },
+  {
+    "question": "What is the role of initialization in evolutionary algorithms?",
+    "answer": "Initialization creates the first population, often randomly, to start the evolutionary process.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["initialization", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is d-separation in Bayesian networks?",
+    "answer": "D-separation is a criterion for deciding whether a set of variables is independent of another set, given a third set.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["d_separation", "bayesian_network"]
+  },
+  {
+    "question": "What is the role of randomness in evolutionary algorithms?",
+    "answer": "Randomness introduces diversity and helps avoid local optima.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["randomness", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a leaf node in a Bayesian network?",
+    "answer": "A leaf node is a node with no children in the network.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["leaf_node", "bayesian_network"]
+  },
+  {
+    "question": "What is the difference between explicit and implicit fitness functions?",
+    "answer": "Explicit fitness functions are directly defined, while implicit are based on constraints or objectives not directly measured.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["fitness_function", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a parent node in a Bayesian network?",
+    "answer": "A parent node is a node that has a directed edge to another node (its child).",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["parent_node", "bayesian_network"]
+  },
+  {
+    "question": "What is the difference between Lamarckian and Darwinian evolution in algorithms?",
+    "answer": "Lamarckian evolution allows acquired traits to be inherited, while Darwinian does not.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 3,
+    "tags": ["lamarckian", "darwinian", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a child node in a Bayesian network?",
+    "answer": "A child node is a node that receives a directed edge from its parent.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["child_node", "bayesian_network"]
+  },
+  {
+    "question": "What is the difference between generational and steady-state evolutionary algorithms?",
+    "answer": "Generational replaces the whole population each time, steady-state only a few individuals.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["generational", "steady_state", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a root node in a Bayesian network?",
+    "answer": "A root node is a node with no parents.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 1,
+    "tags": ["root_node", "bayesian_network"]
+  },
+  {
+    "question": "What is the difference between single-point and multi-point crossover?",
+    "answer": "Single-point crossover exchanges genetic material at one point, multi-point at multiple points.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["crossover", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the role of mutation rate in evolutionary algorithms?",
+    "answer": "Mutation rate controls how often random changes are introduced to individuals.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["mutation_rate", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is a practical application of Bayesian networks?",
+    "answer": "Bayesian networks are used in medical diagnosis, risk analysis, and decision support systems.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["application", "bayesian_network"]
+  },
+  {
+    "question": "What is a practical application of evolutionary algorithms?",
+    "answer": "Evolutionary algorithms are used in optimization problems, scheduling, and machine learning hyperparameter tuning.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["application", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the difference between explicit and implicit representations in evolutionary algorithms?",
+    "answer": "Explicit representations directly encode solutions, implicit use indirect encodings or rules.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["representation", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the difference between local and global optima in evolutionary algorithms?",
+    "answer": "A local optimum is the best solution in a small region, a global optimum is the best overall.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["optima", "evolutionary_algorithm"]
+  },
+  {
+    "question": "What is the difference between supervised and unsupervised learning in the context of Bayesian networks?",
+    "answer": "Supervised learning uses labeled data to learn parameters, unsupervised uses only observed data.",
+    "category": "AI_Data_Analytics-Week17-Bayesian Networks, Evolutionary Algorithms",
+    "difficulty": 2,
+    "tags": ["supervised", "unsupervised", "bayesian_network"]
+  }
+]

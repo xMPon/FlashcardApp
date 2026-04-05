@@ -1,0 +1,310 @@
+[
+  {
+    "question": "What is the big picture in FinTech?",
+    "answer": "The big picture in FinTech involves understanding how technology is transforming financial services, including payments, lending, investing, and insurance.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["fintech", "big_picture"]
+  },
+  {
+    "question": "What is a billionaire case study in FinTech?",
+    "answer": "A billionaire case study examines how successful entrepreneurs have leveraged technology to disrupt traditional financial services.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["fintech", "case_study"]
+  },
+  {
+    "question": "What are the main areas of FinTech innovation?",
+    "answer": "Main areas include digital payments, peer-to-peer lending, robo-advisors, blockchain, and insurtech.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["fintech", "innovation"]
+  },
+  {
+    "question": "How has technology changed payments?",
+    "answer": "Technology has enabled faster, more secure, and more convenient payment methods, such as mobile payments and contactless cards.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["fintech", "payments"]
+  },
+  {
+    "question": "What is the impact of FinTech on traditional banks?",
+    "answer": "FinTech has increased competition, driven innovation, and forced traditional banks to adopt new technologies to stay relevant.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["fintech", "banks"]
+  },
+  {
+    "question": "What is financial technology (FinTech)?",
+    "answer": "FinTech refers to the use of technology to improve and automate financial services.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 1,
+    "tags": ["fintech", "definition"]
+  },
+  {
+    "question": "What is a digital wallet?",
+    "answer": "A digital wallet is an electronic device or software that allows users to make electronic transactions.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 1,
+    "tags": ["digital_wallet", "payments"]
+  },
+  {
+    "question": "What is peer-to-peer lending?",
+    "answer": "Peer-to-peer lending is a method of debt financing that enables individuals to borrow and lend money without an official financial institution.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["p2p_lending", "fintech"]
+  },
+  {
+    "question": "What is a robo-advisor?",
+    "answer": "A robo-advisor is an automated platform that provides financial advice or investment management online with minimal human intervention.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["robo_advisor", "fintech"]
+  },
+  {
+    "question": "What is blockchain technology?",
+    "answer": "Blockchain is a distributed ledger technology that records transactions across many computers securely.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["blockchain", "fintech"]
+  },
+  {
+    "question": "What is insurtech?",
+    "answer": "Insurtech refers to the use of technology innovations designed to improve the efficiency of the insurance industry.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["insurtech", "fintech"]
+  },
+  {
+    "question": "What is crowdfunding?",
+    "answer": "Crowdfunding is the practice of funding a project or venture by raising small amounts of money from many people, typically via the Internet.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["crowdfunding", "fintech"]
+  },
+  {
+    "question": "What is regtech?",
+    "answer": "Regtech is the use of technology to help companies comply with regulations efficiently and at a lower cost.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["regtech", "fintech"]
+  },
+  {
+    "question": "What is open banking?",
+    "answer": "Open banking is a system where banks open their APIs to third parties to enable new financial services and greater transparency.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["open_banking", "fintech"]
+  },
+  {
+    "question": "What is the role of data analytics in FinTech?",
+    "answer": "Data analytics helps FinTech companies make better decisions, personalize services, and detect fraud.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["data_analytics", "fintech"]
+  },
+  {
+    "question": "What is a unicorn in FinTech?",
+    "answer": "A unicorn is a privately held startup company valued at over $1 billion.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["unicorn", "fintech"]
+  },
+  {
+    "question": "What is the impact of mobile technology on FinTech?",
+    "answer": "Mobile technology has enabled on-the-go banking, payments, and investing, making financial services more accessible.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["mobile", "fintech"]
+  },
+  {
+    "question": "What is a challenger bank?",
+    "answer": "A challenger bank is a new, digital-only bank that competes with traditional banks by offering innovative services.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["challenger_bank", "fintech"]
+  },
+  {
+    "question": "What is KYC in FinTech?",
+    "answer": "KYC (Know Your Customer) is a process of verifying the identity of clients to prevent fraud and comply with regulations.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["kyc", "fintech"]
+  },
+  {
+    "question": "What is AML in FinTech?",
+    "answer": "AML (Anti-Money Laundering) refers to laws and procedures to prevent criminals from disguising illegally obtained funds as legitimate income.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["aml", "fintech"]
+  },
+  {
+    "question": "What is a payment gateway?",
+    "answer": "A payment gateway is a technology used by merchants to accept debit or credit card purchases from customers.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["payment_gateway", "fintech"]
+  },
+  {
+    "question": "What is API in FinTech?",
+    "answer": "API (Application Programming Interface) allows different software applications to communicate and share data.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["api", "fintech"]
+  },
+  {
+    "question": "What is the role of artificial intelligence in FinTech?",
+    "answer": "AI is used in FinTech for fraud detection, credit scoring, customer service, and personalized recommendations.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["ai", "fintech"]
+  },
+  {
+    "question": "What is a smart contract?",
+    "answer": "A smart contract is a self-executing contract with the terms directly written into code on a blockchain.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["smart_contract", "blockchain"]
+  },
+  {
+    "question": "What is PSD2?",
+    "answer": "PSD2 (Payment Services Directive 2) is an EU regulation that aims to increase competition and innovation in payments.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["psd2", "fintech"]
+  },
+  {
+    "question": "What is a neobank?",
+    "answer": "A neobank is a type of direct bank that operates exclusively online without traditional physical branch networks.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["neobank", "fintech"]
+  },
+  {
+    "question": "What is the role of cybersecurity in FinTech?",
+    "answer": "Cybersecurity is crucial in FinTech to protect sensitive financial data and prevent cyberattacks.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["cybersecurity", "fintech"]
+  },
+  {
+    "question": "What is a use case of blockchain in FinTech?",
+    "answer": "Blockchain can be used for secure payments, transparent record-keeping, and reducing fraud in financial transactions.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["blockchain", "use_case"]
+  },
+  {
+    "question": "What is the role of cloud computing in FinTech?",
+    "answer": "Cloud computing enables scalable, cost-effective infrastructure for FinTech companies to deliver services.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["cloud_computing", "fintech"]
+  },
+  {
+    "question": "What is a digital bank license?",
+    "answer": "A digital bank license allows a company to operate as a bank without physical branches, often with regulatory requirements.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["digital_bank_license", "fintech"]
+  },
+  {
+    "question": "What is the impact of FinTech on financial inclusion?",
+    "answer": "FinTech has expanded access to financial services for underserved populations.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["financial_inclusion", "fintech"]
+  },
+  {
+    "question": "What is a challenger bank's business model?",
+    "answer": "Challenger banks often focus on digital-first services, low fees, and innovative features to attract customers.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["challenger_bank", "business_model"]
+  },
+  {
+    "question": "What is a payment processor?",
+    "answer": "A payment processor handles transactions between merchants and financial institutions.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["payment_processor", "fintech"]
+  },
+  {
+    "question": "What is a digital identity?",
+    "answer": "A digital identity is an online or networked identity adopted or claimed in cyberspace by an individual, organization, or electronic device.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["digital_identity", "fintech"]
+  },
+  {
+    "question": "What is a sandbox in FinTech?",
+    "answer": "A sandbox is a testing environment that allows FinTech startups to experiment with new products under regulatory supervision.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["sandbox", "fintech"]
+  },
+  {
+    "question": "What is a payment aggregator?",
+    "answer": "A payment aggregator is a service provider that allows merchants to process payments without setting up a merchant account with a bank.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["payment_aggregator", "fintech"]
+  },
+  {
+    "question": "What is a digital onboarding process?",
+    "answer": "Digital onboarding is the process of acquiring new customers using online tools and technologies.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["digital_onboarding", "fintech"]
+  },
+  {
+    "question": "What is a use case of AI in FinTech?",
+    "answer": "AI can be used for credit scoring, fraud detection, and personalized financial advice.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["ai", "use_case"]
+  },
+  {
+    "question": "What is a digital signature?",
+    "answer": "A digital signature is a cryptographic technique used to validate the authenticity and integrity of a message or document.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["digital_signature", "fintech"]
+  },
+  {
+    "question": "What is a neobank's revenue model?",
+    "answer": "Neobanks typically earn revenue from interchange fees, premium accounts, and value-added services.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["neobank", "revenue_model"]
+  },
+  {
+    "question": "What is a use case of regtech?",
+    "answer": "Regtech can automate compliance monitoring and reporting for financial institutions.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["regtech", "use_case"]
+  },
+  {
+    "question": "What is a digital lending platform?",
+    "answer": "A digital lending platform enables borrowers to apply for and receive loans online, often with automated decision-making.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["digital_lending", "fintech"]
+  },
+  {
+    "question": "What is a use case of insurtech?",
+    "answer": "Insurtech can streamline claims processing and offer personalized insurance products.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["insurtech", "use_case"]
+  },
+  {
+    "question": "What is a digital investment platform?",
+    "answer": "A digital investment platform allows users to invest in stocks, bonds, or funds online with low fees and easy access.",
+    "category": "FinTech_Introduction-Week1-Big_Picture_Billionaire_Case_Study",
+    "difficulty": 2,
+    "tags": ["digital_investment", "fintech"]
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "question": "What are pricing strategies in FinTech?",
+    "answer": "Pricing strategies in FinTech involve setting prices for financial products and services to maximize profit and market share.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["fintech", "pricing_strategies"]
+  },
+  {
+    "question": "What is auction theory?",
+    "answer": "Auction theory studies how people bid in auctions and how auction design affects outcomes.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["auction_theory", "fintech"]
+  },
+  {
+    "question": "What is internet economics?",
+    "answer": "Internet economics examines how the internet changes the way goods and services are produced, distributed, and consumed.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["internet_economics", "fintech"]
+  },
+  {
+    "question": "How do online auctions differ from traditional auctions?",
+    "answer": "Online auctions can reach a larger audience, operate continuously, and use automated bidding systems.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["online_auctions", "auction_theory"]
+  },
+  {
+    "question": "What is the role of technology in pricing strategies?",
+    "answer": "Technology enables dynamic pricing, personalized offers, and real-time market analysis.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["technology", "pricing_strategies"]
+  },
+  {
+    "question": "What is dynamic pricing?",
+    "answer": "Dynamic pricing is a strategy where prices are adjusted in real time based on demand, competition, and other factors.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["dynamic_pricing", "pricing_strategies"]
+  },
+  {
+    "question": "What is a first-price auction?",
+    "answer": "In a first-price auction, the highest bidder wins and pays the amount they bid.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["first_price_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a second-price auction (Vickrey auction)?",
+    "answer": "In a second-price auction, the highest bidder wins but pays the second-highest bid.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["second_price_auction", "auction_theory"]
+  },
+  {
+    "question": "What is price discrimination?",
+    "answer": "Price discrimination is the practice of charging different prices to different customers for the same product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_discrimination", "pricing_strategies"]
+  },
+  {
+    "question": "What is a reserve price in auctions?",
+    "answer": "A reserve price is the minimum price a seller is willing to accept in an auction.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["reserve_price", "auction_theory"]
+  },
+  {
+    "question": "What is a Dutch auction?",
+    "answer": "In a Dutch auction, the auctioneer starts with a high price and lowers it until a bidder accepts the price.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["dutch_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a sealed-bid auction?",
+    "answer": "In a sealed-bid auction, all bidders submit their bids without knowing the bids of others.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["sealed_bid_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a double auction?",
+    "answer": "A double auction is a market where buyers and sellers submit bids and offers simultaneously, and trades occur when prices match.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["double_auction", "auction_theory"]
+  },
+  {
+    "question": "What is the winner's curse in auctions?",
+    "answer": "The winner's curse is the tendency for the winning bid in an auction to exceed the intrinsic value of the item.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["winners_curse", "auction_theory"]
+  },
+  {
+    "question": "What is marginal cost pricing?",
+    "answer": "Marginal cost pricing sets the price equal to the additional cost of producing one more unit.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["marginal_cost_pricing", "pricing_strategies"]
+  },
+  {
+    "question": "What is bundling in pricing strategies?",
+    "answer": "Bundling is selling multiple products or services together at a single price.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["bundling", "pricing_strategies"]
+  },
+  {
+    "question": "What is network externality?",
+    "answer": "Network externality occurs when the value of a product increases as more people use it.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["network_externality", "internet_economics"]
+  },
+  {
+    "question": "What is a freemium model?",
+    "answer": "A freemium model offers basic services for free while charging for premium features.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["freemium", "internet_economics"]
+  },
+  {
+    "question": "What is price elasticity of demand?",
+    "answer": "Price elasticity of demand measures how sensitive the quantity demanded is to a change in price.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_elasticity", "pricing_strategies"]
+  },
+  {
+    "question": "What is a two-sided market?",
+    "answer": "A two-sided market is a platform that serves two distinct user groups that provide each other with network benefits.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["two_sided_market", "internet_economics"]
+  },
+  {
+    "question": "What is a subscription pricing model?",
+    "answer": "A subscription pricing model charges customers a recurring fee for access to a product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["subscription_pricing", "pricing_strategies"]
+  },
+  {
+    "question": "What is a pay-per-use model?",
+    "answer": "A pay-per-use model charges customers based on how much they use a product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["pay_per_use", "pricing_strategies"]
+  },
+  {
+    "question": "What is a reverse auction?",
+    "answer": "In a reverse auction, sellers compete to offer the lowest price to a buyer.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["reverse_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a price floor?",
+    "answer": "A price floor is the lowest legal price that can be charged for a product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_floor", "pricing_strategies"]
+  },
+  {
+    "question": "What is a price ceiling?",
+    "answer": "A price ceiling is the maximum legal price that can be charged for a product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_ceiling", "pricing_strategies"]
+  },
+  {
+    "question": "What is a collusion in auctions?",
+    "answer": "Collusion in auctions occurs when bidders cooperate to manipulate the outcome and lower the final price.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["collusion", "auction_theory"]
+  },
+  {
+    "question": "What is a shill bidder?",
+    "answer": "A shill bidder is someone who bids on behalf of the seller to artificially inflate the price.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["shill_bidder", "auction_theory"]
+  },
+  {
+    "question": "What is a buy-it-now price?",
+    "answer": "A buy-it-now price allows a buyer to purchase an item immediately at a set price, bypassing the auction.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["buy_it_now", "auction_theory"]
+  },
+  {
+    "question": "What is a price war?",
+    "answer": "A price war is a competitive exchange among rival companies who lower prices to undercut each other.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_war", "pricing_strategies"]
+  },
+  {
+    "question": "What is a market equilibrium?",
+    "answer": "Market equilibrium is the state where supply equals demand and prices become stable.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["market_equilibrium", "internet_economics"]
+  },
+  {
+    "question": "What is a price anchor?",
+    "answer": "A price anchor is a reference price that influences how people perceive the value of a product.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_anchor", "pricing_strategies"]
+  },
+  {
+    "question": "What is a sniping in online auctions?",
+    "answer": "Sniping is placing a winning bid at the last possible moment in an online auction.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["sniping", "online_auctions"]
+  },
+  {
+    "question": "What is a price discovery?",
+    "answer": "Price discovery is the process of determining the price of an asset in the marketplace through interactions of buyers and sellers.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_discovery", "pricing_strategies"]
+  },
+  {
+    "question": "What is a multi-unit auction?",
+    "answer": "A multi-unit auction is an auction in which multiple identical items are sold to multiple buyers.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["multi_unit_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a price taker?",
+    "answer": "A price taker is a buyer or seller who accepts the market price as given and cannot influence it.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_taker", "internet_economics"]
+  },
+  {
+    "question": "What is a price maker?",
+    "answer": "A price maker is a buyer or seller who has the power to influence the price of a product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_maker", "internet_economics"]
+  },
+  {
+    "question": "What is a discriminatory auction?",
+    "answer": "A discriminatory auction is one in which winning bidders pay different prices, often based on their individual bids.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["discriminatory_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a uniform price auction?",
+    "answer": "A uniform price auction is one in which all winning bidders pay the same price.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["uniform_price_auction", "auction_theory"]
+  },
+  {
+    "question": "What is a price bubble?",
+    "answer": "A price bubble is a market phenomenon characterized by surges in asset prices to levels significantly above their intrinsic value.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_bubble", "internet_economics"]
+  },
+  {
+    "question": "What is a price signal?",
+    "answer": "A price signal is information conveyed to consumers and producers via the price charged for a product or service.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_signal", "internet_economics"]
+  },
+  {
+    "question": "What is a price stickiness?",
+    "answer": "Price stickiness refers to the resistance of prices to change despite changes in the broad economy.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_stickiness", "internet_economics"]
+  },
+  {
+    "question": "What is a price discrimination of the third degree?",
+    "answer": "Third-degree price discrimination occurs when different consumer groups are charged different prices for the same product.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["third_degree_price_discrimination", "pricing_strategies"]
+  },
+  {
+    "question": "What is a price discrimination of the second degree?",
+    "answer": "Second-degree price discrimination occurs when prices vary according to the quantity consumed or product version.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["second_degree_price_discrimination", "pricing_strategies"]
+  },
+  {
+    "question": "What is a price discrimination of the first degree?",
+    "answer": "First-degree price discrimination occurs when each consumer is charged the maximum they are willing to pay.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["first_degree_price_discrimination", "pricing_strategies"]
+  },
+  {
+    "question": "What is a price cartel?",
+    "answer": "A price cartel is a group of firms that collude to fix prices and limit competition.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["price_cartel", "internet_economics"]
+  },
+  {
+    "question": "What is a price leadership?",
+    "answer": "Price leadership occurs when one firm sets its price first, and other firms follow.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 2,
+    "tags": ["price_leadership", "internet_economics"]
+  },
+  {
+    "question": "What is a price discrimination in online markets?",
+    "answer": "Online markets can use data analytics to implement personalized pricing strategies for different users.",
+    "category": "FinTech_Introduction-Week2-Pricing_Strategies_Auction_Theory_Internet_Economics",
+    "difficulty": 3,
+    "tags": ["online_price_discrimination", "internet_economics"]
+  }
+]

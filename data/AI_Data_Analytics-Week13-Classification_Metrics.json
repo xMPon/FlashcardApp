@@ -1,0 +1,325 @@
+[
+  {
+    "question": "What is a confusion matrix in classification problems?",
+    "answer": "A confusion matrix is a table used to evaluate the performance of a classification model, showing the counts of true positives, true negatives, false positives, and false negatives.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["confusion_matrix", "classification"]
+  },
+  {
+    "question": "What is the formula for accuracy in classification?",
+    "answer": "Accuracy = (TP + TN) / (TP + TN + FP + FN)",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["accuracy", "classification", "formula"]
+  },
+  {
+    "question": "When is accuracy a misleading metric?",
+    "answer": "Accuracy can be misleading with imbalanced datasets, where one class dominates and high accuracy is easy to achieve without good performance on the minority class.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["accuracy", "limitation"]
+  },
+  {
+    "question": "What does precision measure in classification?",
+    "answer": "Precision measures the proportion of positive predictions that are actually correct. Precision = TP / (TP + FP).",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["precision", "classification"]
+  },
+  {
+    "question": "What is recall (sensitivity) in classification?",
+    "answer": "Recall, or sensitivity, measures the proportion of actual positive cases that were correctly identified. Recall = TP / (TP + FN).",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["recall", "sensitivity", "classification"]
+  }
+  ,
+  {
+    "question": "What is the F1 score?",
+    "answer": "The F1 score is the harmonic mean of precision and recall, providing a single metric that balances both.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["f1_score", "classification"]
+  },
+  {
+    "question": "What is specificity in classification?",
+    "answer": "Specificity, or true negative rate, measures the proportion of actual negatives that are correctly identified. Specificity = TN / (TN + FP).",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["specificity", "classification"]
+  },
+  {
+    "question": "What is the difference between precision and recall?",
+    "answer": "Precision measures the correctness of positive predictions, while recall measures the ability to find all positive cases.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["precision", "recall"]
+  },
+  {
+    "question": "What is a Type I error in classification?",
+    "answer": "A Type I error, or false positive, occurs when a negative instance is incorrectly classified as positive.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["type_i_error", "false_positive"]
+  },
+  {
+    "question": "What is a Type II error in classification?",
+    "answer": "A Type II error, or false negative, occurs when a positive instance is incorrectly classified as negative.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["type_ii_error", "false_negative"]
+  },
+  {
+    "question": "What is the formula for balanced accuracy?",
+    "answer": "Balanced accuracy = (Sensitivity + Specificity) / 2.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["balanced_accuracy", "classification"]
+  },
+  {
+    "question": "What is the ROC curve?",
+    "answer": "The ROC curve plots the true positive rate against the false positive rate at various threshold settings.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["roc_curve", "evaluation"]
+  },
+  {
+    "question": "What does the area under the ROC curve (AUC) represent?",
+    "answer": "AUC measures the overall ability of the model to discriminate between positive and negative classes.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["auc", "roc_curve"]
+  },
+  {
+    "question": "What is a confusion matrix for multiclass classification?",
+    "answer": "For multiclass problems, the confusion matrix is a k x k table where k is the number of classes, showing counts for each actual vs. predicted class.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["confusion_matrix", "multiclass"]
+  },
+  {
+    "question": "What is the Matthews correlation coefficient (MCC)?",
+    "answer": "MCC is a metric that takes into account true and false positives and negatives, providing a balanced measure for binary classification.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["mcc", "classification"]
+  },
+  {
+    "question": "What is the purpose of a confusion matrix?",
+    "answer": "A confusion matrix helps visualize the performance of a classification model by showing the counts of correct and incorrect predictions for each class.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["confusion_matrix", "evaluation"]
+  },
+  {
+    "question": "What is the difference between micro and macro averaging in classification metrics?",
+    "answer": "Micro averaging aggregates contributions of all classes to compute the average metric, while macro averaging computes the metric independently for each class and then averages.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["micro_averaging", "macro_averaging"]
+  },
+  {
+    "question": "What is the main limitation of using accuracy as a metric?",
+    "answer": "Accuracy can be misleading for imbalanced datasets, as it does not account for the distribution of classes.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["accuracy", "limitation"]
+  },
+  {
+    "question": "What is the formula for precision?",
+    "answer": "Precision = TP / (TP + FP)",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["precision", "formula"]
+  },
+  {
+    "question": "What is the formula for recall?",
+    "answer": "Recall = TP / (TP + FN)",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["recall", "formula"]
+  },
+  {
+    "question": "What is the formula for specificity?",
+    "answer": "Specificity = TN / (TN + FP)",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["specificity", "formula"]
+  },
+  {
+    "question": "What is the formula for F1 score?",
+    "answer": "F1 = 2 * (Precision * Recall) / (Precision + Recall)",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["f1_score", "formula"]
+  },
+  {
+    "question": "What is the purpose of the threshold in classification?",
+    "answer": "The threshold determines the cutoff value for assigning predicted probabilities to classes.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["threshold", "classification"]
+  },
+  {
+    "question": "What is the difference between sensitivity and specificity?",
+    "answer": "Sensitivity measures the proportion of actual positives correctly identified, while specificity measures the proportion of actual negatives correctly identified.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["sensitivity", "specificity"]
+  },
+  {
+    "question": "What is the purpose of using a validation set?",
+    "answer": "A validation set is used to tune model parameters and evaluate performance during training, helping to prevent overfitting.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["validation_set", "model_selection"]
+  },
+  {
+    "question": "What is the difference between classification and regression?",
+    "answer": "Classification predicts discrete labels, while regression predicts continuous values.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["classification", "regression"]
+  },
+  {
+    "question": "What is the purpose of cross-validation in model evaluation?",
+    "answer": "Cross-validation splits the data into multiple folds to assess model performance more reliably and reduce overfitting.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["cross_validation", "evaluation"]
+  },
+  {
+    "question": "What is the difference between a true positive and a false positive?",
+    "answer": "A true positive is a correctly predicted positive case, while a false positive is an incorrectly predicted positive case.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["true_positive", "false_positive"]
+  },
+  {
+    "question": "What is the difference between a true negative and a false negative?",
+    "answer": "A true negative is a correctly predicted negative case, while a false negative is an incorrectly predicted negative case.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["true_negative", "false_negative"]
+  },
+  {
+    "question": "What is the main advantage of using the F1 score?",
+    "answer": "The F1 score balances precision and recall, making it useful when both false positives and false negatives are important.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["f1_score", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using the F1 score?",
+    "answer": "The F1 score does not take true negatives into account, which can be a limitation in some contexts.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["f1_score", "disadvantage"]
+  },
+  {
+    "question": "What is the main use of the ROC curve in model evaluation?",
+    "answer": "The ROC curve helps visualize the trade-off between sensitivity and specificity at different thresholds.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["roc_curve", "tradeoff"]
+  },
+  {
+    "question": "What is the main purpose of the AUC metric?",
+    "answer": "AUC summarizes the overall performance of a classification model across all possible thresholds.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["auc", "summary"]
+  },
+  {
+    "question": "What is the difference between hard and soft classification?",
+    "answer": "Hard classification assigns a single class label, while soft classification outputs probabilities for each class.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["hard_classification", "soft_classification"]
+  },
+  {
+    "question": "What is the main advantage of using cross-validation?",
+    "answer": "Cross-validation provides a more robust estimate of model performance by averaging results over multiple data splits.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["cross_validation", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using cross-validation?",
+    "answer": "Cross-validation can be computationally expensive, especially with large datasets.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["cross_validation", "disadvantage"]
+  },
+  {
+    "question": "What is the main purpose of using a test set?",
+    "answer": "A test set is used to evaluate the final performance of a trained model on unseen data.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["test_set", "evaluation"]
+  },
+  {
+    "question": "What is the main difference between a confusion matrix and a classification report?",
+    "answer": "A confusion matrix shows raw counts of predictions, while a classification report summarizes metrics like precision, recall, and F1 score.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["confusion_matrix", "classification_report"]
+  },
+  {
+    "question": "What is the main purpose of using stratified sampling in classification?",
+    "answer": "Stratified sampling ensures that each class is proportionally represented in training and test sets.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["stratified_sampling", "sampling"]
+  },
+  {
+    "question": "What is the main challenge of evaluating models on imbalanced datasets?",
+    "answer": "Metrics like accuracy can be misleading, so alternative metrics like precision, recall, and F1 score are preferred.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["imbalanced_data", "evaluation"]
+  },
+  {
+    "question": "What is the main purpose of using a baseline model?",
+    "answer": "A baseline model provides a simple reference point to compare the performance of more complex models.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 1,
+    "tags": ["baseline_model", "evaluation"]
+  },
+  {
+    "question": "What is the main advantage of using the Matthews correlation coefficient?",
+    "answer": "MCC provides a balanced measure even when classes are of very different sizes.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["mcc", "advantage"]
+  },
+  {
+    "question": "What is the main disadvantage of using the Matthews correlation coefficient?",
+    "answer": "MCC can be less intuitive to interpret compared to accuracy or F1 score.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["mcc", "disadvantage"]
+  },
+  {
+    "question": "What is the main purpose of using a precision-recall curve?",
+    "answer": "A precision-recall curve helps visualize the trade-off between precision and recall at different thresholds.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["precision_recall_curve", "tradeoff"]
+  },
+  {
+    "question": "What is the main difference between ROC and precision-recall curves?",
+    "answer": "ROC curves are useful for balanced datasets, while precision-recall curves are more informative for imbalanced datasets.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 2,
+    "tags": ["roc_curve", "precision_recall_curve"]
+  },
+  {
+    "question": "What is the main purpose of using a cost matrix in classification?",
+    "answer": "A cost matrix assigns different penalties to different types of errors, helping to optimize model performance for specific applications.",
+    "category": "AI_Data_Analytics-Week13-Classification & Regression Evaluation Metrics",
+    "difficulty": 3,
+    "tags": ["cost_matrix", "classification"]
+  }
+]

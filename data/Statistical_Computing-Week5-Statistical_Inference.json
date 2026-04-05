@@ -1,0 +1,275 @@
+[
+  {
+    "question": "What is statistical inference?",
+    "answer": "Statistical inference is the process of drawing conclusions about a population based on sample data.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["statistical_inference", "statistics"]
+  },
+  {
+    "question": "What is a hypothesis in statistical inference?",
+    "answer": "A hypothesis is a statement about a population parameter that can be tested using statistical methods.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["hypothesis", "statistical_inference"]
+  },
+  {
+    "question": "What is the difference between a null hypothesis and an alternative hypothesis?",
+    "answer": "The null hypothesis states there is no effect or difference; the alternative hypothesis states there is an effect or difference.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["null_hypothesis", "alternative_hypothesis"]
+  },
+  {
+    "question": "What is a test statistic?",
+    "answer": "A test statistic is a standardized value calculated from sample data during a hypothesis test.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["test_statistic", "hypothesis_test"]
+  },
+  {
+    "question": "What is the p-value in statistical inference?",
+    "answer": "The p-value is the probability of obtaining results at least as extreme as the observed results, assuming the null hypothesis is true.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["p_value", "statistical_inference"]
+  },
+  {
+    "question": "What is a significance level (alpha)?",
+    "answer": "The significance level is the probability of rejecting the null hypothesis when it is actually true (Type I error).",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["significance_level", "alpha"]
+  },
+  {
+    "question": "What is a Type I error?",
+    "answer": "A Type I error occurs when the null hypothesis is true but is incorrectly rejected.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["type_i_error", "hypothesis_test"]
+  },
+  {
+    "question": "What is a Type II error?",
+    "answer": "A Type II error occurs when the null hypothesis is false but is not rejected.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["type_ii_error", "hypothesis_test"]
+  },
+  {
+    "question": "What is statistical power?",
+    "answer": "Statistical power is the probability of correctly rejecting the null hypothesis when it is false.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["power", "hypothesis_test"]
+  },
+  {
+    "question": "What is a one-sided hypothesis test?",
+    "answer": "A one-sided test evaluates whether a parameter is either greater than or less than a certain value, but not both.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["one_sided", "hypothesis_test"]
+  },
+  {
+    "question": "What is a two-sided hypothesis test?",
+    "answer": "A two-sided test evaluates whether a parameter is different from a certain value, considering both directions.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["two_sided", "hypothesis_test"]
+  },
+  {
+    "question": "What is the rejection region in hypothesis testing?",
+    "answer": "The rejection region is the set of values for the test statistic that leads to rejection of the null hypothesis.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["rejection_region", "hypothesis_test"]
+  },
+  {
+    "question": "What is the critical value in hypothesis testing?",
+    "answer": "The critical value is the threshold that the test statistic must exceed to reject the null hypothesis.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["critical_value", "hypothesis_test"]
+  },
+  {
+    "question": "What is the difference between parametric and nonparametric inference?",
+    "answer": "Parametric inference assumes a specific form for the population distribution, while nonparametric inference does not.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 3,
+    "tags": ["parametric", "nonparametric"]
+  },
+  {
+    "question": "What is the null distribution?",
+    "answer": "The null distribution is the probability distribution of the test statistic under the null hypothesis.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["null_distribution", "hypothesis_test"]
+  },
+  {
+    "question": "What is the alternative hypothesis?",
+    "answer": "The alternative hypothesis is the statement that there is an effect or difference, contrary to the null hypothesis.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["alternative_hypothesis", "hypothesis_test"]
+  },
+  {
+    "question": "What is the purpose of a hypothesis test?",
+    "answer": "A hypothesis test is used to assess evidence against the null hypothesis and determine if an observed effect is statistically significant.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["hypothesis_test", "significance"]
+  },
+  {
+    "question": "What is the difference between a test statistic and a p-value?",
+    "answer": "A test statistic is calculated from the data; a p-value is the probability of observing a value as extreme or more extreme under the null hypothesis.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["test_statistic", "p_value"]
+  },
+  {
+    "question": "What is the role of the sample size in hypothesis testing?",
+    "answer": "Larger sample sizes generally increase the power of a test and reduce the probability of Type II errors.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["sample_size", "power"]
+  },
+  {
+    "question": "What is the difference between statistical significance and practical significance?",
+    "answer": "Statistical significance means an effect is unlikely due to chance; practical significance means the effect is large enough to be meaningful in context.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["statistical_significance", "practical_significance"]
+  },
+  {
+    "question": "What is a confidence interval in the context of inference?",
+    "answer": "A confidence interval provides a range of plausible values for a population parameter, reflecting uncertainty in estimation.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["confidence_interval", "inference"]
+  },
+  {
+    "question": "What is the relationship between confidence intervals and hypothesis tests?",
+    "answer": "A value outside a confidence interval would be rejected by a two-sided hypothesis test at the corresponding significance level.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["confidence_interval", "hypothesis_test"]
+  },
+  {
+    "question": "What is the difference between a one-sample and a two-sample test?",
+    "answer": "A one-sample test compares a sample to a known value; a two-sample test compares two independent samples.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["one_sample", "two_sample"]
+  },
+  {
+    "question": "What is a paired sample test?",
+    "answer": "A paired sample test compares two related samples, such as measurements before and after a treatment on the same subjects.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["paired_sample", "test"]
+  },
+  {
+    "question": "What is the purpose of a power analysis?",
+    "answer": "Power analysis helps determine the sample size needed to detect an effect of a given size with a desired probability.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["power_analysis", "sample_size"]
+  },
+  {
+    "question": "What is the difference between a parametric and a nonparametric test?",
+    "answer": "Parametric tests assume a specific distribution for the data; nonparametric tests do not.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["parametric", "nonparametric"]
+  },
+  {
+    "question": "What is the null value in hypothesis testing?",
+    "answer": "The null value is the specific value of the parameter assumed under the null hypothesis.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["null_value", "hypothesis_test"]
+  },
+  {
+    "question": "What is the role of assumptions in statistical inference?",
+    "answer": "Assumptions ensure the validity of inference methods; violations can lead to incorrect conclusions.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["assumptions", "inference"]
+  },
+  {
+    "question": "What is the difference between a z-test and a t-test?",
+    "answer": "A z-test is used when the population variance is known; a t-test is used when it is unknown and estimated from the sample.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["z_test", "t_test"]
+  },
+  {
+    "question": "What is the purpose of a p-value in hypothesis testing?",
+    "answer": "The p-value quantifies the evidence against the null hypothesis; a small p-value suggests the null hypothesis is unlikely.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["p_value", "hypothesis_test"]
+  },
+  {
+    "question": "What is the difference between a one-tailed and a two-tailed test?",
+    "answer": "A one-tailed test considers deviations in one direction; a two-tailed test considers deviations in both directions.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["one_tailed", "two_tailed"]
+  },
+  {
+    "question": "What is the effect of increasing the sample size on the power of a test?",
+    "answer": "Increasing the sample size increases the power of a test, making it more likely to detect an effect if one exists.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["sample_size", "power"]
+  },
+  {
+    "question": "What is the effect of decreasing the significance level (alpha) on Type I and Type II errors?",
+    "answer": "Decreasing alpha reduces the probability of a Type I error but increases the probability of a Type II error.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["alpha", "type_i_error", "type_ii_error"]
+  },
+  {
+    "question": "What is the difference between a statistical hypothesis and a scientific hypothesis?",
+    "answer": "A statistical hypothesis is a statement about a population parameter; a scientific hypothesis is a broader explanation of phenomena.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["statistical_hypothesis", "scientific_hypothesis"]
+  },
+  {
+    "question": "What is the main goal of statistical inference?",
+    "answer": "The main goal is to make valid conclusions about populations based on sample data.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 1,
+    "tags": ["goal", "statistical_inference"]
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "answer": "Descriptive statistics summarize data; inferential statistics draw conclusions about populations from samples.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 1,
+    "tags": ["descriptive", "inferential"]
+  },
+  {
+    "question": "What is the purpose of a control group in hypothesis testing?",
+    "answer": "A control group provides a baseline for comparison to assess the effect of a treatment or intervention.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["control_group", "hypothesis_test"]
+  },
+  {
+    "question": "What is the difference between an exact and an approximate test?",
+    "answer": "An exact test calculates the exact probability of observed data; an approximate test uses an approximation, often for large samples.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["exact_test", "approximate_test"]
+  },
+  {
+    "question": "What is the main limitation of statistical inference?",
+    "answer": "Statistical inference relies on assumptions about the data and sampling process; violations can lead to incorrect conclusions.",
+    "category": "Statistical_Computing-Week5-Statistical_Inference",
+    "difficulty": 2,
+    "tags": ["limitations", "assumptions"]
+  }
+]
