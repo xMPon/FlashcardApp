@@ -47,9 +47,6 @@ def print_card(card: Flashcard, show_answer: bool = False):
     print(f"\n{Colors.OKBLUE}{Colors.BOLD}Q: {card.question}{Colors.ENDC}")
     if show_answer:
         print(f"{Colors.OKGREEN}A: {card.answer}{Colors.ENDC}")
-    print(f"{Colors.OKCYAN}Category: {card.category} | Difficulty: {card.difficulty}/5{Colors.ENDC}")
-    if card.tags:
-        print(f"{Colors.OKCYAN}Tags: {', '.join(card.tags)}{Colors.ENDC}")
 
 
 def shuffle_cards(cards: List[Flashcard]) -> List[Flashcard]:

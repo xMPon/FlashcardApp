@@ -72,10 +72,13 @@ class LearnMode(StudySession):
             print_card(card, show_answer=False)
 
             response = get_user_input(
-                "Press ENTER to reveal answer, or (s)kip: ",
-                ['', 's']
+                "Press ENTER to reveal answer, (s)kip, or (e)xit: ",
+                ['', 's', 'e']
             )
 
+            if response.lower() == 'e':
+                print_success("Session exited early. Saving progress...")
+                break
             if response.lower() != 's':
                 print_card(card, show_answer=True)
                 mark = get_user_input(
@@ -117,7 +120,10 @@ class PracticeMode(StudySession):
 
             start = time.time()
             try:
-                input(f"\nPress ENTER when ready to reveal (after {time_per_card}s)")
+                user_input = input(f"\nPress ENTER when ready to reveal (after {time_per_card}s), or type (e)xit: ")
+                if user_input.strip().lower() == 'e':
+                    print_success("Session exited early. Saving progress...")
+                    break
             except KeyboardInterrupt:
                 print("\nSession interrupted!")
                 return
@@ -159,8 +165,11 @@ class QuizMode(StudySession):
             print(f"\n{Colors.BOLD}Card {i}/{len(self.cards)}{Colors.ENDC}")
             print_card(card, show_answer=False)
 
-            user_answer = input(f"{Colors.BOLD}Your answer: {Colors.ENDC}").strip()
+            user_answer = input(f"{Colors.BOLD}Your answer (or type 'e' to exit): {Colors.ENDC}").strip()
 
+            if user_answer.lower() == 'e':
+                print_success("Session exited early. Saving progress...")
+                break
             if not user_answer:
                 print_warning = lambda x: print(f"{Colors.WARNING}⚠ {x}{Colors.ENDC}")
                 print_warning("No answer provided!")
@@ -214,10 +223,13 @@ class SpacedRepetitionMode(StudySession):
             print_card(card, show_answer=False)
 
             response = get_user_input(
-                "Show answer (y/n): ",
-                ['y', 'n']
+                "Show answer (y/n) or (e)xit: ",
+                ['y', 'n', 'e']
             )
 
+            if response.lower() == 'e':
+                print_success("Session exited early. Saving progress...")
+                break
             if response.lower() == 'y':
                 print_card(card, show_answer=True)
 
